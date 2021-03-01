@@ -140,9 +140,10 @@ function cell ( ribosome: g.Ribosome, gene: g.gene, junk:g.junk ): Promise<g.cel
         if (
             gene.model.length !== 2                                             ||
             !(
-                ( gene.model[0] === "dAudio" && gene.model[1] === "rawText"  )  ||
-                ( gene.model[0] === "dVideo" && gene.model[1] === "subtitle" )  ||
-                ( gene.model[0] === "dImage" && gene.model[1] === "rawText"  )
+                ( gene.model[0] === "dAudio"  && gene.model[1] === "rawText"  ) ||
+                ( gene.model[0] === "dVideo"  && gene.model[1] === "subtitle" ) ||
+                ( gene.model[0] === "dImage"  && gene.model[1] === "rawText"  ) ||
+                ( gene.model[0] === "rawText" && gene.model[1] === "rawText"  )
             )
         ) return rx( "Unknown Lesson's Pre-Model" );
 

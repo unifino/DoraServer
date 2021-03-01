@@ -99,8 +99,8 @@ export type OrganelleType =
     | "dImage"
     | "dText"
     | "dAvatar"
-    | "rawText"
     | "subtitle"
+    | "rawText"
     ;
 
 type LessonStatus = 'reading' | 'read';

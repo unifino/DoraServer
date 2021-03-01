@@ -1,7 +1,7 @@
 import * as g                           from '../../types/genetics'
 
 export const ABC: g.snapMargin = [] as any;
-export const MDL: g.OrganelleType[] = [];
+export const MDL: g.OrganelleType[] = [ "rawText", "rawText" ];
 export const DNA: g.gene[] = [
 	{
 		title		: "PSE_1",
