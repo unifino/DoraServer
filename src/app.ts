@@ -19,7 +19,7 @@ app.use( bodyParser.json() );
 app.get( '/beautyBGList', ( req: express.Request, res: express.Response ) => {
 
     // .. report the list
-    res.json( { status: 200, answer: BG.list } )
+    res.json( { status: 200, answer: JSON.stringify( BG.list ) } )
 
 } );
 
