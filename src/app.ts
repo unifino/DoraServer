@@ -51,7 +51,7 @@ app.get( '/ribosome', ( req: express.Request, res: express.Response ) => {
     // .. Process Request by Genetic Department
     const list = genetics._ribosomes( institute as string, email );
     // .. report the list
-    res.json( { status: 200, answer: list } );
+    res.json( { status: 200, answer: JSON.stringify( list ) } );
 
 } );
 
