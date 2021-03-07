@@ -308,13 +308,13 @@ export function _cell_delivery (
                 deliveredToUser( user, ribosomeCode, cellPack.id )
                 // .. then hand over the lesson to the user
                 .then( () => rs( cellPack.cryptoCell ) )
-                .catch( err => rx(err) );
+                .catch( err => rx( "EC07: " + err ) );
 
             } )
-            .catch( err => rx(err) );
+            .catch( err => rx( "EC08: " + err ) );
 
         } )
-        .catch( err => rx( err ) );
+        .catch( err => rx( "EC09: " + err ) );
 
     } );
 
@@ -376,7 +376,7 @@ deliveredToUser ( user: u.user, ribosomeCode: string, id: string ): Promise<void
 // -- ======================================================================================
 
 // export function _charger ( user: u.user, power: number ): Promise<Number> {
-    
+
 //     return new Promise ( async (rs, rx) => {
 
 //         try {
@@ -385,7 +385,7 @@ deliveredToUser ( user: u.user, ribosomeCode: string, id: string ): Promise<void
 //             if ( user.charge > 100 ) user.charge = 100;
 
 //             const client = await pool.connect();
-            
+
 //             let query = `
 //                 UPDATE users SET 
 //                     charge = ${ user.charge } 
@@ -394,12 +394,12 @@ deliveredToUser ( user: u.user, ribosomeCode: string, id: string ): Promise<void
 //             `;
 
 //             const result = await client.query( query );
-            
+
 //             if ( result.rowCount ) rs( user.charge );
 //             else rx( "Unable to Update user!" );
-            
+
 //             client.release();
-        
+
 //         } catch (err) { rx( "EC0??: " + err ) }
 
 //     } );

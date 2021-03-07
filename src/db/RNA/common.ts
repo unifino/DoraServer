@@ -57,7 +57,7 @@ export function a_good_gene_4_user (
     return new Promise ( (rs, rx) => {
 
         user_needs_these( user, DNA ).then( ids => {
-            if ( !ids ) rx( "List has been corrupted!" );
+            if ( ids ) rx( "List has been corrupted!" + ids );
             // .. get first|random|last suitable gene
             let id: number;
             switch ( by ) {
