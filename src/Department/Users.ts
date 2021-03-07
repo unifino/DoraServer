@@ -133,7 +133,7 @@ export function _register ( email: string, CKeyString: string ): Promise<string>
                     if ( user.devices.length < 3 ) {
                         _addDevice( user, verifiedKey )
                         .then( msg => rs( msg ) )
-                        .catch( err => rx( "err" ) );
+                        .catch( err => rx( "EC01: " + err ) );
                     }
                     // .. 3 Device has been Registered already!
                     else return rx( "too many devices!" );
@@ -142,7 +142,7 @@ export function _register ( email: string, CKeyString: string ): Promise<string>
 
         } )
         // .. something odd has been occurred!
-        .catch( err => rx( "err 02" ) );
+        .catch( err => rx( "EC02: " + err ) );
 
     } );
 
@@ -168,7 +168,7 @@ export function _addNewUser ( email: string, key: u.key ): Promise<string> {
             else rx( "Unable to Register!" );
 
         } 
-        catch (err) { rx( "Error " + err ) }
+        catch (err) { rx( "EC05: " + err ) }
 
     } );
 
@@ -196,7 +196,7 @@ export function _addDevice ( user: u.user, newKey: u.key ): Promise<string> {
 
         }
 
-        catch ( err ) { rx( "Error " + err ) }
+        catch ( err ) { rx( "EC06: " + err ) }
 
     } );
 
@@ -400,7 +400,7 @@ deliveredToUser ( user: u.user, ribosomeCode: string, id: string ): Promise<void
             
 //             client.release();
         
-//         } catch (err) { rx( "Error " + err ) }
+//         } catch (err) { rx( "EC0??: " + err ) }
 
 //     } );
 
