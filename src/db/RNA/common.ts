@@ -57,7 +57,7 @@ export function a_good_gene_4_user (
     return new Promise ( (rs, rx) => {
 
         user_needs_these( user, DNA ).then( ids => {
-            if ( ids ) rx( "List has been corrupted!" + ids );
+
             // .. get first|random|last suitable gene
             let id: number;
             switch ( by ) {
@@ -67,6 +67,7 @@ export function a_good_gene_4_user (
             }
             let gene = { id: ids[ id ].toString(), ...DNA[ ids[ id ] ] };
             rs( gene );
+
         } )
         .catch( err => rx( "EC03: " + err ) )
 
@@ -81,6 +82,8 @@ export function user_needs_these ( user: u.user, DNA: g.gene[] ): Promise<number
     return new Promise ( (rs, rx) => {
 
         let list = [];
+
+        rx ( typeof DNA );
 
         // ! do we need this??
         // .. create list
