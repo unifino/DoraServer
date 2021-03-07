@@ -52,7 +52,7 @@ export function DNAxList (): Promise< { id: string, link: string }[] > {
             aCutID      = homePage.indexOf( aCut );
             bCutID      = homePage.lastIndexOf( bCut );
             freshBox    = homePage.substring( aCutID, bCutID + bCut.length ).split( aCut );
-            
+
             // .. archived lessons
             aCut        = '<!-- ContentList Teaser -->';
             bCut        = '<!-- END ContentList Teaser -->';
@@ -60,7 +60,7 @@ export function DNAxList (): Promise< { id: string, link: string }[] > {
             bCutID      = homePage.lastIndexOf( bCut );
             aCut        = '<div class="linkList plain">';
             archiveBox  = homePage.substring( aCutID, bCutID + bCut.length ).split( aCut );
-            
+
             freshBox.shift();
             archiveBox.shift();
 
@@ -80,9 +80,9 @@ export function DNAxList (): Promise< { id: string, link: string }[] > {
             }
 
             return rs( list );
-        
+
         } );
-    
+
     } );
 
 } 
@@ -100,9 +100,9 @@ function title ( str: string ) {
     bCut   = "</h1>";
     aCutID = str.indexOf( aCut ) + aCut.length;
     bCutID = str.indexOf( bCut );
-    
+
     str    = str.substring( aCutID, bCutID );
-    
+
     return str;
 
 }
@@ -110,13 +110,13 @@ function title ( str: string ) {
 // -- =====================================================================================
 
 function text ( str: string ) {
-    
+
     let aCut: string,
         bCut: string,
         aCutID: number,
         bCutID: number,
         tmp: string;
-    
+
     aCutID = str.search( /<div class="dkTaskWrapper tab3" [^>]+>/ );
     bCutID = str.search( /<div class="dkTaskWrapper tab4" [^>]+>/ );
     str    = str.substring( aCutID , bCutID );
@@ -132,7 +132,7 @@ function text ( str: string ) {
     str    = str.replace( /\n+/g , '\n' );
     str    = str.replace( /<br>/g , ' ' );
     str    = str.trim();
-    
+
     while ( true ) {
 
         aCut   = '<a class="bubWrapLink">';
@@ -141,9 +141,9 @@ function text ( str: string ) {
         bCutID = str.indexOf( bCut );
         tmp    = str.substring( aCutID , bCutID );
         str    = str.replace( /<a class="bubWrapLink">(.*?)<\/a>/ , tmp );
-        
+
         if ( !str.includes( '<a class="bubWrapLink">' ) ) break;
-    
+
     }
 
     return str;

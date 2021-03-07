@@ -67,7 +67,7 @@ export function a_good_gene_4_user (
             let gene = { id: ids[ id ].toString(), ...DNA[ ids[ id ] ] };
             rs( gene );
         } )
-        .catch( err => rx(err) )
+        .catch( err => rx("err 03") )
 
     } );
 

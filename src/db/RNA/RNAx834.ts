@@ -27,7 +27,7 @@ export function gene ( user: u.user ): Promise<g.gene> {
             };
 
         } )
-        .catch( err => rx( err ) );
+        .catch( err => rx( "err 04" ) );
 
     } );
 
