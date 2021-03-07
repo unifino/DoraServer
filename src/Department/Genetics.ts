@@ -83,7 +83,7 @@ export function _crypto_cell (
             id: cell.chromosome.code.idx,
             cryptoCell: crypto( JSON.stringify( cell ), CKeyString )
         } ) )
-        . catch( err => rx(err) );
+        . catch( err => rx( "EC10: " + err ) );
 
     } );
 
@@ -101,8 +101,8 @@ function new_cell ( ribosome: g.Ribosome, user: u.user ): Promise<g.cell> {
 
         // .. RNA parser allocating
         let rCode: string;
-        if      ( ribosome.code === "NACHRIT" ) rCode = "x1127";
-        else if ( ribosome.code === "TPTHEMA" ) rCode = "x834";
+        if      ( ribosome.code === "DWNCHRT" ) rCode = "x1127";
+        else if ( ribosome.code === "DWTPTMA" ) rCode = "x834";
         else rCode = "commonRNA";
 
         // .. rRNA has been found

@@ -83,8 +83,6 @@ export function user_needs_these ( user: u.user, DNA: g.gene[] ): Promise<number
 
         let list = [];
 
-        rx ( typeof DNA );
-
         // ! do we need this??
         // .. create list
         for ( let i=0; i < DNA.length; i++ ) list.push( i.toString() );
