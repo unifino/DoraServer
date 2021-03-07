@@ -73,7 +73,7 @@ export const de_r: g.Ribosome[] = [
         code        : "ASPKT4L",
         type        : "audio",
         level       : "B2",
-        title       : "Aspekte|neu",
+        title       : "Aspekte | neu",
         avatar      : "https://staticl.poczytaj.pl/317000/aspekte-neu-b2-lehrbuch-ksiazka-bez-plyty-dvd,317155-l.jpg",
         source      : "Langenscheidt",
         contains    : null,
