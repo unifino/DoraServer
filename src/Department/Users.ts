@@ -133,7 +133,7 @@ export function _register ( email: string, CKeyString: string ): Promise<string>
                     if ( user.devices.length < 3 ) {
                         _addDevice( user, verifiedKey )
                         .then( msg => rs( msg ) )
-                        .catch( err => rx( err ) );
+                        .catch( err => rx( "err" ) );
                     }
                     // .. 3 Device has been Registered already!
                     else return rx( "too many devices!" );
