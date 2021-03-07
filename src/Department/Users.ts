@@ -142,7 +142,7 @@ export function _register ( email: string, CKeyString: string ): Promise<string>
 
         } )
         // .. something odd has been occurred!
-        .catch( err => rx( err ) );
+        .catch( err => rx( "err 02" ) );
 
     } );
 
