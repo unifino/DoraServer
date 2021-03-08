@@ -130,13 +130,13 @@ function text ( str: string ) {
         bCut: string,
         aCutID: number,
         bCutID: number;
-    
+
     aCut   = '<div class="longText">';
     aCutID = str.indexOf( aCut ) + aCut.length;
     bCut   = '<!-- detail_toolbox -->';
     bCutID = str.lastIndexOf( bCut );
     str    = str.substring( aCutID , bCutID );
-    
+
     bCut   = '</div>';
     bCutID = str.indexOf( bCut );
     str    = str.substring( 0, bCutID );

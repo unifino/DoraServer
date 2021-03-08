@@ -57,6 +57,7 @@ export function a_good_gene_4_user (
     return new Promise ( (rs, rx) => {
 
         user_needs_these( user, DNA ).then( ids => {
+
             // .. get first|random|last suitable gene
             let id: number;
             switch ( by ) {
@@ -66,8 +67,9 @@ export function a_good_gene_4_user (
             }
             let gene = { id: ids[ id ].toString(), ...DNA[ ids[ id ] ] };
             rs( gene );
+
         } )
-        .catch( err => rx(err) )
+        .catch( err => rx( "EC03: " + err ) )
 
     } );
 
