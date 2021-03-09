@@ -78,6 +78,17 @@ export const de_r: g.Ribosome[] = [
         source      : "Langenscheidt",
         contains    : null,
         readMode    : "start"
+    },
+    {
+        institute   : "de",
+        code        : "ASPKT4A",
+        type        : "audio",
+        level       : "B2",
+        title       : "Aspekte | neu",
+        avatar      : "https://covers.zlibcdn2.com/covers/books/8d/e1/49/8de1494380baab97bfa0fce913ff35a1.jpg",
+        source      : "Langenscheidt",
+        contains    : null,
+        readMode    : "start"
     }
 
 ]
