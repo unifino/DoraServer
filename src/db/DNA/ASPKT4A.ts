@@ -12,31 +12,31 @@ export const DNA: g.gene[] = [
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
-	// 	"avatarURL"	: "",
+	// 	"avatarURL"	: null,
 	// 	"mediaURL"	: ""
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
-	// 	"avatarURL"	: "",
+	// 	"avatarURL"	: null,
 	// 	"mediaURL"	: ""
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
-	// 	"avatarURL"	: "",
+	// 	"avatarURL"	: null,
 	// 	"mediaURL"	: ""
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
-	// 	"avatarURL"	: "",
+	// 	"avatarURL"	: null,
 	// 	"mediaURL"	: ""
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
-	// 	"avatarURL"	: "",
+	// 	"avatarURL"	: null,
 	// 	"mediaURL"	: ""
 	// },
 
