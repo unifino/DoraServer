@@ -69,6 +69,24 @@ export const DNA: g.gene[] = [
 		"avatarURL"	: null,
 		"mediaURL"	: "https:www.fitored.ir/cdn/ASPKT4L/13-Aspekte2neu_LB_1-13.mp3"
 	},
+	{
+		"title"		: "Modul 4 Aufgabe 4a Dialog 1",
+		"text"		: "Guten Morgen, Herr Büchner.\nGuten Morgen.\nIch habe Ihr Protokoll bekommen. Können wir kurz darüber sprechen?\nJa, sicher.\nGut, ich hätte da noch gerne einige Änderungen.\nDas Protokoll ist einfach zu lang. Ich habe schon mal gestrichen, was nicht so wichtig ist.\nAh ja. Tut mir leid, ich wusste nicht, dass Sie nur die Ergebnisse haben wollten.\nIn unserer Abteilung machen wir immer ein Ergebnisprotokoll, weil keiner viel Zeit zum Lesen hat.\nJa, gut, verstehe.\nAch, und noch eins. Bitte achten Sie auf die Rechtschreibung. Im Protokoll sind einige Fehler. Und zwei Namen waren auch nicht korrekt.\nOh, das ist mir aber peinlich. Das kommt nicht wieder vor.\nOkay, dann erwarte ich das korrigierte Protokoll bis heute Mittag.\nJa, sicher. Kein Problem.",
+		"avatarURL"	: null,
+		"mediaURL"	: "https:www.fitored.ir/cdn/ASPKT4L/16-Aspekte2neu_LB_1-16.mp3"
+	},
+	{
+		"title"		: "Modul 4 Aufgabe 4a Dialog 2",
+		"text"		: "Hallo Marika.\nAch, kommst du auch noch?\nWie? Es ist doch genau vier.\nVier? Wir waren um halb vier verabredet!\nAber, wir …\nNix aber. Es ist immer das Gleiche. Immer muss ich warten. Weißt du, wie ich das finde?\nIch weiß ja, aber …\nSaublöd finde ich das. Keine Verabredung hältst du ein!\nMarika, jetzt halt mal die Luft an …\nWie bitte?\nJa, ich bin manchmal vielleicht unpünktlich, …\nPah, das kann man wohl laut sagen.\n…, aber ich komme auch oft pünktlich.\nHa! Da lachen ja die Hühner.\nWeißt du was? Das blödeste Huhn bist du. Ich gehe.\nAlso, das ist …\nIch schick’ dir dann die Mail, in der wir uns um vier verabredet haben.\nJa, prima, mach das!",
+		"avatarURL"	: null,
+		"mediaURL"	: "https:www.fitored.ir/cdn/ASPKT4L/17-Aspekte2neu_LB_1-17.mp3"
+	},
+	{
+		"title"		: "Modul 4 Aufgabe 4a Dialog 3",
+		"text"		: "Nein, es gibt nicht noch mehr Taschengeld. Und Schluss!\nJa, aber die anderen …\nWas interessieren mich die anderen?\nHey, geht’s schon wieder ums Geld?\nJa klar, jeden Monat das Gleiche.\nAber stimmt doch. Die anderen können sich sogar Klamotten von ihrem Taschengeld kaufen.\nNaja, aber die bezahlen wir ja auch.\nAber ich kann nie alleine entscheiden, wenn ich was kaufen will.\nDas ist auch besser so …\nNa, na … Vorschlag: Wir vereinbaren für die nächsten sechs Monate einen festen Betrag für Kleidung, z. B. 180 Euro.\nDas ist viel zu wenig!\nWarte doch mal! Dann bekommst du jeden Monat 30 Euro extra auf dein Konto. Wenn du dann Klamotten kaufen willst, nimmst du das Geld vom Konto. Wenn nicht, dann sparst du das Geld.\nIch weiß nicht.\nAlso, ich weiß auch nicht, ob das so eine gute Idee ist.\nHast du ’ne bessere? Wir können ja später nochmal drüber reden.\nNa gut …",
+		"avatarURL"	: null,
+		"mediaURL"	: "https:www.fitored.ir/cdn/ASPKT4L/18-Aspekte2neu_LB_1-18.mp3"
+	},
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
@@ -81,5 +99,78 @@ export const DNA: g.gene[] = [
 	// 	"avatarURL"	: null,
 	// 	"mediaURL"	: ""
 	// },
+	// {
+	// 	"title"		: "",
+	// 	"text"		: "",
+	// 	"avatarURL"	: null,
+	// 	"mediaURL"	: ""
+	// },
+	// {
+	// 	"title"		: "",
+	// 	"text"		: "",
+	// 	"avatarURL"	: null,
+	// 	"mediaURL"	: ""
+	// },
+	// {
+	// 	"title"		: "",
+	// 	"text"		: "",
+	// 	"avatarURL"	: null,
+	// 	"mediaURL"	: ""
+	// },
+	// {
+	// 	"title"		: "",
+	// 	"text"		: "",
+	// 	"avatarURL"	: null,
+	// 	"mediaURL"	: ""
+	// },
+	// {
+	// 	"title"		: "",
+	// 	"text"		: "",
+	// 	"avatarURL"	: null,
+	// 	"mediaURL"	: ""
+	// },
+	// {
+	// 	"title"		: "",
+	// 	"text"		: "",
+	// 	"avatarURL"	: null,
+	// 	"mediaURL"	: ""
+	// },
+	// {
+	// 	"title"		: "",
+	// 	"text"		: "",
+	// 	"avatarURL"	: null,
+	// 	"mediaURL"	: ""
+	// },
+	// {
+	// 	"title"		: "",
+	// 	"text"		: "",
+	// 	"avatarURL"	: null,
+	// 	"mediaURL"	: ""
+	// },
+	// {
+	// 	"title"		: "",
+	// 	"text"		: "",
+	// 	"avatarURL"	: null,
+	// 	"mediaURL"	: ""
+	// },
+	// {
+	// 	"title"		: "",
+	// 	"text"		: "",
+	// 	"avatarURL"	: null,
+	// 	"mediaURL"	: ""
+	// },
+	// {
+	// 	"title"		: "",
+	// 	"text"		: "",
+	// 	"avatarURL"	: null,
+	// 	"mediaURL"	: ""
+	// },
+	// {
+	// 	"title"		: "",
+	// 	"text"		: "",
+	// 	"avatarURL"	: null,
+	// 	"mediaURL"	: ""
+	// },
+
 
 ]
