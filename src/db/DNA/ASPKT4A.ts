@@ -9,12 +9,12 @@ export const DNA: g.gene[] = [
 		"avatarURL"	: null,
 		"mediaURL"	: "https:www.fitored.ir/cdn/ASPKT4A/Aspekte2neu_AB_02.mp3"
 	},
-	// {
-	// 	"title"		: "",
-	// 	"text"		: "",
-	// 	"avatarURL"	: null,
-	// 	"mediaURL"	: ""
-	// },
+	{
+		"title"		: "Modul 2 Übung 1b",
+		"text"		: "„Sprachen einfach lernen“ - das ist heute unser Thema. Und dazu habe ich mir einen ganz besonderen Gast eingeladen: Nikolas Stiegl, 22 Jahre alt, Mathematikstudent in Stuttgart. Hallo! Schön, dass du da bist.\n\nHallo.\n\nNun werden sicher einige denken: Was hat ein Mathematikstudent bei einer Sendung zum Thema „Sprachen“ zu suchen? Aber ganz einfach, du sprichst...\n\n... acht Sprachen... , also fließend, und zwei so, dass ich mich ganz gut verständlich machen kann.\n\nSind dann insgesamt zehn. Ein echtes Sprachtalent also. Wie macht man so was?\n\nNaja, sagen wir mal so, ... Meine Basiswar schon nicht ganz schlecht.\n\nWas für eine Basis?\n\nMein Vater ist Deutscher, stammt aber aus Kroatien, meine Mutter ist Spanierin. Die ersten Jahre habe ich auch viel Zeit mit meiner Oma verbracht.\nUnd die ist Französin. Also bin ich schon mit vier Sprachen aufgewachsen und habe sie ohne große Anstrengung gelernt. Ich habe immer in der Sprache gesprochen, die ich mit der Person verbunden habe, die gerade vor mir stand. Also: Mama - Spanisch, Papa - Kroatisch, Oma - Französisch und Freunde, Lehrer, sonstiges Umfeld - Deutsch.\n\nUnd wie ist es dann nach dem Lernen der ersten Sprachen weitergegangen? Bisher habe ich vier Sprachen gezählt.\n\nIn der Schule ist noch Englisch dazugekommen. Aber dann war irgendwann Pause.\n\nWarum das denn?\n\nIch denke, die Schule hat mein Lernen blockiert. Ich kann gut lernen, wenn ich eine Sprache ohne Anleitung oder Regeln selbst ausprobieren kann, wann und wie ich will. Wenn ich spielerisch lernen kann - so wie kleine Kinder -, klappt das super.\nZum Beispiel kann ich gut Reihen mit ähnlichen Lauten bilden: Spaß - Spiel - Sport. Da stecken auch Emotionen drin. Hier zum Beispiel ganz positive. Oder: dunkel - Donner - Drama. Das ist dann eher negativ.\nDas ist ein Spiel mit Wörtern. Aber in der Schule haben wir nicht so gelernt.\n\nWie lernst du noch?\n\nMir muss Lernen Spaß machen. Spielen macht mir Spaß, aber auch Lesen. Deshalb lese ich gerne Comics in einer Fremdsprache oder spannende Geschichten. Dabei merke ich mir die Wörter viel schneller. So hab' ich auch Schwedisch gelernt. Erst hab' ich Wörter gelesen, dann Sätze. Irgendwann konnte ich ein System erkennen.\n\nDu hast Schwedisch nur über das Lesen gelernt?\n\nNein, nicht nur. Das war vor allem der Anfang. Bei einem Schüleraustausch in Schweden ging dann alles ganz leicht weiter. Um eine Sprache flüssig zu beherrschen, ist natürlich auch das Sprechen total wichtig. Sätze baue ich nicht durch gelernte Grammatik, sondern durch Imitation. Ich höre, was die andern sagen und das spreche ich nach.\nBeim Sprechen korrigiere ich mich selbst, wenn ich Fehler mache - so lange, bis es passt. Am Anfang hört sich das immer schrecklich an, aber ich habe keine Angst davor. Und die meisten Leute finden es sogar ganz lustig. Italienisch habe ich so ziem lich schnell gelernt.",
+		"avatarURL"	: null,
+		"mediaURL"	: "https:www.fitored.ir/cdn/ASPKT4A/Aspekte2neu_AB_05.mp3"
+	},
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
