@@ -23,7 +23,7 @@ export const DNA: g.gene[] = [
 	},
 	{
 		"title"		: "Aussprache Übung lc",
-		"text"		: "Zu deinem Friseur? Da gehe ich nie wieder hin! Nie wieder!\n---\nIst das Essen nicht in Ordnung?\nNein, das Essen ist kalt.\n---\nDu siehst heute aber toll aus! Fantastisch!\n---\nFür die Firma ist es entscheidend, den Auftrag zu bekommen.",
+		"text"		: "Zu deinem Friseur? Da gehe ich nie wieder hin! Nie wieder!\n⚓\nIst das Essen nicht in Ordnung?\nNein, das Essen ist kalt.\n⚓\nDu siehst heute aber toll aus! Fantastisch!\n⚓\nFür die Firma ist es entscheidend, den Auftrag zu bekommen.",
 		"avatarURL"	: null,
 		"mediaURL"	: "https:www.fitored.ir/cdn/ASPKT4A/Aspekte2neu_AB_10.mp3"
 	},
