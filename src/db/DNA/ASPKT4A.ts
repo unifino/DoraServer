@@ -15,18 +15,18 @@ export const DNA: g.gene[] = [
 		"avatarURL"	: null,
 		"mediaURL"	: "https:www.fitored.ir/cdn/ASPKT4A/Aspekte2neu_AB_05.mp3"
 	},
-	// {
-	// 	"title"		: "",
-	// 	"text"		: "",
-	// 	"avatarURL"	: null,
-	// 	"mediaURL"	: ""
-	// },
-	// {
-	// 	"title"		: "",
-	// 	"text"		: "",
-	// 	"avatarURL"	: null,
-	// 	"mediaURL"	: ""
-	// },
+	{
+		"title"		: "Aussprache: mit Nachdruck sprechen",
+		"text"		: "Hallo, mein Schatz. Wie war dein Tag?\nHallo. Ja ... war ganz gut. Und bei euch?\nDu musst gleich noch mit unserem Vermieter sprechen.\nWas gibt es denn zu essen?\nHörst du mir zu? Du musst mit ihm sprechen.\nWas ist denn los?\nDer benimmt sich unmöglich.\nWie?\nUnmöglich! Der meckert nur rum!\nls' ja gut ...\nEs gibt jetzt richtig Ärger wegen unserer Grillparty.\nAha ...\nJa, wegen der Party! Sprich mit ihm .\nJa,gleich ...",
+		"avatarURL"	: null,
+		"mediaURL"	: "https:www.fitored.ir/cdn/ASPKT4A/Aspekte2neu_AB_09.mp3"
+	},
+	{
+		"title"		: "Aussprache Übung lc",
+		"text"		: "Zu deinem Friseur? Da gehe ich nie wieder hin! Nie wieder!\n---\nIst das Essen nicht in Ordnung?\nNein, das Essen ist kalt.\n---\nDu siehst heute aber toll aus! Fantastisch!\n---\nFür die Firma ist es entscheidend, den Auftrag zu bekommen.",
+		"avatarURL"	: null,
+		"mediaURL"	: "https:www.fitored.ir/cdn/ASPKT4A/Aspekte2neu_AB_10.mp3"
+	},
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
