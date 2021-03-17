@@ -59,7 +59,7 @@ export const DNA: g.gene[] = [
 	},
 	{
 		"title"		: "Smalltalk",
-		"text"		: "Na, auch auf der Party?\nDumme Frage. Wär’ ich sonst hier?\nOh … geht das schon wieder los?\nWas ist denn mit Ihnen? Haben Sie was Ansteckendes?\nNein, aber wenn Sie meine Rückenschmerzen hätten, hätten Sie sich längst krankschreiben lassen.\nGanz sicher nicht, ich würde halt mal zu einem Spezialisten gehen.\nNa, Sie müssen ja Geld haben.\nNa, auch grade nass geworden?\nNö, bin mit dem Taxi gekommen.\nHalt, Schluss damit! Das ist doch nicht zum Aushalten!\nSo funktioniert Smalltalk natürlich nicht. Smalltalk ist doch ein besonderer Gesprächstyp! Es werden zwar nur unbedeutende, allgemeine Themen angesprochen, aber dennoch braucht man ein bestimmtes Maß an Harmonie, eine positive Einstellung dazu.\nSchließlich geht es dabei um ein gegenseitiges „Beschnuppern“, um das Aufnehmen eines Kontaktes zwischen zwei oder mehreren Menschen.\nFrau Dr. Witter, Sie sind Linguistin an der Freien Universität Berlin und erforschen seit Jahren den Smalltalk. Danke, dass Sie heute zu uns ins Studio gekommen sind.\nGerne, danke für die Einladung.\nFrau Dr. Witter, was sind Ihre Erfahrungen mit Smalltalk?\nEgal, ob im Flugzeug, im Wartezimmer beim Arzt, auf einer Party, in Fahrstühlen, auf Empfängen oder einfach in der Kneipe nebenan – jeder neue Kontakt beginnt mit einem Smalltalk. Und neue Kontakte sind für jeden Menschen – nicht nur im Geschäftsleben – die Basis für den eigenen Erfolg. Bei jeder Kurzplauderei bauen wir unser eigenes Netzwerk aus.\nAber bei Weitem nicht alle Menschen lieben diese Art des Gesprächseinstiegs …\nStimmt. Es ist schon verwunderlich, dass viele Menschen beim Stichwort „Smalltalk“ die Augen verdrehen. Viele empfinden es nämlich als peinlich, so belanglos und oberflächlich zu reden. Sie lehnen es ab, ein vermeintlich nichtssagendes Gespräch zu beginnen. Smalltalk ist für sie einfach leeres Geschwätz.\nDabei muss es das gar nicht sein. Es kommt immer auf die Wahl des Themas und die Geschicklichkeit des Sprechers an. Vielen Menschen fehlt es oft an beidem.\nAber was, wenn man nun zu den Menschen gehört, die nicht gerade als Redetalent auf die Welt gekommen sind? Können Sie da ein paar Tipps geben?\nEs ist für jeden Anfänger in Sachen Smalltalk entscheidend, es sich selbst nicht zu schwer zu machen. Wenn Sie z. B. mit dem Anspruch „Ich muss unbedingt etwas Witziges sagen“ in ein Gespräch gehen, wird es schnell verkrampft. Setzen Sie sich selbst nicht unter Druck. Sie sollen ja keinen Smalltalk-Preis gewinnen, sondern einfach nur ein lockeres Gespräch führen.\nUnd noch ein Punkt: Bevor Sie angestrengt versuchen, ein Thema zu finden, reden Sie einfach über etwas Offensichtliches. Wählen Sie ein naheliegendes Thema, das sich Ihnen sozusagen wie von selbst an- bietet. Je länger Sie überlegen müssen, was das für ein Thema sein könnte, desto weiter gehen Sie weg von einer einfachen Lösung. Am besten reden Sie darüber, was Ihnen ohne Anstrengung einfällt.\n„Das Wetter!“, werden jetzt viele sagen. Das Wetter ist immer ein gutes Thema, oder?\nJa, warum nicht über das Wetter reden? Jeder tut es, jeden interessiert es und jeder kann mitreden. Auch wenn sich viele gerne über das Wetter als Gesprächs- thema lustig machen … dieser Tipp ist durchaus ernst gemeint. Über das Wetter zu reden, ist eine sichere Nummer – vor allem, wenn einem einfach nichts Besseres einfällt.\nAber mit allen, die man trifft, über das Wetter reden? Da muss es doch noch mehr Themen geben …\nDer beste Anknüpfungspunkt für lockere Gespräche ist natürlich immer Ihr Gesprächspartner. Sie müssen tatsächlich nicht viel mehr tun, als sich für den anderen zu interessieren, und schon finden Sie Gesprächsthemen im Überfluss. Fragen Sie z. B. nach der beruflichen Tätigkeit Ihres Gegenübers, besonders dann, wenn Sie von dem, was der andere tut, wenig oder keine Ahnung haben. Die meisten Menschen genießen es, wenn sich jemand mal wirklich dafür interessiert, was sie jeden Tag tun.\nDazu gehört übrigens auch das Thema „Hobbys“. Wenn Sie das Hobby Ihres Gesprächspartners interessiert, dann lassen Sie es sich erklären. Dabei ergibt sich eigentlich immer ausreichend Gesprächsstoff.\nMenschen, die eine Leidenschaft haben, lieben es, davon zu sprechen. Und das kann – wenn wir uns öffnen – wirklich interessant sein! Man soll gar nicht glauben, wie spannend etwas sein kann, von dem man vorher gar nichts wusste; vor allem dann, wenn der Gesprächspartner mit Begeisterung davon berichtet. Probieren Sie es einfach einmal aus. Smalltalk ist nicht schwer.\nJa, liebe Zuhörerinnen und Zuhörer, probieren Sie es aus und berichten Sie uns von Ihren Erfahrungen in unserem Forum unter www.radio…",
+		"text"		: "Na, auch auf der Party?\nDumme Frage. Wär’ ich sonst hier?\nOh … geht das schon wieder los?\nWas ist denn mit Ihnen? Haben Sie was Ansteckendes?\nNein, aber wenn Sie meine Rückenschmerzen hätten, hätten Sie sich längst krankschreiben lassen.\nGanz sicher nicht, ich würde halt mal zu einem Spezialisten gehen.\nNa, Sie müssen ja Geld haben.\nNa, auch grade nass geworden?\nNö, bin mit dem Taxi gekommen.\nHalt, Schluss damit! Das ist doch nicht zum Aushalten!\nSo funktioniert Smalltalk natürlich nicht. Smalltalk ist doch ein besonderer Gesprächstyp! Es werden zwar nur unbedeutende, allgemeine Themen angesprochen, aber dennoch braucht man ein bestimmtes Maß an Harmonie, eine positive Einstellung dazu.\nSchließlich geht es dabei um ein gegenseitiges „Beschnuppern“, um das Aufnehmen eines Kontaktes zwischen zwei oder mehreren Menschen.\nFrau Dr. Witter, Sie sind Linguistin an der Freien Universität Berlin und erforschen seit Jahren den Smalltalk. Danke, dass Sie heute zu uns ins Studio gekommen sind.\nGerne, danke für die Einladung.\nFrau Dr. Witter, was sind Ihre Erfahrungen mit Smalltalk?\nEgal, ob im Flugzeug, im Wartezimmer beim Arzt, auf einer Party, in Fahrstühlen, auf Empfängen oder einfach in der Kneipe nebenan – jeder neue Kontakt beginnt mit einem Smalltalk. Und neue Kontakte sind für jeden Menschen – nicht nur im Geschäftsleben – die Basis für den eigenen Erfolg. Bei jeder Kurzplauderei bauen wir unser eigenes Netzwerk aus.\nAber bei Weitem nicht alle Menschen lieben diese Art des Gesprächseinstiegs …\nStimmt. Es ist schon verwunderlich, dass viele Menschen beim Stichwort „Smalltalk“ die Augen verdrehen. Viele empfinden es nämlich als peinlich, so belanglos und oberflächlich zu reden. Sie lehnen es ab, ein vermeintlich nichtssagendes Gespräch zu beginnen. Smalltalk ist für sie einfach leeres Geschwätz.\nDabei muss es das gar nicht sein. Es kommt immer auf die Wahl des Themas und die Geschicklichkeit des Sprechers an. Vielen Menschen fehlt es oft an beidem.\nAber was, wenn man nun zu den Menschen gehört, die nicht gerade als Redetalent auf die Welt gekommen sind? Können Sie da ein paar Tipps geben?\nEs ist für jeden Anfänger in Sachen Smalltalk entscheidend, es sich selbst nicht zu schwer zu machen. Wenn Sie z. B. mit dem Anspruch „Ich muss unbedingt etwas Witziges sagen“ in ein Gespräch gehen, wird es schnell verkrampft. Setzen Sie sich selbst nicht unter Druck. Sie sollen ja keinen Smalltalk-Preis gewinnen, sondern einfach nur ein lockeres Gespräch führen.\nUnd noch ein Punkt: Bevor Sie angestrengt versuchen, ein Thema zu finden, reden Sie einfach über etwas Offensichtliches. Wählen Sie ein naheliegendes Thema, das sich Ihnen sozusagen wie von selbst anbietet. Je länger Sie überlegen müssen, was das für ein Thema sein könnte, desto weiter gehen Sie weg von einer einfachen Lösung. Am besten reden Sie darüber, was Ihnen ohne Anstrengung einfällt.\n„Das Wetter!“, werden jetzt viele sagen. Das Wetter ist immer ein gutes Thema, oder?\nJa, warum nicht über das Wetter reden? Jeder tut es, jeden interessiert es und jeder kann mitreden. Auch wenn sich viele gerne über das Wetter als Gesprächsthema lustig machen … dieser Tipp ist durchaus ernst gemeint. Über das Wetter zu reden, ist eine sichere Nummer – vor allem, wenn einem einfach nichts Besseres einfällt.\nAber mit allen, die man trifft, über das Wetter reden? Da muss es doch noch mehr Themen geben …\nDer beste Anknüpfungspunkt für lockere Gespräche ist natürlich immer Ihr Gesprächspartner. Sie müssen tatsächlich nicht viel mehr tun, als sich für den anderen zu interessieren, und schon finden Sie Gesprächsthemen im Überfluss. Fragen Sie z. B. nach der beruflichen Tätigkeit Ihres Gegenübers, besonders dann, wenn Sie von dem, was der andere tut, wenig oder keine Ahnung haben. Die meisten Menschen genießen es, wenn sich jemand mal wirklich dafür interessiert, was sie jeden Tag tun.\nDazu gehört übrigens auch das Thema „Hobbys“. Wenn Sie das Hobby Ihres Gesprächspartners interessiert, dann lassen Sie es sich erklären. Dabei ergibt sich eigentlich immer ausreichend Gesprächsstoff.\nMenschen, die eine Leidenschaft haben, lieben es, davon zu sprechen. Und das kann – wenn wir uns öffnen – wirklich interessant sein! Man soll gar nicht glauben, wie spannend etwas sein kann, von dem man vorher gar nichts wusste; vor allem dann, wenn der Gesprächspartner mit Begeisterung davon berichtet. Probieren Sie es einfach einmal aus. Smalltalk ist nicht schwer.\nJa, liebe Zuhörerinnen und Zuhörer, probieren Sie es aus und berichten Sie uns von Ihren Erfahrungen in unserem Forum unter www.radio…",
 		"avatarURL"	: null,
 		"mediaURL"	: "https:www.fitored.ir/cdn/ASPKT4L/11-Aspekte2neu_LB_1-11.mp3"
 	},
@@ -93,54 +93,54 @@ export const DNA: g.gene[] = [
 		"avatarURL"	: null,
 		"mediaURL"	: "https:www.fitored.ir/cdn/ASPKT4L/605024_Film2.mp3"
 	},
-	// {
-	// 	"title"		: "",
-	// 	"text"		: "",
-	// 	"avatarURL"	: null,
-	// 	"mediaURL"	: ""
-	// },
-	// {
-	// 	"title"		: "",
-	// 	"text"		: "",
-	// 	"avatarURL"	: null,
-	// 	"mediaURL"	: ""
-	// },
-	// {
-	// 	"title"		: "",
-	// 	"text"		: "",
-	// 	"avatarURL"	: null,
-	// 	"mediaURL"	: ""
-	// },
-	// {
-	// 	"title"		: "",
-	// 	"text"		: "",
-	// 	"avatarURL"	: null,
-	// 	"mediaURL"	: ""
-	// },
-	// {
-	// 	"title"		: "",
-	// 	"text"		: "",
-	// 	"avatarURL"	: null,
-	// 	"mediaURL"	: ""
-	// },
-	// {
-	// 	"title"		: "",
-	// 	"text"		: "",
-	// 	"avatarURL"	: null,
-	// 	"mediaURL"	: ""
-	// },
-	// {
-	// 	"title"		: "",
-	// 	"text"		: "",
-	// 	"avatarURL"	: null,
-	// 	"mediaURL"	: ""
-	// },
-	// {
-	// 	"title"		: "",
-	// 	"text"		: "",
-	// 	"avatarURL"	: null,
-	// 	"mediaURL"	: ""
-	// },
+	{
+		"title"		: "Modul 1 Aufgabe 1 A",
+		"text"		: "Tja, also, während der Vorlesungszeit schaff’ ich es einfach nicht, auch noch nebenher zu arbeiten, deshalb jobbe ich immer in den Semesterferien. Meine Uni hat eine Webseite, auf der alle möglichen Studentenjobs angeboten werden. In den letzten Ferien hab’ ich immer in einem Reisebüro ausgeholfen. Diesen Sommer mache ich allerdings ein Praktikum in der Marketingabteilung eines Verlags. Bei dem Praktikum verdiene ich zwar nichts, aber ich sammle wichtige Berufserfahrung. Gefunden habe ich das Praktikum im Internet, über eine Praktikumsbörse.",
+		"avatarURL"	: null,
+		"mediaURL"	: "https:www.fitored.ir/cdn/ASPKT4L/19-Aspekte2neu_LB_1-19.mp3"
+	},
+	{
+		"title"		: "Modul 1 Aufgabe 1 B",
+		"text"		: "Nun, ich habe lange als Bauzeichner in einem kleinen Architekturbüro gearbeitet, das aber leider vor drei Jahren schließen musste. Danach war ich dann eine Weile arbeitslos und hab’ viele Bewerbungen geschrieben. Aber irgendwie hat nichts geklappt. Ich habe weder über Stellenanzeigen in der Zeitung noch über Internetportale eine neue Stelle gefunden. Je mehr Absagen ich bekam, desto frustrierter wurde ich natürlich. Deshalb bin ich dann zu einer Agentur für Zeitarbeit gegangen und die haben mich gleich direkt für ein halbes Jahr in eine Firma vermittelt. Danach hatte ich noch mehrere kürzere Einsätze in verschiedenen Firmen und dann hatte ich Riesenglück: Ein Ingenieurbüro hat mich nach dem Ende des Zeitvertrags fest angestellt!",
+		"avatarURL"	: null,
+		"mediaURL"	: "https:www.fitored.ir/cdn/ASPKT4L/20-Aspekte2neu_LB_1-20.mp3"
+	},
+	{
+		"title"		: "Modul 1 Aufgabe 1 C",
+		"text"		: "Meine Ausbildung als Bürokauffrau habe ich in einem Import-Export-Betrieb gemacht und dort habe ich dann auch nach der Ausbildung einige Jahre gearbeitet. Ich mag meinen Beruf echt gerne, aber nach ein paar Jahren fand ich es dort zu langweilig. Ich hab’ angefangen, regelmäßig Stellenanzeigen im Internet zu lesen. Dort gibt es ja zahlreiche Portale, auf denen man Stellen suchen kann. Ab und zu waren wirklich interessante Angebote für mich dabei. Bei der dritten Bewerbung hat’s dann auch gleich geklappt. Inzwischen arbeite ich bei einem privaten Fernsehsender. Jetzt habe ich nicht nur nette Kollegen, sondern auch abwechslungsreichere Aufgaben.",
+		"avatarURL"	: null,
+		"mediaURL"	: "https:www.fitored.ir/cdn/ASPKT4L/21-Aspekte2neu_LB_1-21.mp3"
+	},
+	{
+		"title"		: "Modul 1 Aufgabe 1 D",
+		"text"		: "Also, ich hab’ jahrelang in einer Schneiderei gearbeitet. Seit ich denken kann, habe ich aber davon geträumt, mich als Schneiderin selbstständig zu machen. Na ja, und jetzt besitze ich einen Laden und verkaufe meine eigenen Sachen. Meine Produkte kann man auch über das Internet bestellen.\nJa, was kann ich noch sagen? Die Selbstständigkeit ist zwar nicht immer einfach, aber auf jeden Fall spannend.\nMeine Tätigkeiten sind jetzt vielfältiger. Ich muss mich sowohl um das Design als auch um die Produktion kümmern. Auch die Finanzierung und Werbung sind wichtig. Das ist manchmal schon sehr anstrengend, aber ich bin meine eigene Chefin. Das gefällt mir.",
+		"avatarURL"	: null,
+		"mediaURL"	: "https:www.fitored.ir/cdn/ASPKT4L/22-Aspekte2neu_LB_1-22.mp3"
+	},
+	{
+		"title"		: "Modul 1 Aufgabe 1 E",
+		"text"		: "Ich hab’ schon immer gern gekocht und hab’ dann nach der Schule eine Lehre als Koch gemacht. Leider war ziemlich schnell klar, dass der Betrieb mich nicht übernehmen kann. Dann hat mir ein Freund erzählt, dass er gehört hat, dass in der Kantine seiner Firma ein Koch gesucht wird. Na, und da hab ich gleich dort angerufen und prompt die Stelle bekommen – noch bevor sie offiziell ausgeschrieben wurde. Das war echt super! Mir gefällt die Arbeit dort gut, aber in ein paar Jahren möchte ich schon gerne in einem richtig schönen Restaurant arbeiten.",
+		"avatarURL"	: null,
+		"mediaURL"	: "https:www.fitored.ir/cdn/ASPKT4L/23-Aspekte2neu_LB_1-23.mp3"
+	},
+	{
+		"title"		: "Modul 1 Aufgabe 1 F",
+		"text"		: "Ja, also mich haben eigentlich Computer und alles, was damit zusammenhängt, schon immer interessiert.\nDeshalb hab’ ich auch Informatik studiert. Meine alte Firma wurde leider vor einem Jahr aufgekauft und ich wurde entlassen. Ich bin dann gleich zur Agentur für Arbeit gegangen. Dort hab’ ich mich beraten lassen und wurde regelmäßig über Stellenangebote informiert.\nNa ja, und so hab’ ich zum Glück dann relativ schnell eine neue Stelle gefunden.",
+		"avatarURL"	: null,
+		"mediaURL"	: "https:www.fitored.ir/cdn/ASPKT4L/24-Aspekte2neu_LB_1-24.mp3"
+	},
+	{
+		"title"		: "Modul 1 Aufgabe 1 G",
+		"text"		: "Hm, na ja, ich habe vier Jahre Grafik an der FH studiert und schon während des Studiums drei Praktika gemacht. Und nach dem Studium ging das grade so weiter.\nAlso, der Ausdruck „Generation Praktikum“ ist schon berechtigt. Und manchmal ist es echt hart, denn als Praktikant geht man meistens ohne einen Cent nach Hause. Aber was bleibt einem anderes übrig? Entweder kämpft man sich durch die Praktikumszeit oder man findet wahrscheinlich nie eine Stelle. Tja, und es hat dann tatsächlich doch geklappt. Mein letztes Praktikum habe ich bei einer Zeitschrift gemacht und die haben mir dann endlich einen Vertrag angeboten.",
+		"avatarURL"	: null,
+		"mediaURL"	: "https:www.fitored.ir/cdn/ASPKT4L/25-Aspekte2neu_LB_1-25.mp3"
+	},
+	{
+		"title"		: "Modul 1 Aufgabe 1 H",
+		"text"		: "Hm, das war so: Ich war schon während meines Jurastudiums ziemlich aktiv in einem großen Karrierenetzwerk online und hab’ da unheimlich viele Kontakte geknüpft. So konnte ich auch wirklich wichtige berufliche Kontakte herstellen. Das war nach meinem Abschluss Gold wert, denn tatsächlich habe ich über diese Kontakte meine erste Stelle in einer großen Rechtsanwaltskanzlei bekommen. Dort war ich dann ungefähr zwei Jahre. Einerseits hat mir der Job gut gefallen, andererseits brauche ich immer neue Herausforderungen. Deshalb bin ich dann als Jurist zu einer großen Firma gewechselt, wo ich wieder was ganz Neues gelernt habe. Diese Stelle habe ich in einem großen Stellenportal im Internet entdeckt.",
+		"avatarURL"	: null,
+		"mediaURL"	: "https:www.fitored.ir/cdn/ASPKT4L/26-Aspekte2neu_LB_1-26.mp3"
+	},
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
