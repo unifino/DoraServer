@@ -52,19 +52,17 @@ function heuteIst () {
 	
     date = new Date();
 
-    let YYYY = date.getFullYear().toString();
-    let YY   = YYYY.substr(2,2);
-    let MM   = monthNames[ date.getMonth() ];
-    let DD   = date.getDate().toString();
-    let mm   = date.getMonth() +1;
-DD = "16" ;
+    let YYYY  = date.getFullYear().toString();
+    let Month = monthNames[ date.getMonth() ];
+    let MM    = date.getMonth() +1;
+    let DD    = date.getDate().toString();
 
-    code = DD + '.' + ( mm < 10 ?  "0" + mm : mm ) + '.' + YYYY;
+    code = DD + '.' + ( MM < 10 ?  "0" + MM : MM ) + '.' + YYYY;
 
     let heute = {
         code: code,
-        name: DD + " " + MM + " " + YYYY,
-        hPath: [ YYYY, MM ],
+        name: DD + " " + Month + " " + YYYY,
+        hPath: [ YYYY, Month ],
     };
 
     return heute;
