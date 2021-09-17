@@ -57,6 +57,7 @@ function heuteIst () {
     let MM   = monthNames[ date.getMonth() ];
     let DD   = date.getDate().toString();
     let mm   = date.getMonth() +1;
+DD = "16" ;
 
     code = DD + '.' + ( mm < 10 ?  "0" + mm : mm ) + '.' + YYYY;
 
