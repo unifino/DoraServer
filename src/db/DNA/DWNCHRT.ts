@@ -31,7 +31,7 @@ export function DNA_maker (): Promise<g.gene[]> {
                     } )
                 } );
             }
-            else rx (  heute.code );
+            else rx ( heute.code );
         } );
 
     } );
@@ -58,7 +58,9 @@ function heuteIst () {
     let DD   = date.getDate().toString();
 
     date  = new Date();
-    code = 16 + '.' + ( date.getMonth() +1 ) + '.' + YYYY;
+    let mm: string|number = date.getMonth() +1;
+    if ( mm < 10 ) mm = "0" + mm;
+    code = DD + '.' + mm + '.' + YYYY;
 
     let heute = {
         code: code,
