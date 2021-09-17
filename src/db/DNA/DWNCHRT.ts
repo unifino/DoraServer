@@ -31,7 +31,7 @@ export function DNA_maker (): Promise<g.gene[]> {
                     } )
                 } );
             }
-            else rx ( "No News: " + heute.name );
+            else rx ( "No News: " + heute.name + " hatef " );
         } );
 
     } );
