@@ -4,17 +4,17 @@ import { get }                          from 'https';
 
 export function _ ( link: string ): Promise<string> {
 
-    return new Promise ( (rs, rx) => { 
-        
+    return new Promise ( (rs, rx) => {
+
         get( link, res => {
-    
+
             let html = "";
 
             // TODO Get STATUS CODE
             res.setEncoding('utf8');
             res.on( 'data', chunk => html += chunk )
             res.on( "end", () => rs( html ) );
-        
+
         } );
 
     } )
@@ -24,7 +24,7 @@ export function _ ( link: string ): Promise<string> {
 // -- =====================================================================================
 
 export function avatar ( str: string ) {
-    
+
     let aCut: string,
         bCut: string,
         aCutID: number,
@@ -40,8 +40,8 @@ export function avatar ( str: string ) {
             str    = str.substring( 0 , bCutID );
             str    = str.replace( '_304.' , '_302.' );
             return str;
-        } 
-    
+        }
+
         // .. Second Attempt
         aCut = 'input type="hidden" name="preview_image" value="';
         bCut   = '">';
@@ -53,7 +53,7 @@ export function avatar ( str: string ) {
             str    = str.replace( '_401.' , '_302.' );
             return str;
         }
-        
+
         // .. no Result
         return null;
 
