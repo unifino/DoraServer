@@ -11,7 +11,7 @@ export const MDL: g.OrganelleType[] = [ "dAudio", "rawText" ];
 export function DNA_maker (): Promise<g.gene[]> {
 
     return new Promise ( (rs, rx) => { 
-        
+
         let heute = heuteIst();
         let homeURL = "https://www.dw.com/de/deutsch-lernen/nachrichten/s-8030";
 
