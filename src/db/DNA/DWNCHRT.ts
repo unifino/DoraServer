@@ -56,11 +56,9 @@ function heuteIst () {
     let YY   = YYYY.substr(2,2);
     let MM   = monthNames[ date.getMonth() ];
     let DD   = date.getDate().toString();
+    let mm   = date.getMonth() +1;
 
-    date  = new Date();
-    let mm: string|number = date.getMonth() +1;
-    if ( mm < 10 ) mm = "0" + mm;
-    code = DD + '.' + mm + '.' + YYYY;
+    code = DD + '.' + ( mm < 10 ?  "0" + mm : mm ) + '.' + YYYY;
 
     let heute = {
         code: code,
