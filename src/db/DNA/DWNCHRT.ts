@@ -31,7 +31,7 @@ export function DNA_maker (): Promise<g.gene[]> {
                     } )
                 } );
             }
-            else rx ( "No News: " + heute.name + " hatef " );
+            else rx ( heute.code + " " + heute.name );
         } );
 
     } );
@@ -67,7 +67,7 @@ function heuteIst () {
     };
 
     return heute;
-    
+
 }
 
 // -- =====================================================================================
