@@ -166,7 +166,7 @@ app.post( '/ram', ( req: express.Request, res: express.Response ) => {
     const CKeyString = req.body.k as string;
     const data = req.body.d as string;
 
-    res.json( { status: 200, answer: data.length } )
+    res.json( { status: 200, answer: "data.length" } )
     // // .. Process Request by Users Department
     // userActions._userPurchasedItems( email, CKeyString )
     // // .. everything is good
