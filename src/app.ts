@@ -161,6 +161,24 @@ app.post( '/x_cell', ( req: express.Request, res: express.Response ) => {
 
 // -- ========================================================== RAM : read | write =======
 
+app.post( '/getRamStatus', ( req: express.Request, res: express.Response ) => {
+
+    // .. requests | assign requests from POST
+    const email = req.body.e as string;
+    const CKeyString = req.body.k as string;
+
+    res.json( { status: 200, answer: 0 } );
+    // // .. Process Request by Users Department
+    // userActions._userPurchasedItems( email, CKeyString )
+    // // .. everything is good
+    // .then( msg => res.json( { status: 200, answer: msg } ) )
+    // // .. report error
+    // .catch( err => res.json( { status: 500, reason: err + "" } ) );
+
+} );
+
+// -- ========================================================== RAM : read | write =======
+
 app.post( '/ram', ( req: express.Request, res: express.Response ) => {
 
     // .. requests | assign requests from POST
