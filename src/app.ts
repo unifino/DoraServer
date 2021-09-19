@@ -13,6 +13,8 @@ const app = express();
 
 app.use( bodyParser.urlencoded( { extended: false } ) );
 app.use( bodyParser.json() );
+app.use( express.json( { limit: '50mb' } ) );
+app.use( express.urlencoded ({ limit: '50mb', extended: true, parameterLimit: 50000 } ) );
 
 // -- ============================================================ List of BeautyBGs =======
 
@@ -166,7 +168,7 @@ app.post( '/ram', ( req: express.Request, res: express.Response ) => {
     const CKeyString = req.body.k as string;
     const data = req.body.d as string;
 
-    res.json( { status: 200, answer: "data.length" } )
+    res.json( { status: 200, answer: data.length } )
     // // .. Process Request by Users Department
     // userActions._userPurchasedItems( email, CKeyString )
     // // .. everything is good
