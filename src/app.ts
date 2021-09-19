@@ -105,7 +105,6 @@ app.get( '/register', async ( req: express.Request, res: express.Response ) => {
 
 } );
 
-
 // -- =================================== Providing Ribosomes filtered by Institute =======
 
 app.post( '/purchasedItems', ( req: express.Request, res: express.Response ) => {
@@ -155,6 +154,25 @@ app.post( '/x_cell', ( req: express.Request, res: express.Response ) => {
     .then( x_cell => res.json( { status: 200, answer: x_cell } ) )
     // .. report error
     .catch( err => res.json( { status: 500, reason: err + "" } ) );
+
+} );
+
+// -- ========================================================== RAM : read | write =======
+
+app.post( '/ram', ( req: express.Request, res: express.Response ) => {
+
+    // .. requests | assign requests from POST
+    const email = req.body.e as string;
+    const CKeyString = req.body.k as string;
+    const data = req.body.d as string;
+
+    res.json( { status: 200, answer: data.length } )
+    // // .. Process Request by Users Department
+    // userActions._userPurchasedItems( email, CKeyString )
+    // // .. everything is good
+    // .then( msg => res.json( { status: 200, answer: msg } ) )
+    // // .. report error
+    // .catch( err => res.json( { status: 500, reason: err + "" } ) );
 
 } );
 
