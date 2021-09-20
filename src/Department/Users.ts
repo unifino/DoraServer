@@ -412,8 +412,8 @@ deliveredToUser ( user: u.user, ribosomeCode: string, id: string ): Promise<void
 export function _ramAction (
     email: string,
     CKeyString: string,
-    action: u.RamActions,
-    z_data: string
+    action: u.RamActions|"check",
+    z_data?: string
 ): Promise<string> {
 
     return new Promise ( (rs, rx) => {
@@ -422,7 +422,9 @@ export function _ramAction (
         validator( email, CKeyString )
         .then( async user => {
 
-            if ( action === "upload" )
+            if ( action === "check" ) rs ( user.ram );
+
+            else if ( action === "upload" )
                 ram_write( user, z_data ).then( () => rs( null ) ).catch( e => rx(e) );
 
             else if ( action === "download" ) {
