@@ -455,7 +455,7 @@ function ram_write ( user: u.user, z_data: string ): Promise<string> {
 
             const result: Result = await client.query( qry );
 
-            if ( result.rowCount ) rs ( "ram loaded successfully!" );
+            if ( result.rowCount ) rs ( "Ram loaded successfully!" );
             else rx( "Unable to upload on RAM!" );
 
         }
