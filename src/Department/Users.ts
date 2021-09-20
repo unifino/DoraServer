@@ -284,11 +284,11 @@ export function _battery_status ( email: string ): Promise<Number> {
 
 // -- ======================================================================================
 
-export function _cell_delivery ( 
-    email: string, 
+export function _cell_delivery (
+    email: string,
     CKeyString: string,
     ribosomeCode: string,
-    alreadyGotFromThisRibosome: string[] 
+    alreadyGotFromThisRibosome: string[]
 ): Promise<String> {
 
     return new Promise ( async (rs, rx) => {
@@ -322,7 +322,7 @@ export function _cell_delivery (
 
 // -- ======================================================================================
 
-export function 
+export function
 deliveredToUser ( user: u.user, ribosomeCode: string, id: string ): Promise<void> {
 
     return new Promise ( async (rs, rx) => {
@@ -405,3 +405,31 @@ deliveredToUser ( user: u.user, ribosomeCode: string, id: string ): Promise<void
 //     } );
 
 // }
+
+
+// -- ======================================================================================
+
+export function _ramAction (
+    email: string,
+    CKeyString: string,
+    action: u.RamActions,
+    data: string
+): Promise<string> {
+
+    return new Promise ( (rs, rx) => {
+
+        // .. validating User
+        validator( email, CKeyString )
+        .then( user => {
+            if ( action === "download" ) {
+                rs( crypto( user.ram, CKeyString ) );
+            }
+            else rs ( action );
+        } )
+        .catch( err => rx( err ) );
+
+    } );
+
+}
+
+// -- ======================================================================================

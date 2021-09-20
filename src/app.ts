@@ -2,6 +2,7 @@ import * as express                     from "express"
 import * as BG                          from "./Department/BG";
 import * as genetics                    from "./Department/Genetics"
 import * as userActions                 from "./Department/Users";
+import * as u                           from './types/user'
 let bodyParser = require('body-parser');
 
 // -- ========================================================================= INIT =======
@@ -184,15 +185,15 @@ app.post( '/ram', ( req: express.Request, res: express.Response ) => {
     // .. requests | assign requests from POST
     const email = req.body.e as string;
     const CKeyString = req.body.k as string;
-    const data = req.body.d as string;
+    const z_data = req.body.d as string;
+    const action = req.body.a as u.RamActions;
 
-    res.json( { status: 200, answer: data.length } )
-    // // .. Process Request by Users Department
-    // userActions._userPurchasedItems( email, CKeyString )
-    // // .. everything is good
-    // .then( msg => res.json( { status: 200, answer: msg } ) )
-    // // .. report error
-    // .catch( err => res.json( { status: 500, reason: err + "" } ) );
+    // .. Process Request by Users Department
+    userActions._ramAction( email, CKeyString, action, z_data )
+    // .. everything is good
+    .then( msg => res.json( { status: 200, answer: msg } ) )
+    // .. report error
+    .catch( err => res.json( { status: 500, reason: err + "" } ) );
 
 } );
 
