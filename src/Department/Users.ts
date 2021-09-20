@@ -413,7 +413,7 @@ export function _ramAction (
     email: string,
     CKeyString: string,
     action: u.RamActions,
-    data: string
+    z_data: string
 ): Promise<string> {
 
     return new Promise ( (rs, rx) => {
@@ -424,10 +424,7 @@ export function _ramAction (
             if ( action === "download" ) {
                 rs( crypto( user.ram, CKeyString ) );
             }
-            else if ( action === "upload" ) {
-
-                rs ( "uploaded" );
-            }
+            else if ( action === "upload" ) ram_write( user, z_data );
             else rs ( action );
         } )
         .catch( err => rx( err ) );
@@ -437,3 +434,28 @@ export function _ramAction (
 }
 
 // -- ======================================================================================
+
+function ram_write ( user: u.user, z_data: string ) {
+
+    return new Promise ( async (rs, rx) => {
+
+        try {
+
+            user.ram = z_data;
+
+            let qry = `UPDATE users SET ram = '${ user.ram }'
+                WHERE id = '${ user.id }'
+                RETURNING *;`;
+
+            const result: Result = await client.query( qry );
+
+            if ( result.rowCount ) rs ( "uploaded" );
+            else rx( "Unable to upload on RAM!" );
+
+        }
+
+        catch ( err ) { rx( "EC10: " + err ) }
+
+    } );
+
+}
