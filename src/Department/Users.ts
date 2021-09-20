@@ -420,11 +420,11 @@ export function _ramAction (
 
         // .. validating User
         validator( email, CKeyString )
-        .then( user => {
+        .then( async user => {
             if ( action === "download" ) {
                 rs( crypto( user.ram, CKeyString ) );
             }
-            else if ( action === "upload" ) ram_write( user, z_data );
+            else if ( action === "upload" ) await ram_write( user, z_data );
             else rs ( action );
         } )
         .catch( err => rx( err ) );
