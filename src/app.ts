@@ -3,17 +3,17 @@ import * as BG                          from "./Department/BG";
 import * as genetics                    from "./Department/Genetics"
 import * as userActions                 from "./Department/Users";
 import * as u                           from './types/user'
-let bodyParser = require('body-parser');
 
 // -- ========================================================================= INIT =======
 
 const PORT = process.env.PORT || 5000;
 const app = express();
+let bodyParser = require( 'body-parser' );
 
 // -- ======================================================================== SETUP =======
 
-app.use(bodyParser.json());
-app.use(bodyParser({limit: '5mb'}));
+app.use(bodyParser.json({ limit: '50mb' }));
+app.use(bodyParser.urlencoded({ limit: '50mb', extended: true, parameterLimit: 50000 }));
 
 // -- ============================================================ List of BeautyBGs =======
 
