@@ -431,7 +431,7 @@ export function _ramAction (
                 // .. purge data
                 ram_write( user, "" )
                 // .. return previous data
-                .then( () => rs( crypto( user.ram, CKeyString ) ) )
+                .then( () => rs( user.ram ) )
                 .catch( e => rx(e) );
             }
 
