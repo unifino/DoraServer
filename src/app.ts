@@ -13,8 +13,7 @@ const app = express();
 // -- ======================================================================== SETUP =======
 
 app.use( express.json() );
-app.use(bodyParser.json());
-app.use(bodyParser({limit: '5mb'}));
+app.use(bodyParser.json({limit: '1mb'}));
 
 // -- ============================================================ List of BeautyBGs =======
 
