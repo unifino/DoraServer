@@ -424,6 +424,10 @@ export function _ramAction (
             if ( action === "download" ) {
                 rs( crypto( user.ram, CKeyString ) );
             }
+            else if ( action === "upload" ) {
+
+                rs ( "uploaded" );
+            }
             else rs ( action );
         } )
         .catch( err => rx( err ) );
