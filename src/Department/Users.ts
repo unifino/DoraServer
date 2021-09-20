@@ -423,7 +423,7 @@ export function _ramAction (
         .then( async user => {
 
             if ( action === "upload" )
-                ram_write( user, z_data ).then( i => rs(i) ).catch( e => rx(e) );
+                ram_write( user, z_data ).then( () => rs( null ) ).catch( e => rx(e) );
 
             else if ( action === "download" ) {
                 // .. purge data
