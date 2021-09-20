@@ -424,7 +424,7 @@ export function _ramAction (
 
             if ( action === "upload" ) 
                 ram_write( user, z_data )
-                .then( answer => rs( "answer" ) )
+                .then( answer => rs( answer ) )
                 .catch( e => rx(e) );
 
             else if ( action === "download" )
@@ -441,7 +441,7 @@ export function _ramAction (
 
 // -- ======================================================================================
 
-function ram_write ( user: u.user, z_data: string ) {
+function ram_write ( user: u.user, z_data: string ): Promise<string> {
 
     return new Promise ( async (rs, rx) => {
 
