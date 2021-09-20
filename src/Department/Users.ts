@@ -422,7 +422,8 @@ export function _ramAction (
         validator( email, CKeyString )
         .then( async user => {
 
-            if ( action === "upload" ) return await ram_write( user, z_data );
+            if ( action === "upload" ) 
+                ram_write( user, z_data ).then( answer => rs( "answer" ) ).catch( x => rx( x ));
 
             else if ( action === "download" )
                 rs( crypto( user.ram, CKeyString ) );
