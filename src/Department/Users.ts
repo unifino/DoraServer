@@ -422,13 +422,16 @@ export function _ramAction (
         validator( email, CKeyString )
         .then( async user => {
 
-            if ( action === "upload" ) 
-                ram_write( user, z_data )
-                .then( answer => rs( answer ) )
-                .catch( e => rx(e) );
+            if ( action === "upload" )
+                ram_write( user, z_data ).then( i => rs(i) ).catch( e => rx(e) );
 
-            else if ( action === "download" )
-                rs( crypto( user.ram, CKeyString ) );
+            else if ( action === "download" ) {
+                // .. purge data
+                ram_write( user, "" )
+                // .. return previous data
+                .then( () => rs( crypto( user.ram, CKeyString ) ) )
+                .catch( e => rx(e) );
+            }
 
             else rs ( action );
 
@@ -447,9 +450,7 @@ function ram_write ( user: u.user, z_data: string ): Promise<string> {
 
         try {
 
-            user.ram = z_data;
-
-            let qry = `UPDATE users SET ram = '${ user.ram }'
+            let qry = `UPDATE users SET ram = '${ z_data }'
                 WHERE id = '${ user.id }'
                 RETURNING *;`;
 
