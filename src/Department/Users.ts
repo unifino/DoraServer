@@ -435,7 +435,7 @@ export function _ramAction (
                 .catch( e => rx(e) );
             }
 
-            else rs ( action );
+            else rx ( "Unknown Action" );
 
         } )
         .catch( err => rx( err ) );
