@@ -422,7 +422,7 @@ export function _ramAction (
         validator( email, CKeyString )
         .then( async user => {
 
-            if ( action === "check" ) rs ( user.ram );
+            if ( action === "check" ) rs ( user.ram ? "full" : "" );
 
             else if ( action === "upload" )
                 ram_write( user, z_data ).then( () => rs( null ) ).catch( e => rx(e) );
