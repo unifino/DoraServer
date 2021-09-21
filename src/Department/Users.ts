@@ -435,6 +435,14 @@ export function _ramAction (
                 .catch( e => rx(e) );
             }
 
+            else if ( action === "purge" ) {
+                // .. purge data
+                ram_write( user, "" )
+                // .. return no data
+                .then( () => rs( "" ) )
+                .catch( e => rx(e) );
+            }
+
             else rx ( "Unknown Action" );
 
         } )
