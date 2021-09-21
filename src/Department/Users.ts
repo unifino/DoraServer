@@ -422,11 +422,14 @@ export function _ramAction (
         validator( email, CKeyString )
         .then( async user => {
 
+            // .. check ram status
             if ( action === "check" ) rs ( user.ram ? "full" : "" );
 
+            // .. write data on ram
             else if ( action === "upload" )
                 ram_write( user, z_data ).then( () => rs( null ) ).catch( e => rx(e) );
 
+            // .. read data from ram
             else if ( action === "download" ) {
                 // .. purge data
                 ram_write( user, "" )
@@ -435,6 +438,7 @@ export function _ramAction (
                 .catch( e => rx(e) );
             }
 
+            // .. clean the ram
             else if ( action === "purge" ) {
                 // .. purge data
                 ram_write( user, "" )
@@ -443,6 +447,7 @@ export function _ramAction (
                 .catch( e => rx(e) );
             }
 
+            // .. Error on command
             else rx ( "Unknown Action" );
 
         } )
