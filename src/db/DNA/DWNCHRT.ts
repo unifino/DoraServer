@@ -101,7 +101,7 @@ function newsPage ( str: string , heute: string ) {
     if ( !str ) {
 
         str    = tmp;
-        
+
         aCut   = 'class="basicteaser__anchor basicteaser__anchor--S"';
         aCutID = str.indexOf( aCut );
         str    = str.substring( aCutID );
@@ -142,6 +142,7 @@ function text ( str: string ) {
     str    = str.replace( /&nbsp;/g , ' ' );
     str    = str.replace( /&amp;/g , '&' );
     str    = str.replace( /<p>/g , '' );
+    str    = str.replace( /<br>/g , '' );
     str    = str.replace( /<\/p>/g , '' );
     str    = str.replace( /<strong>/g , '\n\n' );
     str    = str.replace( /<\/strong>/g , '\n' );
