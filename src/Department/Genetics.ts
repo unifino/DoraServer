@@ -39,8 +39,8 @@ export function _ribosomes ( institute: string, email: string ): g.Ribosome[] {
         email === "taherikamran@yahoo.com"
     ) list = list.filter( x => ( x.code === "EATGOUT" ) );
     // .. My Student
-    if ( email === "unifino@protonmail.com" ) 
-        list = list.filter( x => ( x.code === "DWNICO1" ) );
+    if ( email === "student@gmail.com" )
+        list = list.filter( x => ( x.code === "DWNICO1" || x.code === "DWNIC1E" ) );
     else
 
     // .. filter private lessons
