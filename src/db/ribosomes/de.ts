@@ -107,7 +107,7 @@ export const de_r: g.Ribosome[] = [
         type        : "video",
         level       : "A1",
         title       : "Nico's Weg | A1",
-        avatar      : "https://learngerman.dw.com/i/rwd/bg-dw-desktop.jpg",
+        avatar      : "https://static.dw.com/image/37307244_509.jpg",
         source      : "dw.com",
         contains    : 72,
         readMode    : "start"
