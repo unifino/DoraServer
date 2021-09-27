@@ -100,6 +100,17 @@ export const de_r: g.Ribosome[] = [
         source      : "dw.com",
         contains    : null,
         readMode    : "start"
+    },
+    {
+        institute   : "de",
+        code        : "DWNICO1",
+        type        : "video",
+        level       : "A1",
+        title       : "Nico's Weg | A1",
+        avatar      : "https://learngerman.dw.com/i/rwd/bg-dw-desktop.jpg",
+        source      : "dw.com",
+        contains    : 72,
+        readMode    : "start"
     }
 
 ]
