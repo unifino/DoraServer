@@ -114,7 +114,7 @@ export const de_r: g.Ribosome[] = [
     },
     {
         institute   : "de",
-        code        : "DWDIALLT",
+        code        : "DWDALLT",
         type        : "audio",
         level       : "C1",
         title       : "Deutsche im Alltag",
