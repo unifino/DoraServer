@@ -22,6 +22,7 @@ const RNA: {
 } = { 
     x1127,
     x834,
+    x835,
     commonRNA
 }
 
