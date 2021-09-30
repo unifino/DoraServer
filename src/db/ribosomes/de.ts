@@ -111,6 +111,17 @@ export const de_r: g.Ribosome[] = [
         source      : "dw.com",
         contains    : 72,
         readMode    : "start"
-    }
+    },
+    {
+        institute   : "de",
+        code        : "DWDIALLT",
+        type        : "audio",
+        level       : "C1",
+        title       : "Deutsche     im Alltag",
+        avatar      : "https://static.dw.com/image/15707574_6.jpg",
+        source      : "dw.com",
+        contains    : "∞",
+        readMode    : "end"
+    },
 
 ]
