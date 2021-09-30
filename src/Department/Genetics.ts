@@ -1,6 +1,7 @@
 import * as x1127                       from "../db/RNA/RNAx1127";
 import * as x834                        from "../db/RNA/RNAx834";
 import * as x835                        from "../db/RNA/RNAx835";
+import * as x836                        from "../db/RNA/RNAx836";
 import * as commonRNA                   from "../db/RNA/common";
 import * as g                           from '../types/genetics'
 import * as u                           from "../types/user";
@@ -23,6 +24,7 @@ const RNA: {
     x1127,
     x834,
     x835,
+    x836,
     commonRNA
 }
 
@@ -110,6 +112,7 @@ function new_cell ( ribosome: g.Ribosome, user: u.user ): Promise<g.cell> {
         if      ( ribosome.code === "DWNCHRT" ) rCode = "x1127";
         else if ( ribosome.code === "DWTPTMA" ) rCode = "x834";
         else if ( ribosome.code === "DWDALLT" ) rCode = "x835";
+        else if ( ribosome.code === "DWSCBAR" ) rCode = "x836";
         else rCode = "commonRNA";
 
         // .. rRNA has been found

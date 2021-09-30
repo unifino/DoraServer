@@ -123,5 +123,16 @@ export const de_r: g.Ribosome[] = [
         contains    : "∞",
         readMode    : "end"
     },
+    {
+        institute   : "de",
+        code        : "DWSCBAR",
+        type        : "audio",
+        level       : "C1",
+        title       : "Sprachbar",
+        avatar      : "https://static.dw.com/image/16211752_6.jpg",
+        source      : "dw.com",
+        contains    : "∞",
+        readMode    : "end"
+    },
 
 ]
