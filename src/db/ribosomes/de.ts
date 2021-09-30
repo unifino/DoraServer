@@ -106,7 +106,7 @@ export const de_r: g.Ribosome[] = [
         code        : "DWNICO1",
         type        : "video",
         level       : "A1",
-        title       : "Nico's Weg | A1",
+        title       : "Nico's Weg",
         avatar      : "https://static.dw.com/image/37307244_509.jpg",
         source      : "dw.com",
         contains    : 72,
