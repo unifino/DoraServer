@@ -107,7 +107,7 @@ function new_cell ( ribosome: g.Ribosome, user: u.user ): Promise<g.cell> {
         let rCode: string;
         if      ( ribosome.code === "DWNCHRT" ) rCode = "x1127";
         else if ( ribosome.code === "DWTPTMA" ) rCode = "x834";
-        else if ( ribosome.code === "DWDALLT" ) rCode = "x834";
+        else if ( ribosome.code === "DWDALLT" ) rCode = "x835";
         else rCode = "commonRNA";
 
         // .. rRNA has been found
