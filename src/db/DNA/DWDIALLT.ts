@@ -13,7 +13,7 @@ export function DNA_maker ( id: string, link: string ): Promise<g.gene[]> {
     return new Promise ( (rs, rx) => {
 
         _( link ).then( themaPage => {
-            _( audio_page( themaPage ) ).then( audioPage => {
+            _( audio_page( themaPage ) ).then( audioPage => { 
                 rs ( [ { 
                     id          : id,
                     title       : title( themaPage ),
@@ -34,7 +34,7 @@ export function DNAxList (): Promise< { id: string, link: string }[] > {
 
     return new Promise ( (rs, rx) => {
 
-        let homeURL = "https://www.dw.com/de/deutsch-lernen/top-thema/s-8031";
+        let homeURL = "https://www.dw.com/de/deutsch-lernen/alltagsdeutsch/s-9214";
 
         _( homeURL ).then( homePage => {
 
