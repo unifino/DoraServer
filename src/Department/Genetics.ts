@@ -87,7 +87,7 @@ export function _crypto_cell (
             id: cell.chromosome.code.idx,
             cryptoCell: crypto( JSON.stringify( cell ), CKeyString )
         } ) )
-        . catch( err => rx( "EC10: " + err ) );
+        . catch( err => rx( "EC11: " + err ) );
 
     } );
 
