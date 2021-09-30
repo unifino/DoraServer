@@ -5,13 +5,13 @@ import {
     DNA_maker,
     ABC,
     MDL
-}                                       from "../DNA/DWDALLT";
+}                                       from "../DNA/DWSCBAR";
 
 // -- =====================================================================================
 
 export function gene ( user: u.user ): Promise<g.gene> {
 
-    return new Promise ( (rs, rx) => { 
+    return new Promise ( (rs, rx) => {
 
         DNAxList().then( list => {
 
@@ -37,7 +37,7 @@ export function gene ( user: u.user ): Promise<g.gene> {
 
 export function junk ( ribosome: g.Ribosome ): Promise<g.junk> {
 
-    return new Promise ( (rs, rx) => { 
+    return new Promise ( (rs, rx) => {
 
         let junk: g.junk;
 
