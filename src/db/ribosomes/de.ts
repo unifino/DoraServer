@@ -57,39 +57,39 @@ export const de_r: g.Ribosome[] = [
     //     contains    : null,
     //     readMode    : "start"
     // },
-    {
-        institute   : "de",
-        code        : "RUTHWRB",
-        type        : "video",
-        level       : "B1",
-        title       : "Werbeparodien",
-        avatar      : "https://ruthe.de/medien_bilder/logo_werbeparodien.jpg",
-        source      : "ruthe.de",
-        contains    : null,
-        readMode    : "start"
-    },
-    {
-        institute   : "de",
-        code        : "ASPKT4L",
-        type        : "audio",
-        level       : "B2",
-        title       : "Aspekte | neu",
-        avatar      : "https://staticl.poczytaj.pl/317000/aspekte-neu-b2-lehrbuch-ksiazka-bez-plyty-dvd,317155-l.jpg",
-        source      : "Langenscheidt",
-        contains    : null,
-        readMode    : "start"
-    },
-    {
-        institute   : "de",
-        code        : "ASPKT4A",
-        type        : "audio",
-        level       : "B2",
-        title       : "Aspekte | neu",
-        avatar      : "https://covers.zlibcdn2.com/covers/books/8d/e1/49/8de1494380baab97bfa0fce913ff35a1.jpg",
-        source      : "Langenscheidt",
-        contains    : null,
-        readMode    : "start"
-    },
+    // {
+    //     institute   : "de",
+    //     code        : "RUTHWRB",
+    //     type        : "video",
+    //     level       : "B1",
+    //     title       : "Werbeparodien",
+    //     avatar      : "https://ruthe.de/medien_bilder/logo_werbeparodien.jpg",
+    //     source      : "ruthe.de",
+    //     contains    : null,
+    //     readMode    : "start"
+    // },
+    // {
+    //     institute   : "de",
+    //     code        : "ASPKT4L",
+    //     type        : "audio",
+    //     level       : "B2",
+    //     title       : "Aspekte | neu",
+    //     avatar      : "https://staticl.poczytaj.pl/317000/aspekte-neu-b2-lehrbuch-ksiazka-bez-plyty-dvd,317155-l.jpg",
+    //     source      : "Langenscheidt",
+    //     contains    : null,
+    //     readMode    : "start"
+    // },
+    // {
+    //     institute   : "de",
+    //     code        : "ASPKT4A",
+    //     type        : "audio",
+    //     level       : "B2",
+    //     title       : "Aspekte | neu",
+    //     avatar      : "https://covers.zlibcdn2.com/covers/books/8d/e1/49/8de1494380baab97bfa0fce913ff35a1.jpg",
+    //     source      : "Langenscheidt",
+    //     contains    : null,
+    //     readMode    : "start"
+    // },
     {
         institute   : "de",
         code        : "DWMKPLZ",
