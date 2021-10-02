@@ -129,7 +129,7 @@ export const de_r: g.Ribosome[] = [
         type        : "audio",
         level       : "C1",
         title       : "Sprachbar",
-        avatar      : "https://static.dw.com/image/16211752_6.jpg",
+        avatar      : "https://cdn.pixabay.com/photo/2017/08/06/01/44/books-2587563_960_720.jpg",
         source      : "dw.com",
         contains    : "∞",
         readMode    : "end"
