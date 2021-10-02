@@ -101,24 +101,24 @@ export const de_r: g.Ribosome[] = [
         contains    : null,
         readMode    : "start"
     },
-    {
-        institute   : "de",
-        code        : "DWNICO1",
-        type        : "video",
-        level       : "A1",
-        title       : "Nico's Weg",
-        avatar      : "https://static.dw.com/image/37307244_509.jpg",
-        source      : "dw.com",
-        contains    : 72,
-        readMode    : "start"
-    },
+    // {
+    //     institute   : "de",
+    //     code        : "DWNICO1",
+    //     type        : "video",
+    //     level       : "A1",
+    //     title       : "Nico's Weg",
+    //     avatar      : "https://static.dw.com/image/37307244_509.jpg",
+    //     source      : "dw.com",
+    //     contains    : 72,
+    //     readMode    : "start"
+    // },
     {
         institute   : "de",
         code        : "DWDALLT",
         type        : "audio",
         level       : "C1",
         title       : "Deutsche im Alltag",
-        avatar      : "https://static.dw.com/image/18556625_6.jpg",
+        avatar      : "https://cdn.pixabay.com/photo/2020/04/28/18/33/key-5105878_960_720.jpg",
         source      : "dw.com",
         contains    : "∞",
         readMode    : "end"
