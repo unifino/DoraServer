@@ -1,17 +1,17 @@
 import * as g                           from '../../types/genetics'
 
 export const en_r: g.Ribosome[] = [
-    {
-        institute   : "en",
-        code        : "CMSTRIP",
-        type        : "comic",
-		level       : "B1",
-		title       : "Commit Strip for Developers",
-        avatar      : "https://prashantsani.com/spider/content/images/size/w2000/2017/04/commitStrip-Rise-of-the-coders-English-Hardcover.jpg",
-        source      : "commitstrip.com",
-        contains    : "∞",
-        readMode    : "start"
-    },
+    // {
+    //     institute   : "en",
+    //     code        : "CMSTRIP",
+    //     type        : "comic",
+	// 	level       : "B1",
+	// 	title       : "Commit Strip for Developers",
+    //     avatar      : "https://prashantsani.com/spider/content/images/size/w2000/2017/04/commitStrip-Rise-of-the-coders-English-Hardcover.jpg",
+    //     source      : "commitstrip.com",
+    //     contains    : "∞",
+    //     readMode    : "start"
+    // },
     {
         institute   : "en",
         code        : "BBCSHSP",

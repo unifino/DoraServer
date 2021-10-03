@@ -105,7 +105,7 @@ export type Organelle = {
                                                      
 }
 
-export type LessonType = 'audio'|'video'|'mixed';
+export type LessonType = 'audio'|'video'|'mixed'|"plain";
 export type OrganelleType = 
       "dAudio"
     | "dVideo"
