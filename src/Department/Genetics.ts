@@ -242,26 +242,18 @@ function packingM2 ( gene: g.gene ) {
 function modelIsUnacceptable( gene: g.gene|g.hypGene ) {
 
     // .. check geneModels based on 1 Organs
-    if ( gene.model.length === 1 ) {
-        if ( gene.model[0] !== "hypText" ) return false;
-        // .. it meets our requests
-        else return true;
-    }
+    if ( gene.model.length === 1 && gene.model[0] === "hypText" ) return true;
 
     // .. check geneModels based on 2 Organs
     else if ( gene.model.length === 2 ) {
         // .. acceptable models based on 2 Organs
         if (
-            !(
-                ( gene.model[0] === "dAudio"  && gene.model[1] === "rawText"  ) ||
-                ( gene.model[0] === "dVideo"  && gene.model[1] === "subtitle" ) ||
-                ( gene.model[0] === "dImage"  && gene.model[1] === "rawText"  ) ||
-                ( gene.model[0] === "rawText" && gene.model[1] === "rawText"  )
-            )
+            ( gene.model[0] === "dAudio"  && gene.model[1] === "rawText"  ) ||
+            ( gene.model[0] === "dVideo"  && gene.model[1] === "subtitle" ) ||
+            ( gene.model[0] === "dImage"  && gene.model[1] === "rawText"  ) ||
+            ( gene.model[0] === "rawText" && gene.model[1] === "rawText"  )
         )
-            return false;
-        // .. it meets our requests
-        else return true;
+            return true;
     }
 
     // .. other models are not acceptable
