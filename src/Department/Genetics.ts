@@ -156,7 +156,7 @@ function cell (
     return new Promise ( (rs, rx) => {
 
         // .. check the model structure
-        if ( modelIsUnacceptable( gene ) ) return rx( "Unknown Lesson's Pre-Model" );
+        if ( modelIsAcceptable( gene ) ) return rx( "Unknown Lesson's Pre-Model" );
 
         let organelles: g.Organelle[];
 
@@ -239,7 +239,7 @@ function packingM2 ( gene: g.gene ) {
 
 // -- =====================================================================================
 
-function modelIsUnacceptable( gene: g.gene|g.hypGene ) {
+function modelIsAcceptable( gene: g.gene|g.hypGene ) {
 
     // .. check geneModels based on 1 Organs
     if ( gene.model.length === 1 && gene.model[0] === "hypText" ) return true;
