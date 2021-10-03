@@ -40,6 +40,7 @@ export type snapMargin = [ [0, number], [-1, number] ];
 
 export interface hypGene {
     id?             : string                        ,
+    model?          : [ "hypText" ]                 ,
     title           : string                        ,
                                                      
     avatarURL       : string                        ,

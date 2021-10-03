@@ -147,38 +147,23 @@ function get_a_new_cell ( ribosome: g.Ribosome, user: u.user ): Promise<g.cell> 
 
 // -- =====================================================================================
 
-function cell ( ribosome: g.Ribosome, gene: g.gene, junk:g.junk ): Promise<g.cell> {
+function cell (
+    ribosome: g.Ribosome,
+    gene: g.gene|g.hypGene,
+    junk:g.junk
+): Promise<g.cell> {
 
     return new Promise ( (rs, rx) => {
 
-        // .. check acceptable pre-models
-        if (
-            gene.model.length !== 2                                             ||
-            !(
-                ( gene.model[0] === "dAudio"  && gene.model[1] === "rawText"  ) ||
-                ( gene.model[0] === "dVideo"  && gene.model[1] === "subtitle" ) ||
-                ( gene.model[0] === "dImage"  && gene.model[1] === "rawText"  ) ||
-                ( gene.model[0] === "rawText" && gene.model[1] === "rawText"  )
-            )
-        ) return rx( "Unknown Lesson's Pre-Model" );
+        // .. check the model structure
+        if ( modelIsUnacceptable( gene ) ) return rx( "Unknown Lesson's Pre-Model" );
 
-        // .. pack organelles
-        let organelles: g.Organelle[] = [
-            {                                    
-                type        : gene.model[0]     ,
-                sourceURL   : gene.mediaURL     ,
-                copyRight   : !!gene.media_C    ,
-                isYouTube   : !!gene.isYouTube  ,
-            },{                                  
-                type        : gene.model[1]     ,
-                text        : gene.text         ,
-                initSnaps   : gene.initSnaps    ,
-            },{                                  
-                type        : "dAvatar"         ,
-                sourceURL   : gene.avatarURL    ,
-                copyRight   : !!gene.avatar_C   ,
-            }                                    
-        ];
+        let organelles: g.Organelle[];
+
+        // .. packing on base 2
+        if ( gene.model.length === 1 ) organelles = packingM1( gene as g.hypGene );
+        // .. packing on base 2
+        if ( gene.model.length === 2 ) organelles = packingM2( gene as g.gene );
 
         rs ( {
 
@@ -202,6 +187,85 @@ function cell ( ribosome: g.Ribosome, gene: g.gene, junk:g.junk ): Promise<g.cel
         } );
 
     } );
+
+}
+
+// -- =====================================================================================
+
+function packingM1 ( gene: g.hypGene ) {
+
+    // .. pack organelles
+    let organelles: g.Organelle[] = [
+        {                                  
+            type        : "hypText"         ,
+            content     : gene.hyperText    ,
+        },{                                  
+            type        : "dAvatar"         ,
+            sourceURL   : gene.avatarURL    ,
+            copyRight   : !!gene.avatar_C   ,
+        }                                    
+    ];
+
+    return organelles;
+
+}
+
+
+// -- =====================================================================================
+
+function packingM2 ( gene: g.gene ) {
+
+    // .. pack organelles
+    let organelles: g.Organelle[] = [
+        {                                    
+            type        : gene.model[0]     ,
+            sourceURL   : gene.mediaURL     ,
+            copyRight   : !!gene.media_C    ,
+            isYouTube   : !!gene.isYouTube  ,
+        },{                                  
+            type        : gene.model[1]     ,
+            text        : gene.text         ,
+            initSnaps   : gene.initSnaps    ,
+        },{                                  
+            type        : "dAvatar"         ,
+            sourceURL   : gene.avatarURL    ,
+            copyRight   : !!gene.avatar_C   ,
+        }                                    
+    ];
+
+    return organelles;
+
+}
+
+// -- =====================================================================================
+
+function modelIsUnacceptable( gene: g.gene|g.hypGene ) {
+
+    // .. check geneModels based on 1 Organs
+    if ( gene.model.length === 1 ) {
+        if ( gene.model[0] !== "hypText" )
+            return false;
+    }
+
+    // .. check geneModels based on 2 Organs
+    else if ( gene.model.length === 2 ) {
+        // .. acceptable models based on 2 Organs
+        if (
+            !(
+                ( gene.model[0] === "dAudio"  && gene.model[1] === "rawText"  ) ||
+                ( gene.model[0] === "dVideo"  && gene.model[1] === "subtitle" ) ||
+                ( gene.model[0] === "dImage"  && gene.model[1] === "rawText"  ) ||
+                ( gene.model[0] === "rawText" && gene.model[1] === "rawText"  )
+            )
+        )
+            return false;
+    }
+
+    // .. other models are not acceptable
+    else return false;
+
+    // .. it meets our requests
+    return true;
 
 }
 
