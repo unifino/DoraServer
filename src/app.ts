@@ -110,7 +110,7 @@ app.get( '/register', async ( req: express.Request, res: express.Response ) => {
 
 } );
 
-// -- =================================== Providing Ribosomes filtered by Institute =======
+// -- ======================================= Reporting Already User-Purchased-Items =======
 
 app.post( '/purchasedItems', ( req: express.Request, res: express.Response ) => {
 
@@ -162,7 +162,7 @@ app.post( '/x_cell', ( req: express.Request, res: express.Response ) => {
 
 } );
 
-// -- ========================================================== RAM : read | write =======
+// -- ================================================================ RAM : status =======
 
 app.post( '/getRamStatus', ( req: express.Request, res: express.Response ) => {
 

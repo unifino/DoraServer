@@ -301,7 +301,7 @@ export function _cell_delivery (
             // .. assign data to user
             user.gotFromThisRibosome = alreadyGotFromThisRibosome;
             // .. produce a new CELL
-            genetics._crypto_cell ( ribosomeCode, user, CKeyString )
+            genetics._get_cryptoCell_PACK ( ribosomeCode, user, CKeyString )
             .then( cellPack => {
 
                 // .. first register this lesson for user

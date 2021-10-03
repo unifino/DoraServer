@@ -38,7 +38,19 @@ export interface UnifiedGeneFlags {
 }
 export type snapMargin = [ [0, number], [-1, number] ];
 
-export interface _new_gene { 
+export interface hypGene {
+    id?             : string                        ,
+    title           : string                        ,
+                                                     
+    avatarURL       : string                        ,
+    avatar_C?       : boolean                       ,
+                                                     
+    hPath?          : string[]                      ,
+                                                     
+    hyperText       : UniText[]                     ,
+}
+
+export interface _new_gene {
     [key: string ]  : ( ribosomeCode: string, user: u.user ) => Promise<gene> 
 }
 
@@ -87,17 +99,19 @@ export type Organelle = {
                                                      
     isYouTube?      : boolean                       ,
                                                      
+    location?       : "before"|"after"              ,
     pinnedPoint?    : number                        ,
     position?       : number                        ,
                                                      
 }
 
-export type LessonType = 'audio'|'video'|'plain'|'comic'|'slide';
+export type LessonType = 'audio'|'video'|'mixed';
 export type OrganelleType = 
       "dAudio"
     | "dVideo"
     | "dImage"
     | "dText"
+    | "hypText"
     | "dAvatar"
     | "subtitle"
     | "rawText"
@@ -109,9 +123,10 @@ type CEF = "A1"|"A2"|"B1"|"B2"|"C1"|"C2";
 // -- =====================================================================================
 
 export interface UniText {
-    [0]: string,
-    [1]: UniTextFlags,
-    length : 2,
+    [0]:  string,
+    [1]:  UniTextFlags,
+    [2]?: LinkedMaterials,
+    length : 2|3,
 }
 export interface UniTextFlags {
     isDeleted?      : boolean                       ,
@@ -121,6 +136,7 @@ export interface UniTextFlags {
     standoff?       : "block"|"bridge"|"depart"     ,
     isBreakLine?    : boolean                       ,
 }
+export type LinkedMaterials = Organelle[];
 
 interface ChromosomeCode {                           
     ribosome    : string                            ,

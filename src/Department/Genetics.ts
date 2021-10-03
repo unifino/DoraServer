@@ -15,12 +15,12 @@ import { en_r }                         from "../db/ribosomes/en"
 // .. merge all ribosomes
 const rpi = [ ...de_r, ...en_r, ...it_r ];
 
-const RNA: { 
-    [key: string]: { 
+const RNA: {
+    [key: string]: {
         gene: ( user: u.user, ribosome?: g.Ribosome ) => Promise<g.gene>
         junk: ( ribosome: g.Ribosome ) => Promise<g.junk>
-    } 
-} = { 
+    }
+} = {
     x1127,
     x834,
     x835,
@@ -68,11 +68,11 @@ export function _ribosomes ( institute: string, email: string ): g.Ribosome[] {
 
 // -- =====================================================================================
 
-export function _crypto_cell (
+export function _get_cryptoCell_PACK (
 
-    ribosomeCode: string, 
-    user: u.user, 
-    CKeyString: string 
+    ribosomeCode: string,
+    user: u.user,
+    CKeyString: string
 
 ): Promise<{ id: string, cryptoCell: string }> {
 
@@ -86,7 +86,7 @@ export function _crypto_cell (
         let ribosome = rpi[ ribosomeId ];
 
         // .. get a new Cell
-        new_cell( ribosome, user )
+        get_a_new_cell( ribosome, user )
         .then( cell => rs ( {
             id: cell.chromosome.code.idx,
             cryptoCell: crypto( JSON.stringify( cell ), CKeyString )
@@ -100,7 +100,7 @@ export function _crypto_cell (
 
 // -- =====================================================================================
 
-function new_cell ( ribosome: g.Ribosome, user: u.user ): Promise<g.cell> {
+function get_a_new_cell ( ribosome: g.Ribosome, user: u.user ): Promise<g.cell> {
 
     return new Promise ( (rs, rx) => {
 
@@ -109,10 +109,15 @@ function new_cell ( ribosome: g.Ribosome, user: u.user ): Promise<g.cell> {
 
         // .. RNA parser allocating
         let rCode: string;
+        // .. DW Langsam gesprochene Nachrichten
         if      ( ribosome.code === "DWNCHRT" ) rCode = "x1127";
+        // .. DW Top Thema
         else if ( ribosome.code === "DWTPTMA" ) rCode = "x834";
+        // .. DW Alltagsdeutsch
         else if ( ribosome.code === "DWDALLT" ) rCode = "x835";
+        // .. DW Sprachbar
         else if ( ribosome.code === "DWSCBAR" ) rCode = "x836";
+        // .. any others
         else rCode = "commonRNA";
 
         // .. rRNA has been found
@@ -121,7 +126,7 @@ function new_cell ( ribosome: g.Ribosome, user: u.user ): Promise<g.cell> {
             let requiredData = [
                 RNA[ rCode ].gene( user, ribosome ),
                 RNA[ rCode ].junk( ribosome ),
-            ] as [ 
+            ] as [
                 Promise<g.gene>,
                 Promise<g.junk>,
             ]
@@ -146,7 +151,7 @@ function cell ( ribosome: g.Ribosome, gene: g.gene, junk:g.junk ): Promise<g.cel
 
     return new Promise ( (rs, rx) => {
 
-        // .. check acceptable pre-models 
+        // .. check acceptable pre-models
         if (
             gene.model.length !== 2                                             ||
             !(

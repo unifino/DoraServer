@@ -5,7 +5,7 @@ import * as u                           from "../../types/user";
 
 export function gene ( user: u.user, ribosome: g.Ribosome ): Promise<g.gene> {
 
-    return new Promise ( (rs, rx) => { 
+    return new Promise ( (rs, rx) => {
 
         let DNA = require( "../DNA/" + ribosome.code ).DNA;
         let ABC = require( "../DNA/" + ribosome.code ).ABC;
@@ -27,7 +27,7 @@ export function gene ( user: u.user, ribosome: g.Ribosome ): Promise<g.gene> {
 
 export function junk ( ribosome: g.Ribosome ): Promise<g.junk> {
 
-    return new Promise ( (rs, rx) => { 
+    return new Promise ( (rs, rx) => {
 
         let junk: g.junk;
 
@@ -48,8 +48,8 @@ export function junk ( ribosome: g.Ribosome ): Promise<g.junk> {
 
 export function a_good_gene_4_user ( 
 
-    user: u.user, 
-    DNA: g.gene[], 
+    user: u.user,
+    DNA: g.gene[],
     by: "start"|"random"|"end"
 
 ): Promise<g.gene> {

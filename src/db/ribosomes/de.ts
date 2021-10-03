@@ -134,5 +134,15 @@ export const de_r: g.Ribosome[] = [
         contains    : "∞",
         readMode    : "end"
     },
-
+    {
+        institute   : "de",
+        code        : "DWNICU1",
+        type        : "mixed",
+        level       : "A1",
+        title       : "Nico's Weg",
+        avatar      : "https://static.dw.com/image/37307244_509.jpg",
+        source      : "dw.com",
+        contains    : null,
+        readMode    : "start"
+    },
 ]
