@@ -156,7 +156,7 @@ function cell (
     return new Promise ( (rs, rx) => {
 
         // .. check the model structure
-        if ( modelIsAcceptable( gene ) ) return rx( "Unknown Lesson's Pre-Model" );
+        if ( !modelIsAcceptable( gene ) ) return rx( "Unknown Lesson's Pre-Model" );
 
         let organelles: g.Organelle[];
 
