@@ -243,8 +243,9 @@ function modelIsUnacceptable( gene: g.gene|g.hypGene ) {
 
     // .. check geneModels based on 1 Organs
     if ( gene.model.length === 1 ) {
-        if ( gene.model[0] !== "hypText" )
-            return false;
+        if ( gene.model[0] !== "hypText" ) return false;
+        // .. it meets our requests
+        else return true;
     }
 
     // .. check geneModels based on 2 Organs
@@ -259,13 +260,12 @@ function modelIsUnacceptable( gene: g.gene|g.hypGene ) {
             )
         )
             return false;
+        // .. it meets our requests
+        else return true;
     }
 
     // .. other models are not acceptable
     else return false;
-
-    // .. it meets our requests
-    return true;
 
 }
 
