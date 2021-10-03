@@ -2,7 +2,7 @@ import * as g                           from '../../types/genetics'
 
 export const ABC: g.snapMargin = [] as any;
 export const MDL: g.OrganelleType[] = [ "hypText" ];
-export const hypDNA: g.hypGene[] = [
+export const DNA: g.hypGene[] = [
 	{
 		"title"		: "",
 		"avatarURL"	: "",
