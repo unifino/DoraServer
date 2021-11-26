@@ -145,4 +145,15 @@ export const de_r: g.Ribosome[] = [
         contains    : null,
         readMode    : "start"
     },
+    {
+        institute   : "de",
+        code        : "DWJOJO1",
+        type        : "video",
+        level       : "B1",
+        title       : "Jojo sucht das Glück",
+        avatar      : "https://static.dw.com/image/55651008_401.png",
+        source      : "dw.com",
+        contains    : null,
+        readMode    : "start"
+    },
 ]
