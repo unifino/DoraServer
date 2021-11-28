@@ -345,7 +345,14 @@ export const DNA: g.gene[] = [
 		"avatarURL": "https://static.dw.com/image/37396851_401.jpg",
 		"mediaURL": "https://tvdownloaddw-a.akamaihd.net/downloads/Events/mp4/nicosweg/A1_E13_L4_F56_sd.mp4"
 	},
+	{
+		"title": "Das ist jetzt modern",
+		"text": "1\n00:00:07.480 --> 00:00:08.800\n– Guten Morgen, Inge.\n\n2\n00:00:09.200 --> 00:00:11.240\n– Guten Morgen, Nico!\n\n3\n00:00:12.320 --> 00:00:14.200\nWie siehst du denn aus?\n\n4\n00:00:15.160 --> 00:00:16.160\n– Wie bitte?\n\n5\n00:00:16.520 --> 00:00:19.760\n– Ich meine …\nHast du den Pullover gekauft?\n\n6\n00:00:19.800 --> 00:00:20.840\nIst der neu?\n\n7\n00:00:20.880 --> 00:00:23.040\n– Nein, das ist kein neuer Pullover.\n\n8\n00:00:23.120 --> 00:00:25.840\nDer Pullover ist von Sebastian.\nMeine Sachen sind …\n\n9\n00:00:25.880 --> 00:00:28.240\n– ... in deiner Tasche, ja, ja.\n\n10\n00:00:28.840 --> 00:00:31.360\nAber der Pullover ist viel zu groß.\n\n11\n00:00:31.400 --> 00:00:34.520\nUnd die Farbe! Ist das jetzt in?\n\n12\n00:00:34.840 --> 00:00:36.120\n– Das weiß ich nicht.\n\n13\n00:00:36.360 --> 00:00:39.400\n– Ich finde den Pullover nicht so schön.\n\n14\n00:00:41.920 --> 00:00:44.120\nDu brauchst neue Sachen zum Anziehen.\n\n15\n00:00:44.160 --> 00:00:50.160\nDu brauchst ein schickes Hemd und einen\nwarmen Pullover und eine schöne Hose.\n\n16\n00:00:52.000 --> 00:00:54.960\nAch Nico, kannst du gleich Brötchen kaufen?\n\n17\n00:00:55.960 --> 00:00:57.320\n– Ja, gerne!\n\n18\n00:00:57.360 --> 00:01:01.120\n– Das ist lieb von dir!\nKauf bitte dunkle Brötchen.\n\n19\n00:01:01.160 --> 00:01:02.560\nDie schmecken am besten.\n\n20\n00:01:03.040 --> 00:01:04.080\n– Mhm.\n\n21\n00:01:23.880 --> 00:01:25.280\n– Nico!\n\n22\n00:01:26.000 --> 00:01:30.880\n– Selma! Ist das …?\n\n23\n00:01:30.920 --> 00:01:32.560\n– ... deine Tasche?",
+		"avatarURL": "https://static.dw.com/image/41128772_401.jpg",
+		"mediaURL": "https://tvdownloaddw-a.akamaihd.net/downloads/Events/mp4/nicosweg/A1_E14_L1_F57_sd.mp4"
+	},
 			
+		
 			
 			
 			

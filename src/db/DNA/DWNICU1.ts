@@ -14440,15 +14440,483 @@ export const DNA: g.hypGene[] = [
 		]
 	},
 	{
-		title		: "",
-		"avatarURL"	: "",
+		title		: "Wie wird das Wetter?",
+		"avatarURL": "https://static.dw.com/image/37396851_401.jpg",
 		hyperText	: [
-
+			[
+				"Es ist sonnig.\nDie Sonne scheint.\nEs ist heiter.",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37785969_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S4_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Es regnet.\nEs ist regnerisch.\nEs gibt Regen.",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37785984_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S4_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Es ist windig.\nWind weht.",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37785999_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S4_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Es schneit.\nEs gibt Schnee.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37786013_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S4_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S5_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Heute gibt es keinen Regen.\nAm Freitag scheint die Sonne.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S5_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S5_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Im Süden von Portugal liegen die Temperaturen bei 20 Grad.\nIm Süden gibt es viel Wind und viele Wolken.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S5_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Nawin: Hey, Jean, wie ist das Wetter in Frankreich?\nJean: Hallo, Nawin, es regnet hier in Paris seit drei Tagen. Das ist normal. Im Herbst regnet es hier mehr als im Sommer . Es ist oft bewölkt und windig. Und es ist früh dunkel.\nNawin: Also wie in Deutschland. Okay.\nJean: Wie ist es denn in Thailand? Habt ihr Jahreszeiten?\nNawin: Wir haben drei Jahreszeiten : eine heiße Jahreszeit, die Regenzeit und eine&nbsp; kühle &nbsp;Jahreszeit.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S6_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Nawin: Die Regenzeit ist von Juli bis Oktober. Dann regnet es nachmittags so zwei Stunden, aber dann ist es wieder heiter . Von November bis Februar sind es nur so 25 bis 30 Grad.\nJean: Nur? Das ist doch warm !\nNawin: Das ist die kühle Jahreszeit . „heiß“ sagen wir zu 35 Grad und mehr. Von März bis Juni liegen die Temperaturen bei über 30 Grad .\nJean: Vielleicht gibt es hier im Winter Schnee . Findest du das nicht zu kalt ?\nNawin: Ja, Kälte ist ein Problem, aber Schnee finde ich toll. Hoffentlich schneit es oft diesen Winter.&nbsp;",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S6_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S7_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Gibt es in deiner Heimat Jahreszeiten? Welche?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S8_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S8_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Regnet es in deiner Heimat oft? Wann regnet es am meisten?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S8_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S8_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Ist es in deiner Heimat oft sonnig und warm?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S8_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S8_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Schneit es in deiner Heimat?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S8_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S8_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Wie findest du das Wetter in Deutschland?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S8_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Ich finde das Wetter in Deutschland zu kalt und zu regnerisch. / Ich finde das Wetter okay.",
+				{
+					"standoff": "block"
+				},				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S8_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Wir sind in den Zoo gegangen.\nWir haben eine Radtour gemacht.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S9_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Wir sind in ein gemütliches Café gegangen.\nWir haben ein Museum besucht.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S9_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Wir sind im Hotel geblieben und haben gewartet.\nWir haben drinnen ein Spiel gespielt.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S9_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S10_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S10_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S10_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S10_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Fußball, Autos, Politik oder Prominente sind interessant und ein gutes Smalltalk- Thema . Auf Platz eins aber steht das . Warum sprechen alle so gerne über , Regen , und Wärme ? Alle müssen mit dem Wetter leben, also interessiert es alle. Alle können etwas zum Thema Wetter sagen. Es ist nämlich immer zu kalt, zu , zu , manchmal auch zu trocken oder zu heiß. Es ist nicht so kompliziert wie Politik. Du bist mit deinem Chef im Aufzug? Das Thema Wetter funktioniert immer.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S12_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S13_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Das Wetter ist fast immer gut.\nGestern war das Wetter nicht so gut.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S13_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S13_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Sie fotografieren viel.\nSie übernachten im Hotel.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S13_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Bist du letzte Woche ins Kino gegangen?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S15_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S15_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Hast du letzte Woche im Restaurant gegessen?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S15_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S15_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Hast du letzte Woche zu Hause gekocht?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S15_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S15_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Bist du letzte Woche Fahrrad gefahren?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S15_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S15_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Hast du gestern Deutsch gelernt?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S15_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L4_S15_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
 		]
 	},
 	{
-		title		: "",
-		"avatarURL"	: "",
+		title		: "Das ist jetzt modern",
+		"avatarURL": "https://static.dw.com/image/41128772_401.jpg",
 		hyperText	: [
 
 		]
