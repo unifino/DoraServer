@@ -13506,14 +13506,937 @@ export const DNA: g.hypGene[] = [
 		title		: "Jahreszeiten",
 		"avatarURL": "https://static.dw.com/image/37397788_401.jpg",
 		hyperText	: [
-
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S2_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Im Dezember, Januar und Februar ist Winter. Es ist kalt.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S5_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Im März, April und Mai ist Frühling.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S5_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Im Juni, Juli und August ist Sommer. Es ist warm.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S5_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Im September, Oktober und November ist Herbst.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S5_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S6_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Welche Jahreszeit ist im Juni, Juli und August?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S6_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S6_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Welche Jahreszeit ist im März, April und Mai?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S6_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S6_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Welche Jahreszeit ist im Dezember, Januar und Februar?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S6_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S6_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Welche Jahreszeit ist im September, Oktober und November?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S6_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S6_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S7_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S7_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S7_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S7_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S9_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S9_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S10b_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S10b_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S10c_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S11_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S11_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S11_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S11_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S12_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S12_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S12_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S12_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+				
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S13_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S13_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S13_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S13_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S13_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S13_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Nina: Also, ich finde einen Winterurlaub einen&nbsp;Sommerurlaub.\nLisa: Was? Ein Skiurlaub ist doch&nbsp; ein Urlaub am Strand.\n&nbsp;",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S14_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Nina: Ich war noch nicht so im Winterurlaub im Sommerurlaub. Ich war erst einmal Ski fahren . Der Skiurlaub war alle Strandurlaube.&nbsp;\nLisa: Ich habe auch schon Urlaub im Sommer als im Winter gemacht. Aber ich finde einen Skiurlaub gut einen Strandurlaub.\n&nbsp;",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S14_A2_Loesungsaudio1.mp3"
+					}
+				]
+			],
+			[
+				"Lisa: ist ein Urlaub mit allen Jahreszeiten und Aktivitäten. Ich möchte Ski fahren&nbsp;und am Strand liegen.\nNina: Ja, da komme ich auch mit. Und dann möchte ich auch noch auf ein Festival gehen.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S14_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S15_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S15_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S15_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S15_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S15_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S15_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S15_A6_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L2_S15_A6_Loesungsaudio.mp3"
+					}
+				]
+			]
 		]
 	},
 	{
-		title		: "",
-		"avatarURL"	: "",
+		title		: "Der Ausflug",
+		"avatarURL": "https://static.dw.com/image/37396835_401.jpg",
 		hyperText	: [
-
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S4_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S4_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S4_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S6_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S6_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S7_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S7_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S7_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S7_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S8_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S8_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S10_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S10_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S10_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S10_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S10_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S10_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S10_A6_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S10_A6_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S11_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S11_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S11_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S11_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S11_A6_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S12_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S14_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S14_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S14_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Bist du schon mal in die USA geflogen?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S15_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S15_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Hast du schon mal den Eiffelturm in Paris besichtigt?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S15_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S15_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Hast du schon mal Currywurst gegessen?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S15_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S15_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Bist du schon mal im Meer geschwommen?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S15_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S15_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Hast du schon mal die Pyramiden in Ägypten gesehen?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S15_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S15_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Hast du schon mal einen Fallschirmsprung gemacht?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S15_A6_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E13_L3_S15_A6_Loesungsaudio.mp3"
+					}
+				]
+			]	
 		]
 	},
 	{

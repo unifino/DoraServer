@@ -333,6 +333,20 @@ export const DNA: g.gene[] = [
 		"avatarURL": "https://static.dw.com/image/37397788_401.jpg",
 		"mediaURL": "https://tvdownloaddw-a.akamaihd.net/downloads/Events/mp4/nicosweg/A1_E13_L2_F54_sd.mp4"
 	},
+	{
+		"title": "Der Ausflug",
+		"text": "1\n00:00:07.600 --> 00:00:09.440\n– Nawins Party war super!\n\n2\n00:00:09.480 --> 00:00:11.680\n– Ja. Jetzt freue ich mich aber\nauf den Urlaub.\n\n3\n00:00:11.720 --> 00:00:14.280\nWir haben ein ganzes Haus für uns alleine.\n\n4\n00:00:14.320 --> 00:00:16.600\n– Ich will auch wegfahren.\n\n5\n00:00:16.720 --> 00:00:18.080\n– Wann war dein letzter Urlaub?\n\n6\n00:00:18.120 --> 00:00:22.040\n– Im Mai. Aber es war kein Urlaub.\nDas war nur ein Ausflug.\n\n7\n00:00:22.080 --> 00:00:24.160\nWir haben die Hochzeit von\nmeinem Onkel gefeiert.\n\n8\n00:00:24.200 --> 00:00:24.960\n– Cool.\n\n9\n00:00:25.000 --> 00:00:28.840\n– Ja! Und wir haben toll gegessen\nund gesungen und getanzt.\n\n10\n00:00:29.080 --> 00:00:30.200\nEs gab auch einen See.\n\n11\n00:00:30.240 --> 00:00:32.080\nWir sind geschwommen\nund wir haben gegrillt\n\n12\n00:00:32.120 --> 00:00:34.560\nund haben Spaziergänge gemacht.\n\n13\n00:00:34.840 --> 00:00:36.640\n– Das klingt schön.\n\n14\n00:00:37.280 --> 00:00:38.560\nWo habt ihr gefeiert?\n\n15\n00:00:38.600 --> 00:00:42.400\n– In der Nähe von Hamburg.\nWir haben bei meiner Cousine übernachtet.\n\n16\n00:00:42.440 --> 00:00:45.880\nDas war sehr schön. Wir hatten\nsuper Wetter und viel Spaß.\n\n17\n00:00:46.240 --> 00:00:49.080\nAber der letzte richtige Urlaub\nist sehr lange her …\n\n18\n00:00:54.200 --> 00:00:56.280\n– Wir sehen uns,\nwenn ich wiederkomme, okay?\n\n19\n00:00:56.320 --> 00:00:57.320\n– Okay!",
+		"avatarURL": "https://static.dw.com/image/37396835_401.jpg",
+		"mediaURL": "https://tvdownloaddw-a.akamaihd.net/downloads/Events/mp4/nicosweg/A1_E13_L3_F55_sd.mp4"
+	},
+	{
+		"title": "Wie wird das Wetter?",
+		"text": "1\n00:00:13.880 --> 00:00:15.480\n– Lisa!\n\n2\n00:00:15.960 --> 00:00:19.800\nJa, kein Problem. Ich habe noch genug\nDeutschübungen, die ich machen kann.\n\n3\n00:00:19.880 --> 00:00:22.400\nIch freue mich aber schon,\nwenn du wiederkommst.\n\n4\n00:00:23.080 --> 00:00:25.920\nWie ist denn der Urlaub?\nHabt ihr tolles Wetter?\n\n5\n00:00:26.720 --> 00:00:29.080\nToll! Das klingt super!\n\n6\n00:00:30.080 --> 00:00:32.080\nDas Wetter bei mir?\n\n7\n00:00:32.520 --> 00:00:35.600\nIch glaube, es sind so um\ndie sieben Grad, und es ist bewölkt.\n\n8\n00:00:36.160 --> 00:00:37.880\nAbends soll es vielleicht noch regnen\n\n9\n00:00:37.920 --> 00:00:39.960\nund morgen wird es noch kälter.\n\n10\n00:00:40.680 --> 00:00:42.840\nDer Himmel ist einfach immer grau.\n\n11\n00:00:44.760 --> 00:00:46.800\nIhr habt Sonne und 20 Grad?\n\n12\n00:00:46.840 --> 00:00:48.960\nBoah, das ist so gemein.\n\n13\n00:00:52.840 --> 00:00:53.720\nDu, Lisa?\n\n14\n00:00:53.760 --> 00:00:56.920\nNico von der Party,\nder bei euch gewohnt hat …\n\n15\n00:00:56.960 --> 00:00:58.600\nDer hat doch seine Tasche verloren.\n\n16\n00:00:59.240 --> 00:01:02.400\nWas hat Nico im Radio gesagt,\nwie die Tasche aussieht?\n\n17\n00:01:02.680 --> 00:01:05.800\nSchwarz und ein Aufnäher\nmit einem Fahrrad?\n\n18\n00:01:06.320 --> 00:01:07.760\nWieso?\n\n19\n00:01:07.920 --> 00:01:10.320\nNa ja, ich glaube,\nich habe sie gefunden.",
+		"avatarURL": "https://static.dw.com/image/37396851_401.jpg",
+		"mediaURL": "https://tvdownloaddw-a.akamaihd.net/downloads/Events/mp4/nicosweg/A1_E13_L4_F56_sd.mp4"
+	},
+			
+			
 			
 			
 	
