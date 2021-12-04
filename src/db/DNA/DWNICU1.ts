@@ -14918,36 +14918,3723 @@ export const DNA: g.hypGene[] = [
 		title		: "Das ist jetzt modern",
 		"avatarURL": "https://static.dw.com/image/41128772_401.jpg",
 		hyperText	: [
-
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S5_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S5_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S6a_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S6a_A2_Audio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S6a_A3_Audio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S7_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Das ist eine große Hose.",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37786981_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S9_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Das sind neue Schuhe.",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37786911_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S9_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Das ist ein langer Rock.",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37786925_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S9_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Das ist ein dunkler Pullover.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37786939_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S9_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Lieber Nico,\n\nich fliege nächste Woche nach Sevilla. Welche Kleidung soll ich für den Urlaub einpacken ? In Spanien ist es warm, also nehme ich eine kurz Hose und ein weit T-Shirt mit. Brauche ich auch eine lang Hose und einen dick Pullover? Glaubst du, ich brauche eine dick Jacke? Ich habe jetzt eine dünn Regenjacke in den Koffer getan. Und was ist mit Schuhen? Ich habe jetzt schon neu Turnschuhe und alt Sandalen im Koffer. Ist das genug? Vielen Dank für deine Hilfe.&nbsp;\n\nViele Grüße&nbsp;\nThomas",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S8_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S10_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S10_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S10_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S10_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Inge trägt gern große Hüte.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S11_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S11_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Lisa hat gestern einen dunklen Mantel gekauft.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S11_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S11_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Tarek trägt heute eine günstige Jeans.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S11_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S11_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Max hat ein helles T-Shirt.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S11_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S11_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S12_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S12_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S12_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S12_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S12_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S12_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S12_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S12_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S12_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L1_S12_A5_Loesungsaudio.mp3"
+					}
+				]
+			]	
 		]
 	},
 	{
-		title		: "",
-		"avatarURL"	: "",
+		title		: "Mein Lieblingspulli",
+		"avatarURL": "https://static.dw.com/image/37397025_401.jpg",
+		hyperText	: [
+			[
+				"Ich mische Schwarz &nbsp;und Weiß . Meine Lieblingsfarbe ist also Grau .\n\nDu mischst Rot und Weiß . Deine Lieblingsfarbe ist also Rosa .\n\nEr mischt Gelb und Blau . Seine Lieblingsfarbe ist also Grün .\n\nSie mischt Blau und Rot. Ihre Lieblingsfarbe ist also Lila .\n\nWir mischen Gelb und Rot . Unsere Lieblingsfarbe ist also Orange .\n\nIhr mischt Rot und Grün . Eure Lieblingsfarbe ist also Braun .",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S5_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S7_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Sebastian findet den schwarzen Pullover schöner.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S7_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S7_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Nina mag die gelbe Mütze lieber.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S7_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S8_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S8_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S8_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S8_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Magst du diesen Pullover?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S10_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S10_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Findest du diese Tasche schön?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S10_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S10_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S11_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Dieses T-Shirt ist modern, aber dieser Rock ist altmodisch . Ich finde diesen Rock nicht gut.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S12_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Diese Hose ist alt, aber diese Schuhe sind neu. Ich mag diese Schuhe.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S12_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Diese Mütze ist schön, aber dieses Hemd ist hässlich. Ich finde diese Mütze toll.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S12_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Trägst du gern rote Röcke?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S13_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S13_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Ziehst du gern weiße T-Shirts an?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S13_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S13_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Trägst du gern Hemden?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S13_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S13_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Trägst du gern schwarze Jeans?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S13_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S13_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Nawin: Welchen Pullover findest du schöner? Diesen &nbsp;oder diesen ?\nNina: Ich finde diesen hier schöner. Aber welcher ist wärmer?\nNawin: Beide sind warm. Ich nehme diesen hier.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S15_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Selma: Welche Schuhe trägst du denn gern?\nNico: Ich trage diese Turnschuhe gern. Und welche Schuhe sind deine Lieblingsschuhe?\nSelma: Meine Lieblingsschuhe sind diese hier.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L2_S15_A2_Loesungsaudio.mp3"
+					}
+				]
+			]
+		]
+	},
+	{
+		title		: "Das passt gut!",
+		"avatarURL": "https://static.dw.com/image/37396890_401.jpg",
+		hyperText	: [
+			[
+				"Nico trägt Größe M.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S2_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Selma: Wie findest du das Hemd?\nNico: Wie viel kostet das?\nSelma: 25 Euro. Ist das okay?\nNico: Ja, das ist okay.\nSelma: Super! Das steht dir gut!\nNico: Ja, das passt auch.\nNico: Wie findest&nbsp;du den Pullover ?\nSelma: Schön. Probier mal das andere Hemd an . Welche Größe ist das?\nNico: Ich weiß nicht.\nSelma: L. Probier mal M an. Das ist zu groß .",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S3_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S16_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Passt dir das Hemd?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S4_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Nein, das Hemd passt mir nicht. Das Hemd ist zu klein.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S4_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Steht mir die Hose?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S4_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Nein, die Hose steht dir nicht. Die Hose ist altmodisch.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S4_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Steht mir der Mantel?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S4_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Nein, die Farbe ist nicht gut. Grau steht dir nicht.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S4_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Passt dir der Pullover?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S4_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Nein, der Pullover passt mir nicht. Der Pullover ist zu groß.",
+				{
+					"standoff": "block"
+				},				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S4_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S5_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S5_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Verkäufer: Kann ich Ihnen helfen?\nInge: Ja, ich suche eine kurze Jacke.\nVerkäufer: Welche Größe haben Sie denn?\nInge: Ich habe Größe 40 oder 42.\nVerkäufer: Wir haben hier eine braune Jacke in 40 und eine blaue in 42.\nInge: Die blaue Jacke mag ich nicht. Kann ich die braune Jacke anprobieren ?\nVerkäufer: Gern. Hinten rechts sind die Umkleidekabinen .",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S7_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Guten Tag, kann ich Ihnen helfen?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S8_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Ja, bitte. Ich suche eine Hose.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S8_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Welche Größe haben Sie denn?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S8_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Größe 34. Haben Sie eine schwarze Hose fürs Büro?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S8_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Nein, leider nicht. Wir haben hier eine elegante Hose in Blau und hier noch eine in Beige.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S8_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Kann ich die in Blau anprobieren?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S8_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Ja, natürlich. Hier vorne ist eine Umkleidekabine. Und wie finden Sie die Hose?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S8_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Die gefällt mir sehr gut. Sie ist auch sehr bequem. Steht sie mir denn auch?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S8_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Ja, die Hose steht Ihnen sehr gut. Die Farbe passt auch gut zu Ihrem Typ.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S8_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Gut, dann nehme ich sie. Wie teuer ist die Hose?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S8_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Die Hose ist im Angebot. Sie kostet jetzt nur noch 39,90 Euro.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S8_A6_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Oh, das ist wirklich ein guter Preis.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S8_A6_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Kann ich Ihnen helfen?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S9_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S9_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Fahrradhosen finden Sie im zweiten Stock. Nehmen Sie am besten den Aufzug.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S9_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S9_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Hier sind die Fahrradhosen.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S9_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S9_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Ja, gleich hier. Eine lange Hose in Rot und eine kurze Hose in Rot. Möchten Sie die Hosen anprobieren?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S9_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S9_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Die Umkleidekabinen sind hier rechts. Wie passt die Hose?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S9_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S9_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Die Hose kostet 45,90 Euro.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S9_A6_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S9_A6_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Guten Tag, ich brauche neue Schuhe. Welche Größe haben Sie denn? Ich trage Schuhgröße 42. In Ihrer Größe habe ich ein braunes Paar im Angebot. Kann ich die mal anprobieren? Moment, ich bringe Ihnen die Schuhe. Die passen mir sehr gut. Die nehme ich.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S10_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Verkäufer: Kann ich helfen ?\nKundin: Ich suche eine schwarze Bluse.\nVerkäufer: Eine bestimmte Marke ?\nKundin: Die Marke ist egal . Aber die Bluse soll nicht so teuer sein.\nVerkäufer: Welche Größe brauchen Sie denn?\nKundin: Größe 44.&nbsp;\nVerkäufer: Gut.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S11_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Verkäufer: Wie gefällt Ihnen diese Bluse?\nKundin: Ich finde die Bluse schön. Aber die Farbe gefällt mir nicht. Die Bluse ist dunkelblau und nicht schwarz.\nVerkäufer: Ja, aber sie ist im Angebot.\nKundin: Wie viel kostet sie denn?\nVerkäufer: Sie kostet nur 19,90 Euro.\nKundin: Super. Ich probiere die Bluse mal an .\n…",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S11_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Verkäufer: Passt die Bluse?\nKundin: Nein, die Ärmel sind zu lang .\nVerkäufer: Möchten Sie noch eine weiße Bluse anprobieren?\nKundin: Nein, danke. Ich suche weiter.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S11_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Der Pullover ist zu groß.",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37842726_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S13_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Das T-Shirt ist zu eng.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37842714_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S13_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Passt dir der Mantel?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S14_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S14_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Steht mir die Hose?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S14_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S14_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Wie gefällt dir der Schal?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S14_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S14_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Wie findest du den Mantel?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S14_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L3_S14_A4_Loesungsaudio.mp3"
+					}
+				]
+			]	
+		]
+	},
+	{
+		title		: "Schick!",
+		"avatarURL": "https://static.dw.com/image/37396906_401.jpg",
+		hyperText	: [
+			[
+				"Lisa trägt ein geblümtes Kleid.",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37787281_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S3_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Nico und Emma tragen ein kariertes Hemd.",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37787267_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S3_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Emma trägt ein gepunktetes Halstuch.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37787253_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S3_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Lisa trägt ein geblümtes Kleid.\n\nLisa trägt eine karierte Bluse.\n\nLisa trägt einen gepunkteten Rock.\n\nLisa trägt gestreifte Socken.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S4_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Nico trägt eine gestreifte Hose.\n\nNico trägt einen karierten Mantel.\n\nNico trägt ein gepunktetes T-Shirt.\n\nNico trägt geblümte Handschuhe.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S4_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Trägt Nico heute einen karierten Mantel?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S5_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S5_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Hat Lisa heute ein geblümtes Kleid an?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S5_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S5_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Trägt Inge heute einen gestreiften Hosenanzug?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S5_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S5_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Hat Emma heute ein gepunktetes Hemd an?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S5_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S5_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Trägt Nico heute einen karierten Mantel?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S5_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S5_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Hat Lisa heute ein geblümtes Kleid an?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S5_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S5_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Trägt Inge heute einen gestreiften Hosenanzug?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S5_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S5_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Hat Emma heute ein gepunktetes Hemd an?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S5_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S5_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S6_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S6_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S6_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S6_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S7_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S7_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S7_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S7_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Maria trägt beruflich viel schwarz.\nJenny trägt in der Freizeit kein Weiß.\nMaria trägt bei der Arbeit Handschuhe und einen Hut.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S9_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S10_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S10_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S10_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S10_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+				
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S11_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Bei der Arbeit trägt sie gern Kleider.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S11_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S11_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"In der Freizeit zieht er gern schicke Kleidung an.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S11_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Was trägst du in deiner Freizeit lieber? Bunte T-Shirts oder weiße Hemden?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S12_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S12_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Trägst du in deiner Freizeit oft graue Anzüge?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S12_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S12_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Trägst du im Büro manchmal alte Jeans und T-Shirts?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S12_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S12_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Im Büro tragen viele Menschen&nbsp; formelle&nbsp; Kleidung. Männer tragen schicke Schuhe , ein Hemd in Blau oder Weiß und eine gute Hose. Bei großen&nbsp; Unternehmen&nbsp; gehört elegante Kleidung zum Alltag. Dann tragen Männer immer einen&nbsp; Anzug&nbsp; mit Krawatte .",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S13_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Frauen können ein schickes&nbsp; Kostüm oder einen eleganten Hosenanzug wählen. Meist ziehen sie dazu hohe Schuhe an. Aber auch eine Bluse und eine Hose oder einen Rock tragen Frauen gern bei der Arbeit . Im Büro sieht man selten grelle Farben . Die Kleidung ist insgesamt eher schlicht und dunkel: Blau, Grau und Schwarz kombiniert mit Weiß oder Hellblau.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E14_L4_S13_A2_Loesungsaudio.mp3"
+					}
+				]
+			]
+		]
+	},
+	{
+		title		: "Meine Familie",
+		"avatarURL": "https://static.dw.com/image/37396935_401.jpg",
+		hyperText	: [
+			[
+				"Selma lebt seit fast zwölf Monaten in Deutschland.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S2_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Selmas Eltern leben in Deutschland.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S2_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Sie wohnen in Hamburg.",
+				{
+					"standoff": "block"
+				},				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S2_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Das bin ich und das sind meine Eltern : Mein Vater &nbsp;heißt Ibrahim und meine Mutter Aya.",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/38110062_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S3_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Ich habe zwei Geschwister : Das sind meine beiden älteren &nbsp; Brüder , Safi und Khalil. Mein Bruder Khalil ist ledig , er hat noch keine Frau und auch keine Kinder . Safi ist verheiratet .",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/38110062_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S3_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Die Frau von meinem Bruder &nbsp;Safi heißt Djamila. Safi und Djamila haben zwei Kinder , einen Jungen und ein Mädchen . Ali ist ihr Sohn , also mein Neffe . Und das ist ihre Tochter , meine kleine Nichte Rabia.",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/38110085_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S3_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Das hier sind meine Großeltern , die Eltern &nbsp;meiner Mutter : Mein Großvater Abdulrahman und meine Großmutter Laila. Sie leben noch in Syrien. Und das hier sind die Eltern meines Vaters : Links Opa Salim und rechts Oma Fatima . Leider leben sie nicht mehr, sie sind schon lange tot .",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/38110113_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S3_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Mein Vater hat noch eine Schwester , meine Tante Asma. Der Mann neben Asma ist ihr Ehemann Sufyan, mein Onkel . Die beiden haben drei Kinder : Meine Cousine Zahra und meine Cousine Nour. Ihr Bruder Bassam ist mein Cousin .",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/38110099_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S3_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Die Mutter und der Vater von Selma sind die Eltern von Selma.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S5_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Selma hat zwei Brüder: Khalil und Safi. Sie sind die Geschwister von Selma.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S5_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Die Großmutter und der Großvater von Selma sind die Großeltern von Selma.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S5_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Die Schwester von Selmas Vater ist Selmas Tante.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S5_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Der Mann von Selmas Tante ist Selmas Onkel.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S5_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S6_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S6_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S6_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S6_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S6_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S6_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S6_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S6_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S6_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S6_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S6_A6_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S6_A6_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S6_A7_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S6_A7_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Wie viele Geschwister haben Sie?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S7_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S7_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Sind Sie verheiratet?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S7_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S7_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Haben Sie Kinder?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S7_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S7_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Sind Ihre Kinder verheiratet?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S7_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S7_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Haben Sie Enkelkinder?",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S7_A6_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S7_A6_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Liegt es auf dem Stuhl?",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37840306_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S8_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Liegt es hinter dem Bett?",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37840473_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S8_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Ist es in der Hosentasche?",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37840453_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S8_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Liegt es zwischen den Büchern?",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37840400_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S8_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Liegt es auf dem Regal?",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37840384_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S8_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Ah, es ist in der Jacke!",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37840346_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S8_A6_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Der Pulli ist grün: der grüne Pulli Die Hose ist blau: die blaue Hose Das Portemonnaie ist braun: das braune Portemonnaie Die Schuhe sind schwarz: die schwarzen Schuhe",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S9_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Der weiße Pullover\nDer Pullover ist weiß . Nico mag den weißen Pullover.\n\n&nbsp;\n\nDie blaue Jacke\nDie Jacke ist blau . Nico mag die blaue Jacke.\n\n&nbsp;\n\nDas braune T-Shirt\nDas T-Shirt ist braun . Nico mag das braune T-Shirt.\n\n&nbsp;\n\nDie karierten Hemden\nDie Hemden sind kariert . Nico mag die karierten Hemden.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S12_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S11_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S11_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S11_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S11_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S11_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S11_A6_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Nico mag den weißen Pullover.\n\nNico mag die blaue Jacke.\n\nNico mag das braune T-Shirt.\n\nNico mag die karierten Hemden.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S13_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S14_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S14_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S14_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S14_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L1_S14_A5_Loesungsaudio.mp3"
+					}
+				]
+			]
+		]
+	},
+	{
+		title		: "Meine Eltern",
+		"avatarURL": "https://static.dw.com/image/39344868_401.jpg",
+		hyperText	: [
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S3_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S3_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S3_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S3_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S3_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S6_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S6_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S6_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S6_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S6_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S6_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S6_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S6_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S6_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S6_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S6_A6_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S6_A6_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Hey Nico,\nich habe mit meinem Vater&nbsp;gesprochen. Er sagt, du willst deine Eltern nicht anrufen. Warum?\nLisa\n\nHallo Lisa,\nich soll meine Eltern anrufen? Ich möchte sie nicht anrufen!!! Mein Vater und meine Mutter , sie sagen immer, ich muss studieren. Aber ich möchte nicht das Leben von meinen Eltern haben. Mein Vater arbeitet und arbeitet. Ich habe ihn fast nie gesehen. Er hat mich immer nur gefragt: „Wie ist das Studium ? Bist du gut?“ Meine Eltern verstehen mich nicht. &nbsp;\nNico",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S7_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Hey Nico,\nich verstehe dich gut. Mein Vater ist cool. Aber er denkt auch,&nbsp;ich bin noch ein Kind. Na ja, ich bin auch heute noch seine Tochter .&nbsp;Aber jetzt ist es besser. Er hat ein neues „Kind“. Du kennst es! Emma!!! Mein Vater ist jetzt ein Großvater .\nVielleicht haben deine Eltern Informationen über deine Tante ? Ruf sie an!!!\nLisa\n\nHey Lisa,\nYara! Ich muss sie alleine finden. Und was machst du, Lisa? Hast du morgen Zeit? Wann kann ich dich wieder treffen?\nNico",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S7_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Hey Nico,\nmorgen kommen Freunde in die WG. Wir kochen zusammen. Kommst du auch?\nLisa\nPS: Sind dein Vater und Yara eigentlich Geschwister ?\n\nHey Lisa,\nich komme gerne. Meine Mutter und Yara sind Geschwister. Yara ist die kleine Schwester . Und meine Mutter ist die große Schwester.\nBis morgen\nNico",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S7_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Nico sieht Emma. Emma fragt: „Rufst du mich heute an?“\nNico sagt zu Emma: „Ich rufe dich heute an.“",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S9_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Nico ruft Max an. Nico ruft ihn an.\nNico ruft Emma an. Nico ruft sie an.\nNico ruft das Kind an. Nico ruft es an.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S9_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Nico ruft Emma und Lisa an. Nico ruft sie an.\nNico sagt: „Frau Reimann, ich rufe Sie morgen an.“",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S9_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Nico sieht Emma. Nico sieht sie.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S10_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Nico sieht Emma und Lisa. Nico sieht sie.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S10_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Hinter Nico ist ein Mann. Nico sieht ihn nicht.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S10_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Nico sieht das Taxi. Nico sieht es.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S10_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Hallo Mark,\nkommst du oft in den Fahrradladen? Du hast recht: Ich kenne dich nicht. Hast du schon mal hier ein Fahrrad gekauft? Komm doch morgen in den Fahrradladen. Dann sehe ich dich und wir können uns kennenlernen. Du kannst mich immer von 9 bis 18 Uhr hier finden.\n\nViele Grüße\nYara\n\nPS: Du kannst mich auch im Fahrradladen anrufen.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S12_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S14_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S14_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Wir haben sie oft besucht. Sie hatten immer Schokolade für uns. Wir hatten zusammen immer viel Spaß. Heute sind sie alt . Sie rufen uns oft an. Dann fragen sie: „Wann besucht ihr uns	wieder? Wir möchten euch treffen. Wir haben immer noch Schokolade für euch.“",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S14_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Emma sagt: „Nico mag Lisa und mich. Nico mag uns .“ &nbsp;\nNico sagt zu Emma und Lisa: „Emma und Lisa, ich mag euch .“",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S17_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Ist das T-Shirt für deinen Neffen?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S19_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S19_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Ist der Schal für deine Mutter?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S19_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S19_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Sind die Handschuhe und die Mütze für deine Nichte und deinen Bruder?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S19_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S19_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Selma, ist die Jeans für mich?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S19_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S19_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Selma, ist das Buch für uns?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S19_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S19_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Selma, ist die Bluse für dich?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S19_A6_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L2_S19_A6_Loesungsaudio.mp3"
+					}
+				]
+			]	
+		]
+	},
+	{
+		title		: "Meine Tante",
+		"avatarURL": "https://static.dw.com/image/37396979_401.jpg",
+		hyperText	: [
+			[
+				"Meine liebe Enkelin,\ndu warst das schönste Mädchen in Sevilla. Aber nun lebst du in Deutschland. Und was machst du da? Eine Ausbildung zur Fahrradmechatronikerin! Deine zarten Hände sind nun schmutzig &nbsp;. Für meine Generation ist das undenkbar . Warum hast du nicht geheiratet , meine liebe Yara?! Ich mache mir Sorgen um dich. Aber ich liebe dich. Ich hoffe, dass du irgendwann heiratest. Ich träume von deiner Hochzeit . Denkst du vielleicht manchmal an deinen alten Opa und&nbsp; deine Heimat?\nDein Opa Pepe",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L3_S7_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Yara ist ihre eigene Chefin.\nYara liest in der Pause ihre E-Mails.\nAm Samstag räumt sie ihr Fahrradgeschäft auf.\n\nMax: Tarek, wo stehen Yaras Fahrräder?\nTarek: Ich weiß es nicht. Yara, wo stehen deine Fahrräder?\nYara: Meine Fahrräder stehen im Geschäft.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L3_S8_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Max und Tarek haben ein Restaurant. Ihr Restaurant heißt „Das Marek“.\nMax und Tarek sind ihre eigenen Chefs.\nMax mag seine Arbeitszeiten .\n\nLisa: Max, Tarek, seit wann habt ihr euer Restaurant?\nTarek: Wir haben unser Restaurant seit ein paar Jahren.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L3_S8_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Immer mehr Frauen arbeiten in Männerberufen.\nIn der Bäcker-Ausbildung gibt es immer mehr Frauen.\nEs gibt mehr Friseurinnen als Friseure.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L3_S10_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Yara hat einen typischen Männerberuf.\nYara ist Fahrradmechatronikerin.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L3_S10_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Tarek hat heute ein Restaurant.\nTarek hat eine Ausbildung zum Elektriker gemacht.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L3_S10_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Er hat eine Ausbildung bei der Bank gemacht. Das ist der Bankkaufmann .\n\nSie fliegt ein Flugzeug.\nDas ist die Pilotin .\n\nEr hilft kranken Menschen .\nDas ist der Arzt .\n\nEr repariert Autos.\nDas ist der KFZ-Mechatroniker .\n\nSie macht Essen.\nDas ist die Köchin .\n\nSie macht Brot.\nDas ist die Bäckerin .\n\nEr verkauft Fahrräder.\nDas ist der Fahrradhändler .\n\nSie macht schöne Frisuren.\nDas ist die Friseurin .",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L3_S11_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Er verkauft Fahrräder.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L3_S12_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L3_S12_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Sie hilft kranken Menschen.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L3_S12_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L3_S12_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Er fliegt ein Flugzeug.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L3_S12_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L3_S12_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Er arbeitet in der Bank.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L3_S12_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L3_S12_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Sie macht Essen.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L3_S12_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L3_S12_A4_Loesungsaudio.mp3"
+					}
+				]
+			]
+		]
+	},
+	{
+		title		: "Mein Bruder",
+		"avatarURL": "https://static.dw.com/image/37397041_401.jpg",
+		hyperText	: [
+			[
+				"Das Mädchen hat eine Schwester.\nDas Mädchen ist kein Einzelkind.",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37840663_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L4_S4_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Der Junge hat zwei Schwestern.\nDer Junge hat Geschwister.",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37840647_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L4_S4_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Der Junge hat einen jüngeren Bruder.\nDer Junge hat keine Schwestern.",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37840595_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L4_S4_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Das Baby hat keinen Bruder und keine Schwester.\nEs ist ein Einzelkind.",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37840609_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L4_S4_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Das Mädchen hat eine Schwester.\nDas Mädchen hat eine Zwillingsschwester.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37840624_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L4_S4_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Du sprichst zu viel.\nDu nervst mich!",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L4_S5_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Du hast für 50 Euro Schokolade gekauft?\nDu spinnst!",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L4_S5_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Siehst du dir schon wieder diesen Film an?\nDu langweilst mich!",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L4_S5_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Du hast mir sehr geholfen.\nIch mag dich.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L4_S5_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Ich brauche einen Tipp. Wir können immer sprechen.\nDu verstehst mich.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L4_S5_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L4_S6_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L4_S6_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L4_S6_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L4_S6_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L4_S7_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L4_S9_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L4_S9_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L4_S9_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L4_S9_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L4_S9_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L4_S9_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L4_S9_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L4_S9_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Dein Freund macht morgen eine Party. Du fragst deinen Freund: „Wann soll ich morgen kommen?“\nDu ziehst in eine neue Wohnung um. Du fragst: „Wann muss ich die Miete bezahlen?“\n\n&nbsp;\n\nDer Arzt sagt zu dir: „Sie müssen mehr Sport machen. Nur dann werden Sie nicht krank.“\nDu erzählst deiner Frau: „Der Arzt hat gesagt, wir sollen Sport machen. Das ist gesund.“",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L4_S13a_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E15_L4_S14_A1_Loesungsaudio.mp3"
+					}
+				]
+			]	
+		]
+	},
+	{
+		title		: "Von Kopf bis Fuß",
+		"avatarURL": "https://static.dw.com/image/37397057_401.jpg",
+		hyperText	: [
+			[
+				"Sie nehmen Fußbälle mit.\nSie nehmen eine Ballpumpe mit.\nSie nehmen Würste zum Grillen mit.\nSie nehmen Getränke mit.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S2_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Max: Toll! Waren die Fußbälle teuer ?\nTarek: Nein, die waren super billig . Ein Fußball hat 4,99 Euro gekostet&nbsp;– weniger als die Getränke.\nMax: Tja, Verpflegung ist immer am teuersten .",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S5_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Die&nbsp; Fußbälle kosten 4,99 Euro. Sie sind billig. Die Basketbälle kosten 4,49 Euro. Sie sind billiger . Die Tennisbälle kosten 3,99 Euro. Sie sind am billigsten .\n\nEin Tischtennisschläger kostet 6,99 Euro. Er ist nicht teuer. Ein Tennisschläger kostet 69 Euro. Er ist teurer . Ein Golfschläger kostet 569 Euro. Er ist am teuersten .",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S6_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S7_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S7_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S7_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S7_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S7_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S7_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S7_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S7_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S7_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S7_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S7_A6_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S7_A6_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S8_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S8_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S8_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S8_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S8_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S8_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S8_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S8_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Die Person spielt den Ball mit dem Fuß.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S10_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Die Person spielt den Ball mit dem Knie.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S10_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Die Person spielt den Ball mit der Hand.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S10_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Die Person spielt den Ball mit dem Kopf.",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S10_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Tom ist sehr groß . Er hat braune Haare und grüne Augen. Er hat sehr starke Arme und Beine und eine breite Brust . Er macht viel Bodybuilding.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L1_S11_A1_Loesungsaudio.mp3"
+					}
+				]
+			]	
+		]
+	},
+	{
+		title		: "Bist du fit?",
+		"avatarURL": "https://static.dw.com/image/48250827_401.jpg",
 		hyperText	: [
 
 		]
 	},
 	{
-		title		: "",
-		"avatarURL"	: "",
+		title		: "Fitness",
+		"avatarURL": "https://static.dw.com/image/37397073_401.jpg",
 		hyperText	: [
 
 		]
 	},
 	{
-		title		: "",
-		"avatarURL"	: "",
+		title		: "Ist das gesund?",
+		"avatarURL": "https://static.dw.com/image/37397089_401.jpg",
 		hyperText	: [
 
 		]
 	},
-	// {
-	// 	title		: "",
-	// 	"avatarURL"	: "",
-	// 	hyperText	: [
+	{
+		title		: "Geht es dir gut?",
+		"avatarURL": "https://static.dw.com/image/37397126_401.jpg",
+		hyperText	: [
 
-	// 	]
-	// },
-	
+		]
+	},
+	{
+		title		: "Beim Arzt",
+		"avatarURL": "https://static.dw.com/image/37397209_401.jpg",
+		hyperText	: [
+
+		]
+	},
+	{
+		title		: "Gute Besserung!",
+		"avatarURL": "https://static.dw.com/image/37397248_401.jpg",
+		hyperText	: [
+
+		]
+	},
+	{
+		title		: "Nehmen Sie …",
+		"avatarURL": "https://static.dw.com/image/37397142_401.jpg",
+		hyperText	: [
+
+		]
+	},
+	{
+		title		: "Meine Heimat",
+		"avatarURL": "https://static.dw.com/image/37397158_401.jpg",
+		hyperText	: [
+
+		]
+	},
+	{
+		title		: "Leben in Deutschland",
+		"avatarURL": "https://static.dw.com/image/37397231_401.jpg",
+		hyperText	: [
+
+		]
+	},
+	{
+		title		: "Anders als zu Hause",
+		"avatarURL": "https://static.dw.com/image/37397193_401.jpg",
+		hyperText	: [
+
+		]
+	},
+	{
+		title		: "Ich träume von …",
+		"avatarURL": "https://static.dw.com/image/37397328_401.jpg",
+		hyperText	: [
+
+		]
+	}	
 ]
