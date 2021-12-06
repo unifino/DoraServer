@@ -18564,35 +18564,2026 @@ export const DNA: g.hypGene[] = [
 		title		: "Bist du fit?",
 		"avatarURL": "https://static.dw.com/image/48250827_401.jpg",
 		hyperText	: [
-
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S4_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S4_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S4_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S4_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+				
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S5_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S5_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S5_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S6_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S6_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S6_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S6_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S6_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S6_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S6_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S6_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S6_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S6_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Liebe Fußball-Freunde,\n\nich habe einen neuen Trainingsplan für uns gemacht. In den letzten Wochen waren wir zu faul . Wir müssen mehr trainieren und alle müssen mitmachen . Nächste Woche spielen wir gegen den Verein „Ballsport Neustadt“. Da wollen wir alle gewinnen , oder?\nWir müssen darum fit sein. Am besten, ihr trainiert jeden Tag und joggt oder fahrt Fahrrad. Das ist anstrengend, aber nach dem Spiel können wir entspannen.&nbsp;\n\nViele Grüße\nMax\n&nbsp;",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S7_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Tarek: Max sagt immer: Ihr seid alle faul und . Er sagt, wir müssen mehr trainieren. Aber wir sind gar nicht so schlecht. Letzten Monat haben wir sogar gewonnen. Das andere hat nicht fair gespielt. Sie haben viele Fouls gemacht und zwei rote Karten bekommen. Das war super für uns. Wir konnten ganz spielen. Ich habe zwei Tore geschossen und Yanis hat drei Tore . Wir haben 5 zu 0 . Wir sind also richtig gut.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S9_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S10_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S10_Audio2.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S10_Audio3.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S10_Audio4.mp3"
+					}
+				]
+			],
+			[
+				"Machst du regelmäßig Sport, manchmal Sport oder nie Sport?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S11_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S11_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Wie oft machst du normalerweise Sport?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S11_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S11_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Machst du lieber allein oder mit Freunden Sport?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S11_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S11_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Wann machst du normalerweise Sport? Am Wochenende, morgens, abends?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S11_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L2_S11_A4_Loesungsaudio.mp3"
+					}
+				]
+			]	
 		]
 	},
 	{
 		title		: "Fitness",
 		"avatarURL": "https://static.dw.com/image/37397073_401.jpg",
 		hyperText	: [
-
+			[
+				"Max möchte weitertrainieren.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S2_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Tarek möchte sich ausruhen.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S2_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Zuerst laufen sie. Emma läuft schnell, aber Charlotte läuft schneller . Emma verliert. Tina läuft am schnellsten . Sie gewinnt.\nDann springen sie. Tina kann weit springen, aber Emma springt weiter . Charlotte springt am weitesten . Charlotte kann aber nicht sehr hoch springen. Tina springt höher . Emma springt&nbsp; am höchsten . Sie gewinnt.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S4_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S5_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S5_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Lisa spricht gut Englisch. Nina spricht Englisch als Lisa. Aber Max spricht Englisch.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S6_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Die Zugspitze ist hoch. Der Fuji ist als die Zugspitze. Der Mount Everest ist .",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S6_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Der Rhein ist ein langer Fluss . Der Mekong ist als der Rhein. Der Nil ist .",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S6_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Berlin ist groß. In Berlin leben 3,5 Millionen Menschen. New York ist als Berlin. In New York leben 8,5&nbsp;Millionen Menschen. In Tokio leben 9,5&nbsp;Millionen Menschen. Tokio ist .",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S6_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Welche Sprache findest du schwerer? Deutsch oder Englisch?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S7_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S7_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Was isst du lieber? Pizza oder Hamburger?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S7_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S7_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Ich trinke am liebsten Tee. Und du?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S7_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S7_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"In Berlin wohnen 3,5 Millionen Menschen, in Hamburg wohnen 1,8 Millionen Menschen, in München wohnen 1,5 Millionen Menschen. Welche deutsche Stadt ist am größten?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S7_A6_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S7_A6_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Iss viel Obst.\nTrink regelmäßig Alkohol.\nTrink keinen Alkohol.\nTrink viel Wasser.\nRauch nicht.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S8_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Gesundheitstipps für den Alltag\nTipps zur Ernährung",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S9_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Viel bewegen!\nObst und Gemüse essen!\nAusruhen!",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S9_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S10_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S10_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S10_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S10_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S10_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S10_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S11_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S11_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S11_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S11_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Ich habe oft Schmerzen im Rücken.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S12_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S12_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Ich möchte fitter werden, aber ich habe keine Zeit für Sport.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S12_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S12_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Ich möchte gesünder leben.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S12_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L3_S12_A3_Loesungsaudio.mp3"
+					}
+				]
+			]
 		]
 	},
 	{
 		title		: "Ist das gesund?",
 		"avatarURL": "https://static.dw.com/image/37397089_401.jpg",
 		hyperText	: [
-
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://dwhlsondemand-vh.akamaihd.net/i/dwtv_video/flv/nicosweg/A1_E16_L4_F68_sd_,sor,avc,.mp4.csmil/master.m3u8"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S3_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S3_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Das Wichtigste ist die Ernährung.\nIss viel Obst !\nTrink keinen Alkohol und rauch nicht!\nTrink viel Wasser und iss keine Süßigkeiten !",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S3_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Rauch nicht!",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S5_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Trinkt viel Wasser!",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S5_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Esst viel Obst!",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S5_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Fahr mit dem Fahrrad, nicht mit dem Auto!",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S5_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Gib mir endlich den Kartoffelsalat!",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S5_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S6_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S6_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S6_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S6_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Ich möchte fitter werden, aber ich habe keine Zeit für Sport.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S7_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S7_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Ich habe oft Schmerzen im Rücken. ",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S7_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S7_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Ich habe ein Problem. Ich bin oft krank.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S9_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S9_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Ich habe ein Problem. Ich bin immer müde.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S9_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S9_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Ich habe ein Problem. Ich bin zu dick.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S9_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S9_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S8_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S8_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S8_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S8_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S8_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S11_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S11_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S11_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S11_A4_Loesungaudio.mp3"
+					}
+				]
+			],
+			[
+				"Du möchtest abnehmen ? Dann musst du dich gesund ernähren. Iss viel Obst wie Ananas, Äpfel und Kirschen und Gemüse wie Karotten, Tomaten und Brokkoli. Trink viel Wasser, aber keine süßen Getränke. Vorsicht mit Fett ! Iss kein fettes Fleisch oder Mayonnaise und nur wenig Butter.\n\nAber nicht nur die Ernährung ist wichtig, du musst dich auch bewegen . Geh regelmäßig joggen oder ins Fitnessstudio. Abnehmen kann auch Spaß machen. Triff dich mit deinen Freunden zum Fußballspielen oder zum Schwimmen.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S12_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S13_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S13_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S13_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S13_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S13_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S13_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S13_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S13_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S13_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S13_A5_Audo1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S13_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Alle spielen Fußball.\nAlle bewegen sich viel.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S14_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Yanis isst Süßigkeiten.\nNach dem Sport gibt es Würste und Kartoffelsalat.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E16_L4_S14_A2_Loesungsaudio.mp3"
+					}
+				]
+			]
 		]
 	},
 	{
 		title		: "Geht es dir gut?",
 		"avatarURL": "https://static.dw.com/image/37397126_401.jpg",
 		hyperText	: [
-
+			[
+				"Yanis: Autsch! … Aua …\nMax: Was ist denn passiert?&nbsp;\nYanis: Ich bin gestürzt . Meine Hand tut weh .&nbsp;\nMax: Die rechte oder die linke Hand (1)?&nbsp;\nYanis: Die rechte.&nbsp;\nMax: Und deine Finger (2)? Zeig mal . Hmm, zwei sind geschwollen . Aber der Daumen sieht okay aus. &nbsp;",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S5_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Yanis: Autsch! … Aua …\nMax: Was ist denn los?&nbsp;\nYanis: Ich habe Schmerzen. Mein Bein (1) tut weh.\nMax: Wo tut es denn genau weh?&nbsp;\nYanis: Ich habe Schmerzen am Knie (2).\n&nbsp;",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S5_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Yanis: Meine Nase (1)!&nbsp;\nMax: Schon wieder ?&nbsp;\nYanis: Meine Nase (1) tut so weh. Ich glaube, sie blutet .&nbsp;\nMax: Zeig mal. Tun deine Augen (2) auch weh? Dein linkes Auge (2) sieht nicht gut aus. Es ist ganz rot. Ich glaube, du musst zum Arzt.&nbsp;",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S5_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Max: Kannst du nicht mehr?\nYanis: Ich habe schlimme&nbsp;Schmerzen am Rücken (1).\nMax: Kannst du sitzen?&nbsp;\nYanis: Ja, mein Po ist in Ordnung . Es sind die Schultern (2). Die rechte tut sehr weh. Und die linke Schulter auch.&nbsp;\nMax: Kannst du die Arme (3) bewegen?\nYanis: Ja, das geht.&nbsp;",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S5_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S6_A1_Audio.mp3"
+					}
+				]
+			],
+			[
+				"Nein, ich habe Schmerzen. Mein Kopf tut weh. ",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S6_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S6_A3_Audio.mp3"
+					}
+				]
+			],
+			[
+				"Nein, ich habe Schmerzen. Meine Brust tut weh.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S6_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S6_A4_Audio.mp3"
+					}
+				]
+			],
+			[
+				"Nein, ich habe Schmerzen. Meine Beine tun weh.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S6_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S6_A6_Audio.mp3"
+					}
+				]
+			],
+			[
+				"Nein, ich habe Schmerzen. Mein linker Arm tut weh. ",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S6_A6_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S7_Audio.mp3"
+					}
+				]
+			],
+			[
+				"Geht es dir nicht gut?\nAlles okay?\nWas ist denn passiert?\nWas ist denn los?",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S7_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S9_Audio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S9_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Nico hat Schmerzen am Fuß. Der Fuß ist ganz dick . Er braucht ein Kühlkissen .\n\nMax hat eine kleine Wunde am Finger. Sie&nbsp; blutet . Er braucht ein Pflaster .\n\nYanis hat eine große Verletzung am Knie. Sein Knie blutet stark . Ein Pflaster ist zu klein. Er braucht einen Verband . Daniel hat plötzlich starke Bauchschmerzen&nbsp;und kann nicht mehr Fußball spielen. Er braucht eine Schmerztablette .&nbsp;",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S10_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Emma hat zu viel Eis gegessen. Jetzt hat sie Bauchschmerzen .\n\nNico war viel draußen,&nbsp;aber war nicht so warm angezogen.&nbsp;Jetzt tut sein Kopf weh. Er hat auch Halsschmerzen , Husten und Schnupfen . Am Abend bekommt er dann Fieber .&nbsp;\n\nYanis hat eine Verletzung am Kopf. Seine Stirn blutet und er hat Kopfschmerzen . Beim Arzt bekommt er eine Schmerztablette und einen Verband .",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S12_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Viele Leute haben eine Erkältung.\nViele Leute haben Hals- und Kopfschmerzen.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S14_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Man soll Sport machen.\nMan soll abwechselnd heiß und kalt duschen.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S14_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Man soll viel Wasser, Orangensaft und Tee trinken.\nMan soll viel Obst und Gemüse essen.\nMan soll zweimal pro Woche Fisch essen.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S14_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S15_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Lisa: Ich bin erkältet. Was kann ich machen?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S16_A1_Audio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S16_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				" Lisa: Hast du noch mehr Tipps für mich?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S16_A2_Audio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S16_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Yanis: Ich habe Fieber. Was kann ich machen?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S16_A4_Audio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S16_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Herr Stöpsel: Mein Knie tut weh. Haben Sie einen Tipp für mich?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S16_A5_Audio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S16_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Herr Stöpsel: Was kann ich noch machen?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S16_A6_Audio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L1_S16_A6_Loesungsaudio.mp3"
+					}
+				]
+			]
 		]
 	},
 	{
 		title		: "Beim Arzt",
 		"avatarURL": "https://static.dw.com/image/37397209_401.jpg",
 		hyperText	: [
-
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S2_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S2_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S2_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S2_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S3_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S3_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S3_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S3_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S3_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S3_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S3_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S3_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S3_A6_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S3_A6_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Für viele Medikamente braucht man ein Rezept.\nKrankenversicherungen gibt es schon lange in Deutschland.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S5_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Sprechstundenhilfe : Arztpraxis Dr. Grube, guten Tag.\nMax: Guten Tag, hier ist Max Stöpel. Mein&nbsp;Freund hatte einen kleinen Unfall auf dem Fußballplatz. Sein Fuß ist dick und tut sehr weh. Können wir sofort kommen?\nSprechstundenhilfe: Wann können Sie denn hier sein?\nMax: In etwa 15 Minuten.\nSprechstundenhilfe: Gut. Dann bis gleich .&nbsp;\nMax: Vielen Dank. Auf Wiederhören.&nbsp;",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S6_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Sprechstundenhilfe: Praxis Dr. Werner und Dr. Fries, guten Tag.\nMann: Guten Tag, hier&nbsp;ist Thomas Baier. Mein Sohn hat Bauchschmerzen. Die Schmerzen sind sehr schlimm und er trinkt nichts mehr. Wir haben keinen Termin. Aber können wir trotzdem vorbeikommen ?\nSprechstundenhilfe: Kommen Sie bitte um 11:30 Uhr. Aber Sie müssen etwas warten. Unsere Praxis ist heute sehr voll.&nbsp;\nMann: Das ist kein Problem.\nSprechstundenhilfe: Gut. Dann kommen Sie bitte um 11:30 Uhr.&nbsp;\nMann: Vielen Dank. Auf Wiederhören.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S6_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Sprechstundenhilfe: Praxis Dr. Grube, guten Tag?\nMann: Guten Tag, hier ist Helbig. Ich habe am 10. Oktober einen Termin um 15 Uhr. Aber mein Rücken tut heute sehr weh. Ich kann gar nicht laufen. Kann ich heute schon kommen?\nSprechstundenhilfe: Heute hat Dr. Grube keine Sprechstunde . Haben Sie morgen Vormittag um 11 Uhr Zeit?&nbsp;\nMann: Ja, das geht. Vielen Dank.\nSprechstundenhilfe: Auf Wiederhören.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S6_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Praxis Dr. Kerz, guten Tag?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S7_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Mein Name ist Nina Jacobi.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S7_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Ja, Frau Jacobi?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S7_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Ich habe starke Bauchschmerzen. Kann ich heute noch vorbeikommen?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S7_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Können Sie um 11 vorbeikommen?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S7_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Ja, das geht. Vielen Dank.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S7_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Sie müssen aber etwas warten. Die Praxis ist sehr voll.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S7_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Das ist kein Problem.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S7_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Gut, Frau Jacobi. Bitte bringen Sie Ihre Versichertenkarte mit. ",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S7_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Gut. Auf Wiederhören.",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S7_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Sie dürfen nicht essen.\nSie dürfen etwas trinken.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S9_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Sie dürfen Tee trinken.\nSie dürfen keinen Alkohol trinken.\nSie dürfen nicht nach draußen gehen.\nSie dürfen duschen.",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S9_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Sie dürfen keinen Sport machen.\nSie dürfen arbeiten.\nSie dürfen schwimmen.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S9_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"„Du musst zum Arzt gehen.“",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S10_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"„Sie müssen im Bett bleiben.“",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S10_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"„Sie dürfen nicht schwimmen.“",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S10_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"„Du musst heute nicht putzen. Ich putze für dich.“",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S10_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"„Du darfst nicht Gitarre spielen. Die Nachbarn schlafen.“ ",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S10_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S12_Audio.mp3"
+					}
+				]
+			],
+			[
+				"Sebastian muss oft zum Zahnarzt gehen.\nBeim Zahnarzt muss Sebastian lange warten.\nSebastian darf nicht sofort ins Behandlungszimmer gehen.\nSebastian war beim Zahnarzt. Danach darf er nichts essen.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S12_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37804000_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S13_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37804060_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S13_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37804106_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S13_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37804030_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S13_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37804046_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E17_L2_S13_A5_Loesungsaudio.mp3"
+					}
+				]
+			]
 		]
 	},
 	{
