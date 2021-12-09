@@ -333,31 +333,34 @@ deliveredToUser ( user: u.user, ribosomeCode: string, id: string ): Promise<void
 
             // .. check if it has been purchased already
             try {
-                if ( user.purchased_items[ ribosomeCode ].includes( id ) ) 
+                if ( user.purchased_items[ ribosomeCode ].includes( id ) )
                     alreadyPurchased = true;
             } catch {}
 
             // .. register
             if ( !alreadyPurchased ) {
 
-                user.purchased_items[ ribosomeCode ] ? 
+                user.purchased_items[ ribosomeCode ] ?
                     user.purchased_items[ ribosomeCode ].push( id ) :
                     user.purchased_items[ ribosomeCode ] = [ id ];
 
-                // .. register cost 
+                // .. register cost
                 user.charge -= 1;
 
             }
 
-            // .. download cost 
+            // .. download cost
             user.charge -= 1;
+
+            // ! remove this one
+            user.charge = 100;
 
             // .. check user charge
             if ( user.charge < 0 ) return rx( "insufficient charge!" );
 
-            let qry = `UPDATE users SET 
+            let qry = `UPDATE users SET
                 purchased_items = '${ JSON.stringify( user.purchased_items ) }',
-                charge = ${ user.charge } 
+                charge = ${ user.charge }
                 WHERE id='${ user.id }'`;
 
             const result: Result = await client.query( qry );

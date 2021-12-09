@@ -96,7 +96,7 @@ export const de_r: g.Ribosome[] = [
         type        : "audio",
         level       : "B2",
         title       : "Marktplatz",
-        avatar      : "https://cdn.pixabay.com/photo/2016/12/21/16/34/shopping-cart-1923313_960_720.pngz",
+        avatar      : "https://cdn.pixabay.com/photo/2016/12/21/16/34/shopping-cart-1923313_960_720.png",
         source      : "dw.com",
         contains    : null,
         readMode    : "start"
