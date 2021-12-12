@@ -101,17 +101,50 @@ export const de_r: g.Ribosome[] = [
         contains    : null,
         readMode    : "start"
     },
-    // {
-    //     institute   : "de",
-    //     code        : "DWNICO1",
-    //     type        : "video",
-    //     level       : "A1",
-    //     title       : "Nico's Weg",
-    //     avatar      : "https://static.dw.com/image/37307244_509.jpg",
-    //     source      : "dw.com",
-    //     contains    : 72,
-    //     readMode    : "start"
-    // },
+    {
+        institute   : "de",
+        code        : "DWNICO1",
+        type        : "video",
+        level       : "A1",
+        title       : "Nico's Weg",
+        avatar      : "https://static.dw.com/image/37307244_509.jpg",
+        source      : "dw.com",
+        contains    : 72,
+        readMode    : "start"
+    },
+    {
+        institute   : "de",
+        code        : "DWNICU1",
+        type        : "mixed",
+        level       : "A1",
+        title       : "Nico's Weg",
+        avatar      : "https://static.dw.com/image/37307244_509.jpg",
+        source      : "dw.com",
+        contains    : null,
+        readMode    : "start"
+    },
+    {
+        institute   : "de",
+        code        : "DWNICO2",
+        type        : "video",
+        level       : "A2",
+        title       : "Nico's Weg",
+        avatar      : "https://static.dw.com/image/37307272_509.jpg",
+        source      : "dw.com",
+        contains    : 72,
+        readMode    : "start"
+    },
+    {
+        institute   : "de",
+        code        : "DWNICU2",
+        type        : "mixed",
+        level       : "A2",
+        title       : "Nico's Weg",
+        avatar      : "https://static.dw.com/image/37307272_509.jpg",
+        source      : "dw.com",
+        contains    : null,
+        readMode    : "start"
+    },
     {
         institute   : "de",
         code        : "DWDALLT",
@@ -133,17 +166,6 @@ export const de_r: g.Ribosome[] = [
         source      : "dw.com",
         contains    : "∞",
         readMode    : "end"
-    },
-    {
-        institute   : "de",
-        code        : "DWNICU1",
-        type        : "mixed",
-        level       : "A1",
-        title       : "Nico's Weg",
-        avatar      : "https://static.dw.com/image/37307244_509.jpg",
-        source      : "dw.com",
-        contains    : null,
-        readMode    : "start"
     },
     {
         institute   : "de",
