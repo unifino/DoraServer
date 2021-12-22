@@ -32,20 +32,19 @@ app.get( '/test', ( req: express.Request, res: express.Response ) => {
 
     const link = req.query.l as string;
 
-    var options = {
-        host: 'https://fitored.ir',
-        port: 80,
-        path: '/'
-    };
+    const options = {
+        hostname: 'fitored.com',
+        port: 443,
+        path: '/',
+        method: 'GET'
+      }
     // var options = {
     //     url: link,
     //     method: "GET",
     //     headers: { "User-Agent": userAgent }
     // };
 
-    get( {
-        host: 'https://fitored.ir',
-    }, res_2 => {
+    request( options, res_2 => {
 
         let html = "";
 
