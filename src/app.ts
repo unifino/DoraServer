@@ -14,6 +14,7 @@ import { get }                          from 'https';
 const PORT = process.env.PORT || 5000;
 const app = express();
 let bodyParser = require( 'body-parser' );
+const userAgent = "Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.2 Chrome/87.0.4280.141 Mobile Safari/537.36";
 
 // -- ======================================================================== SETUP =======
 
@@ -31,8 +32,11 @@ app.get( '/test', ( req: express.Request, res: express.Response ) => {
 
     // let link = "https://www.dw.com/de/deutsch-lernen/alltagsdeutsch/s-9214";
     const link = req.query.l as string;
-
-    get( link, res_2 => {
+    var options = {
+        url: link,
+        headers: { "User-Agent": userAgent }
+    };
+    get( options, res_2 => {
 
         let html = "";
 
