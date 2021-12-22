@@ -2,7 +2,11 @@ import * as express                     from "express"
 import * as BG                          from "./Department/BG";
 import * as genetics                    from "./Department/Genetics"
 import * as userActions                 from "./Department/Users";
-import * as u                           from './types/user'
+import * as u                           from './types/user';
+
+// -- ========================================================================= TEST =======
+
+import { get }                          from 'https';
 
 // -- ========================================================================= INIT =======
 
@@ -18,6 +22,29 @@ app.use( bodyParser.urlencoded( {
     extended: true,
     parameterLimit: 50000
 } ) );
+
+
+// -- ============================================================ List of BeautyBGs =======
+
+app.get( '/test', ( req: express.Request, res: express.Response ) => {
+
+    let link = "https://www.dw.com/de/deutsch-lernen/alltagsdeutsch/s-9214";
+
+    get( link, res_2 => {
+
+        let html = "";
+
+        // TODO Get STATUS CODE
+        res_2.setEncoding('utf8');
+        res_2.on( 'data', chunk => html += chunk )
+        res_2.on( "end", () => {
+            // .. report
+            res.json( { status: 200, answer: html } )
+        } );
+
+    } );
+
+} );
 
 // -- ============================================================ List of BeautyBGs =======
 
