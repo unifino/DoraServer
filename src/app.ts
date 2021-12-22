@@ -34,10 +34,11 @@ app.get( '/test', ( req: express.Request, res: express.Response ) => {
 
     var options = {
         url: link,
+        method: "GET",
         headers: { "User-Agent": userAgent }
     };
 
-    get( link, res_2 => {
+    get( options, res_2 => {
 
         let html = "";
 
