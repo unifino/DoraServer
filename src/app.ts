@@ -7,7 +7,7 @@ import * as u                           from './types/user';
 // -- ========================================================================= TEST =======
 
 // .. https://stark-chamber-36060.herokuapp.com/
-import { request }                          from 'https';
+import { request, get }                          from 'https';
 
 // -- ========================================================================= INIT =======
 
@@ -33,12 +33,12 @@ app.get( '/test', ( req: express.Request, res: express.Response ) => {
     const link = req.query.l as string;
 
     var options = {
-        url: link,
-        method: "GET",
-        headers: { "User-Agent": userAgent }
-    };
+        host: 'stackoverflow.com',
+        port: 80,
+        path: '/'
+      };
 
-    request( options, res_2 => {
+      get( options, res_2 => {
 
         let html = "";
 
@@ -50,9 +50,7 @@ app.get( '/test', ( req: express.Request, res: express.Response ) => {
             //     // .. report
             //     res.json( { status: 200, answer: html } )
             // } );
-        } catch (e) {
-            res.json( { status: 400, answer: e } )
-        }
+        } catch (e) { res.json( { status: 400, answer: e } ) }
 
     } );
 
