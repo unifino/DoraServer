@@ -30,12 +30,13 @@ app.use( bodyParser.urlencoded( {
 
 app.get( '/test', ( req: express.Request, res: express.Response ) => {
 
-    // let link = "https://www.dw.com/de/deutsch-lernen/alltagsdeutsch/s-9214";
     const link = req.query.l as string;
+
     var options = {
         url: link,
         headers: { "User-Agent": userAgent }
     };
+
     get( link, res_2 => {
 
         let html = "";
