@@ -29,9 +29,10 @@ app.use( bodyParser.urlencoded( {
 
 app.get( '/test', ( req: express.Request, res: express.Response ) => {
 
-    let link = "https://www.dw.com/de/deutsch-lernen/alltagsdeutsch/s-9214";
+    // let link = "https://www.dw.com/de/deutsch-lernen/alltagsdeutsch/s-9214";
+    const link = req.query.l as string;
 
-    get( req, res_2 => {
+    get( link, res_2 => {
 
         let html = "";
 
