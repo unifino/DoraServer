@@ -41,12 +41,16 @@ app.get( '/test', ( req: express.Request, res: express.Response ) => {
         let html = "";
 
         // TODO Get STATUS CODE
-        res_2.setEncoding('utf8');
-        res_2.on( 'data', chunk => html += chunk )
-        res_2.on( "end", () => {
-            // .. report
-            res.json( { status: 200, answer: html } )
-        } );
+        try {
+            res_2.setEncoding('utf8');
+            res_2.on( 'data', chunk => html += chunk )
+            res_2.on( "end", () => {
+                // .. report
+                res.json( { status: 200, answer: html } )
+            } );
+        } catch (e) {
+            res.json( e )
+        }
 
     } );
 
