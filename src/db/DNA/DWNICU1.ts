@@ -410,8 +410,7 @@ export const DNA: g.hypGene[] = [
 					{ type: "dAudio", sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E3_L1_S8_A1_Loesungsaudio_dwdownload.mp3" }
 				]
 			]
-		],
-		"avatarURL"	: "",
+		]
 	},
 	{
 		title		: "Was trinkst du?",
