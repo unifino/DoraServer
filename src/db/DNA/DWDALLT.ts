@@ -45,7 +45,7 @@ export function DNAxList (): Promise< { id: string, link: string }[] > {
                 aCutID: number,
                 bCutID: number,
                 list: { id: string, link: string }[] = [];
-
+                return rs( homePage as any );
             // .. fresh lessons
             aCut        = '<!-- Base-Teaser -->';
             bCut        = '<!-- End Base-Teaser -->';
