@@ -44,12 +44,12 @@ app.get( '/test', ( req: express.Request, res: express.Response ) => {
 
         // TODO Get STATUS CODE
         try {
-            res_2.setEncoding('utf8');
-            res_2.on( 'data', chunk => html += chunk )
-            res_2.on( "end", () => {
-                // .. report
-                res.json( { status: 200, answer: html } )
-            } );
+            // res_2.setEncoding('utf8');
+            // res_2.on( 'data', chunk => html += chunk )
+            // res_2.on( "end", () => {
+            //     // .. report
+            //     res.json( { status: 200, answer: html } )
+            // } );
         } catch (e) {
             res.json( { status: 400, answer: e } )
         }
