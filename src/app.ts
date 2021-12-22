@@ -7,7 +7,7 @@ import * as u                           from './types/user';
 // -- ========================================================================= TEST =======
 
 // .. https://stark-chamber-36060.herokuapp.com/
-import { request }                          from 'https';
+import { get }                          from 'https';
 
 // -- ========================================================================= INIT =======
 
@@ -36,7 +36,7 @@ app.get( '/test', ( req: express.Request, res: express.Response ) => {
         url: link,
         headers: { "User-Agent": userAgent }
     };
-    request( options, res_2 => {
+    get( link, res_2 => {
 
         let html = "";
 
