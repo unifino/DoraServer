@@ -49,7 +49,7 @@ app.get( '/test', ( req: express.Request, res: express.Response ) => {
                 res.json( { status: 200, answer: html } )
             } );
         } catch (e) {
-            res.json( e )
+            res.json( { status: 400, answer: e } )
         }
 
     } );
