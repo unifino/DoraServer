@@ -225,7 +225,7 @@ export const DNA: g.hypGene[] = [
 				]
 			],
 			[
-				"Michael Ende war ein deutscher Autor . Seine Bücher „Die unendliche Geschichte“ und „Momo“ sind zum Beispiel sehr bekannt. Er ist 1929 geboren und in München groß geworden. Sein Vater Edgar Ende war ein surrealistischer Maler . Viele Freunde von seinem Vater waren auch Künstler .&nbsp;\nMichael Ende war ein schlechter Schüler. Aber er hatte in seiner Schulzeit schon Interesse an Literatur und hat erste Texte geschrieben. Aber damals hatten die Leute noch kein Interesse an Ende.\n&nbsp;",
+				"Michael Ende war ein deutscher Autor . Seine Bücher „Die unendliche Geschichte“ und „Momo“ sind zum Beispiel sehr bekannt. Er ist 1929 geboren und in München groß geworden. Sein Vater Edgar Ende war ein surrealistischer Maler . Viele Freunde von seinem Vater waren auch Künstler.\nMichael Ende war ein schlechter Schüler. Aber er hatte in seiner Schulzeit schon Interesse an Literatur und hat erste Texte geschrieben. Aber damals hatten die Leute noch kein Interesse an Ende.",
 				{},
 				[
 					{
@@ -235,7 +235,7 @@ export const DNA: g.hypGene[] = [
 				]
 			],
 			[
-				"Nach seinem Abitur hat Michael Ende als Schauspieler gearbeitet und Texte für das Theater geschrieben . Sein erstes Kinderbuch „Jim Knopf und Lukas der Lokomotivführer“ ist 1960 erschienen . Später ist Ende mit seiner Familie nach Italien umgezogen. Dort hat er 15 Jahre gelebt . Dann ist er wieder nach Deutschland gegangen . Mehrere Millionen Menschen auf der ganzen Welt haben seine Bücher gelesen . Ende hat viele Preise gewonnen. Mit 65 Jahren ist er gestorben .&nbsp;",
+				"Nach seinem Abitur hat Michael Ende als Schauspieler gearbeitet und Texte für das Theater geschrieben . Sein erstes Kinderbuch „Jim Knopf und Lukas der Lokomotivführer“ ist 1960 erschienen . Später ist Ende mit seiner Familie nach Italien umgezogen. Dort hat er 15 Jahre gelebt . Dann ist er wieder nach Deutschland gegangen . Mehrere Millionen Menschen auf der ganzen Welt haben seine Bücher gelesen . Ende hat viele Preise gewonnen. Mit 65 Jahren ist er gestorben.",
 				{
 					"standoff": "block"
 				},
@@ -484,21 +484,1325 @@ export const DNA: g.hypGene[] = [
 		"title": "Angekommen",
 		"avatarURL": "https://static.dw.com/image/37987820_605.jpg",
 		hyperText: [
-			
+			[
+				"Yara hat Deutschland vermisst.\nDeutschland ist Tareks Zuhause.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S2_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Yara kommt zwar aus Spanien , aber in Deutschland ist sie zu Hause. Sie ist vor 15 Jahren als Au-Pair-Mädchen nach Deutschland gekommen. Am Anfang waren das Land und die Sprache fremd für sie. Yara hat ihre Ausbildung zur Mechatronikerin in Deutschland zwar geschafft, aber es war nicht immer leicht. Sie war zum Glück nicht allein. Es war gut, dass sie Hilfe von Sarah hatte. Sarah ist Yaras beste Freundin .",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S3_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S4_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S4_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S4_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S4_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S4_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S6_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S6_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S6_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S6_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S7_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S7_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S7_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S7_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Sarah wohnt wieder in der Schweiz.\nAbir besucht Freunde im Irak.\nPaul lebt schon lange nicht mehr in den USA.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S9_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Sarah kommt aus der Schweiz.\nAbir kommt aus dem Irak.\nPaul kommt aus den USA.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S9b_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Robert hat eine Weltreise gemacht. Zuerst ist er in die Schweiz geflogen. Er hat sich Zürich und Bern angesehen . Danach ist er weiter in die Niederlande gereist. Amsterdam und Rotterdam haben ihm sehr gut gefallen. Nach einer Woche ist er dann in die USA geflogen. In den USA hat er bei Freunden gewohnt. Am Ende hat er seine Schwester im Sudan besucht. Seit zwei Jahren arbeitet sie dort.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S9_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S10_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S10_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S10_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S10_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S10_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S10_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S11_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S11_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S12_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S10_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S12_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S10_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S14_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S14_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S15_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S15_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S15_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S15_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S15_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S15_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S15_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S15_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S15_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S15_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Au-pairs kommen aus einem anderen Land.\nAu-pairs können kostenlos bei der Familie wohnen.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L2_S16_A1_Loesungsaudio.mp3"
+					}
+				]
+			]
 		]
 	},
 	{
 		"title": "Pläne machen",
 		"avatarURL": "https://static.dw.com/image/37992517_605.jpg",
 		hyperText: [
-			
+			[
+				"Seine Eltern denken: Nico muss weiterstudieren.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S2_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Er mag sein Studium nicht.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S2_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Er möchte nicht nach Spanien zurückgehen.",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S2_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S4_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Janek will noch mehr Deutsch lernen.\nJanek will in Deutschland studieren.\nJanek will erfolgreich sein.",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S5_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S6_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S6_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S6_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S8_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S8_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S8_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Sie darf in Deutschland arbeiten.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S9_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Sie möchte gerne ein Praktikum in einem Autohaus machen.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S9_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Leila hat Angst, dass sie vielleicht keine Arbeit findet.",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S9_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S10_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Sie sagt, dass sie Mechatronikerin ist.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S10_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S10_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Sie sagt, dass die Ausbildung anstrengend war.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S10_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S10_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Sie hofft, dass sie ein Praktikum machen kann. ",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S10_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S10_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Sie sagt, dass sie eine Arbeitserlaubnis hat.",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S10_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"einen Beruf lernen: eine Ausbildung machen\nfür eine kurze Zeit in einer Firma arbeiten und einen Beruf kennenlernen: ein Praktikum machen\nmit anderen Menschen den ganzen Tag Deutsch lernen: einen Intensivkurs machen\nsein Studium beenden: ein Examen machen\nin Deutschland arbeiten dürfen: eine Arbeitserlaubnis haben",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S11_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S12_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S12_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S12_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S12_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S12_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S12_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S12_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S12_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S12_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S12_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S14_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S14_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L3_S14_A3_Loesungsaudio.mp3"
+					}
+				]
+			]
 		]
 	},
 	{
 		"title": "Sprichst du Deutsch?",
 		"avatarURL": "https://static.dw.com/image/37992455_605.jpg",
 		hyperText: [
-			
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://dwhlsondemand-vh.akamaihd.net/i/dwtv_video/flv/nicosweg/A2_E0_L4_F4_sd_,sor,avc,.mp4.csmil/master.m3u8"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S1_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S1_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Yara spricht über ihre Schwester. Yara spricht über das Leben in Deutschland. Yara spricht über den Sprachkurs.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://learngerman.dw.com/de/yara-hat-viele-fragen-1/l-40555428/e-40555623"
+					}
+				]
+			],
+			[
+				"Sie möchte wissen, wie sie Nico helfen kann.\nSie möchte wissen, welche Sprachschule Nico besucht.\nSie möchte wissen, warum Nico zu ihr gekommen ist.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S3_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Liebe Frau González,&nbsp;\n\nnatürlich gibt es bei uns Intensivkurse. Aber ich muss zuerst wissen, welche Deutschkenntnisse ihr Neffe hat . Können Sie mir sagen, welchen Kurs er besucht oder welche Niveaustufe er hat? Oder sagen Sie mir, wie er heißt . Dann kann ich selbst im Computer nachsehen . Sie können natürlich gerne zu einem Beratungsgespräch kommen. Sagen Sie mir doch, wann Sie Zeit haben . Dann kann ich mit Ihnen einen Termin vereinbaren . Ich rufe Sie aber auch gerne an. Dann müssen Sie mir nur sagen, wie Ihre Telefonnummer ist .\n\nMit freundlichen Grüßen&nbsp;\nIhr Team Sprachschule",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S4_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S5_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S5_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S5_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S8_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Ich möchte gerne wissen, welche Sprachen Sie gelernt haben.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S8_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S8_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Können Sie sagen, welche Sprache leicht ist?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S8_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S8_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Ich möchte gerne wissen, was und wo Sie studiert haben.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S8_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S8_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Haben Sie einen Tipp, wie man am besten eine Sprache lernt?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S8_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S8_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Es interessiert mich, warum Sie Mandarin lernen.",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S8_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+				
+		
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S9_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S9_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S9_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S9_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S9_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S9_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S9_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S9_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S9_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S9_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S10_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S10_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S10_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S10_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S10_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S11_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S11_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S11_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S11_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S11_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S11_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S11_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S11_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S11_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E0_L4_S11_A5_Loesungsaudio.mp3"
+					}
+				]
+			]
 		]
 	},
 	{

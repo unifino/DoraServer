@@ -298,32 +298,12 @@ export const DNA: g.hypGene[] = [
 						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a1/A1_E0_L1_S16_A3_Loesungsaudio_dwdownload.mp3"
 					}
 				]
-			],
-		
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-		
+			]
 		]
 	},
 	{
 		"title"		: "Was machst du hier?",
+		"avatarURL"	: "https://static.dw.com/image/37384554_401.jpg",
 		hyperText	: [
 			[
 				"Wer ist denn das?\nWas machst du hier?\nWoher kommst du?\nWie alt bist du?",

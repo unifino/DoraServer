@@ -11,10 +11,11 @@ import {
 
 export function gene ( user: u.user ): Promise<g.gene> {
 
-    return new Promise ( (rs, rx) => { 
+    return new Promise ( (rs, rx) => {
 
         DNAxList().then( list => {
 
+            rx( list.length );
             // .. filter list to new ones for user
             list = list.filter( item => !user.gotFromThisRibosome.includes( item.id ) );
 

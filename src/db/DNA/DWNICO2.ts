@@ -19,7 +19,7 @@ export const DNA: g.gene[] = [
 		"title": "Pläne machen",
 		"text": "1\n00:00:06.880 --> 00:00:08.840\n– Meine Eltern verstehen mich nicht.\n\n2\n00:00:08.880 --> 00:00:12.120\nSie sagen, ich muss weiterstudieren.\nAber ich will nicht mehr studieren.\n\n3\n00:00:12.480 --> 00:00:14.840\nIch hasse es. Ich hasse Jura,\nich hasse alles daran.\n\n4\n00:00:14.880 --> 00:00:17.640\nIch bin eben nicht\nso perfekt wie mein Bruder …\n\n5\n00:00:17.680 --> 00:00:20.000\nIch möchte mit den Händen arbeiten.\n\n6\n00:00:20.360 --> 00:00:22.080\n– Das verstehe ich.\n\n7\n00:00:22.800 --> 00:00:26.400\n– Und was willst du jetzt machen?\nWo willst du wohnen?\n\n8\n00:00:26.440 --> 00:00:29.160\nWie möchtest du\nGeld verdienen und leben?\n\n9\n00:00:30.280 --> 00:00:32.320\n– Ich will auf keinen Fall\nzurück nach Spanien.",
 		"avatarURL": "https://static.dw.com/image/37992517_605.jpg",
-		"mediaURL": "<html>"
+		"mediaURL": "https://tvdownloaddw-a.akamaihd.net/downloads/Events/mp4/nicosweg/A2_E0_L3_F3_sd.mp4"
 	},
 	{
 		"title": "Sprichst du Deutsch?",
@@ -31,7 +31,7 @@ export const DNA: g.gene[] = [
 		"title": "Geld ist für mich …",
 		"text": "1\n00:00:12.320 --> 00:00:14.840\n– Und? Wie war das Gespräch\nmit deinen Eltern?\n\n2\n00:00:14.880 --> 00:00:17.360\n– Sie freuen sich,\nweil es mir gut geht,\n\n3\n00:00:17.440 --> 00:00:20.040\nwünschen mir viel Glück,\nund sie lieben mich sehr.\n\n4\n00:00:20.200 --> 00:00:21.040\n– Wirklich?\n\n5\n00:00:21.080 --> 00:00:23.320\n– Nein. Sie sind …\n\n6\n00:00:23.840 --> 00:00:25.200\n– ... stinksauer ...?\n\n7\n00:00:25.600 --> 00:00:27.000\n... wütend ...?\n– Ja.\n\n8\n00:00:27.160 --> 00:00:29.760\nSie sind wütend,\nweil ich nicht mehr studieren will.\n\n9\n00:00:29.880 --> 00:00:32.480\nSie sind wütend,\nweil ich nicht zurückkommen will …\n\n10\n00:00:34.200 --> 00:00:35.120\n– Und?\n\n11\n00:00:35.240 --> 00:00:36.560\n– Ich bleibe hier.\n\n12\n00:00:38.920 --> 00:00:41.280\n– Okay.\nGehen wir nach Hause!\n\n13\n00:00:41.880 --> 00:00:43.720\n– Okay.\n\n14\n00:00:52.800 --> 00:00:56.280\n– Ich muss zur Bank gehen,\nweil ich ein Konto eröffnen will.\n\n15\n00:00:56.880 --> 00:00:59.520\n– Sehr gut. Du musst dich\njetzt um vieles kümmern.\n\n16\n00:01:00.120 --> 00:01:01.440\n– Ich kann heute nicht zur Bank gehen,\n\n17\n00:01:01.520 --> 00:01:04.920\nweil ich zu Lisa\nzum Sprachkurs gehen muss.\n\n18\n00:01:05.080 --> 00:01:06.480\n– Um wie viel Uhr musst du zu Lisa?\n\n19\n00:01:06.840 --> 00:01:08.120\n– Ich gehe um elf zu Lisa.\n\n20\n00:01:08.280 --> 00:01:11.240\n– Dann kannst du danach zur Bank gehen.\nDas schaffst du.\n\n21\n00:01:11.280 --> 00:01:12.120\n– Mhm.\n\n22\n00:01:16.160 --> 00:01:17.000\n– Hier:\n\n23\n00:01:18.080 --> 00:01:20.200\ndein Willkommensgeschenk.\n\n24\n00:01:20.920 --> 00:01:22.680\nDamit geht’s schneller!\n\n25\n00:01:23.360 --> 00:01:24.960\n– Wow!\n\n26\n00:01:25.400 --> 00:01:27.000\nDanke!",
 		"avatarURL": "https://static.dw.com/image/37992441_605.jpg",
-		"mediaURL": "<html>"
+		"mediaURL": "https://tvdownloaddw-a.akamaihd.net/downloads/Events/mp4/nicosweg/A2_E1_L1_F5_sd.mp4"
 	},
 	{
 		"title": "Mein Bankkonto",

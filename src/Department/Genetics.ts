@@ -91,7 +91,7 @@ export function _get_cryptoCell_PACK (
             id: cell.chromosome.code.idx,
             cryptoCell: crypto( JSON.stringify( cell ), CKeyString )
         } ) )
-        . catch( err => rx( "EC11: " + err ) );
+        .catch( err => rx( "EC11: " + err ) );
 
     } );
 
@@ -139,7 +139,6 @@ function get_a_new_cell ( ribosome: g.Ribosome, user: u.user ): Promise<g.cell> 
         }
         // .. this rRNA is not coded yet!
         else return rx( "rRNA error!" );
-
 
     } )
 
