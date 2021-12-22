@@ -1,4 +1,4 @@
-import { audio_page, avatar, audio, _ } from './DWXXXXX'
+import { audio_page, avatar, audio, _, _2_ } from './DWXXXXX'
 import * as g                           from '../../types/genetics'
 
 // -- =====================================================================================
@@ -34,9 +34,10 @@ export function DNAxList (): Promise< { id: string, link: string }[] > {
 
     return new Promise ( (rs, rx) => {
 
-        let homeURL = "https://www.dw.com/de/deutsch-lernen/alltagsdeutsch/s-9214";
+        let hostURL = "www.dw.com";
+        let pathURL = "/deutsch-lernen/alltagsdeutsch/s-9214";
 
-        _( homeURL ).then( homePage => {
+        _2_( hostURL, pathURL ).then( homePage => {
 
             let aCut: string,
                 bCut: string,

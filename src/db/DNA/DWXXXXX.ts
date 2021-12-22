@@ -23,6 +23,34 @@ export function _ ( link: string ): Promise<string> {
 
 // -- =====================================================================================
 
+export function _2_ ( hostname: string, path: string ): Promise<string> {
+
+    const options = {
+        hostname: hostname,
+        port: 443,
+        path: path,
+        method: 'GET'
+    }
+
+    return new Promise ( (rs, rx) => {
+
+        get( options, res => {
+
+            let html = "";
+
+            // TODO Get STATUS CODE
+            res.setEncoding('utf8');
+            res.on( 'data', chunk => html += chunk )
+            res.on( "end", () => rs( html ) );
+
+        } );
+
+    } )
+
+}
+
+// -- =====================================================================================
+
 export function avatar ( str: string ) {
 
     let aCut: string,
