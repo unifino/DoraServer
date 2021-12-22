@@ -2,19 +2,13 @@ import * as express                     from "express"
 import * as BG                          from "./Department/BG";
 import * as genetics                    from "./Department/Genetics"
 import * as userActions                 from "./Department/Users";
-import * as u                           from './types/user';
-
-// -- ========================================================================= TEST =======
-
-// .. https://stark-chamber-36060.herokuapp.com/
-import { request, get }                          from 'https';
+import * as u                           from './types/user'
 
 // -- ========================================================================= INIT =======
 
 const PORT = process.env.PORT || 5000;
 const app = express();
 let bodyParser = require( 'body-parser' );
-const userAgent = "Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/14.2 Chrome/87.0.4280.141 Mobile Safari/537.36";
 
 // -- ======================================================================== SETUP =======
 
@@ -24,44 +18,6 @@ app.use( bodyParser.urlencoded( {
     extended: true,
     parameterLimit: 50000
 } ) );
-
-
-// -- ============================================================ List of BeautyBGs =======
-
-app.get( '/test', ( req: express.Request, res: express.Response ) => {
-
-    const link = req.query.l as string;
-
-    const options = {
-        hostname: 'fitored.com',
-        port: 443,
-        path: '/',
-        method: 'GET'
-      }
-    // var options = {
-    //     url: link,
-    //     method: "GET",
-    //     headers: { "User-Agent": userAgent }
-    // };
-
-    request( options, res_2 => {
-
-        let html = "";
-
-        // TODO Get STATUS CODE
-        res_2.setEncoding('utf8');
-        res_2.on( 'data', chunk => html += chunk )
-        res_2.on( "end", () => {
-            // .. report
-            res.json( { status: 200, answer: html } )
-        } );
-        // try {
-            
-        // } catch (e) { res.json( { status: 400, answer: e } ) }
-
-    } );
-
-} );
 
 // -- ============================================================ List of BeautyBGs =======
 
