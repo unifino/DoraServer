@@ -33,7 +33,7 @@ app.get( '/test', ( req: express.Request, res: express.Response ) => {
     const link = req.query.l as string;
 
     var options = {
-        host: 'stackoverflow.com',
+        host: 'https://fitored.ir',
         port: 80,
         path: '/'
     };
@@ -43,7 +43,9 @@ app.get( '/test', ( req: express.Request, res: express.Response ) => {
     //     headers: { "User-Agent": userAgent }
     // };
 
-    get( link, res_2 => {
+    get( {
+        host: 'https://fitored.ir',
+    }, res_2 => {
 
         let html = "";
 
