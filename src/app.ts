@@ -6,6 +6,7 @@ import * as u                           from './types/user';
 
 // -- ========================================================================= TEST =======
 
+// .. https://stark-chamber-36060.herokuapp.com/
 import { get }                          from 'https';
 
 // -- ========================================================================= INIT =======
@@ -30,7 +31,7 @@ app.get( '/test', ( req: express.Request, res: express.Response ) => {
 
     let link = "https://www.dw.com/de/deutsch-lernen/alltagsdeutsch/s-9214";
 
-    get( link, res_2 => {
+    get( req, res_2 => {
 
         let html = "";
 
