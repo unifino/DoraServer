@@ -19,7 +19,7 @@ export function gene ( user: u.user ): Promise<g.gene> {
             // .. filter list to new ones for user
             list = list.filter( item => !user.gotFromThisRibosome.includes( item.id ) );
 
-            if ( !list.length ) rx( "No more Lesson for now!" );
+            if ( !list.length ) rx( "No more Lesson for now!"  );
 
             else {
                 DNA_maker( list[0].id ,list[0].link )
