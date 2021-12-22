@@ -36,21 +36,27 @@ app.get( '/test', ( req: express.Request, res: express.Response ) => {
         host: 'stackoverflow.com',
         port: 80,
         path: '/'
-      };
+    };
+    // var options = {
+    //     url: link,
+    //     method: "GET",
+    //     headers: { "User-Agent": userAgent }
+    // };
 
-      get( options, res_2 => {
+    get( link, res_2 => {
 
         let html = "";
 
         // TODO Get STATUS CODE
-        try {
-            res_2.setEncoding('utf8');
-            res_2.on( 'data', chunk => html += chunk )
-            res_2.on( "end", () => {
-                // .. report
-                res.json( { status: 200, answer: html } )
-            } );
-        } catch (e) { res.json( { status: 400, answer: e } ) }
+        res_2.setEncoding('utf8');
+        res_2.on( 'data', chunk => html += chunk )
+        res_2.on( "end", () => {
+            // .. report
+            res.json( { status: 200, answer: html } )
+        } );
+        // try {
+            
+        // } catch (e) { res.json( { status: 400, answer: e } ) }
 
     } );
 
