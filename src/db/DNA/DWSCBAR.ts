@@ -34,7 +34,7 @@ export function DNAxList (): Promise< { id: string, link: string }[] > {
 
     return new Promise ( (rs, rx) => {
 
-        let homeURL = "https://www.dw.com/de/deutsch-lernen/sprachbar/s-9011";
+        let homeURL = "https://www.dw.com/de/sprachbar/s-9011";
 
         _( homeURL ).then( homePage => {
 

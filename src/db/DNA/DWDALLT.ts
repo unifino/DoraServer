@@ -1,4 +1,4 @@
-import { audio_page, avatar, audio, _, _2_ } from './DWXXXXX'
+import { audio_page, avatar, audio, _ } from './DWXXXXX'
 import * as g                           from '../../types/genetics'
 
 // -- =====================================================================================
@@ -14,7 +14,7 @@ export function DNA_maker ( id: string, link: string ): Promise<g.gene[]> {
 
         _( link ).then( themaPage => {
             _( audio_page( themaPage ) ).then( audioPage => { 
-                rs ( [ { 
+                rs ( [ {
                     id          : id,
                     title       : title( themaPage ),
                     text        : text( themaPage ),
@@ -34,17 +34,16 @@ export function DNAxList (): Promise< { id: string, link: string }[] > {
 
     return new Promise ( (rs, rx) => {
 
-        let hostURL = "m.dw.com";
-        let pathURL = "/deutsch-lernen/alltagsdeutsch/s-9214";
+        let homeURL = "https://www.dw.com/de/alltagsdeutsch/s-9214";
 
-        _2_( hostURL, pathURL ).then( homePage => {
+        _( homeURL ).then( homePage => {
 
-            let aCut: string,
-                bCut: string,
-                freshBox: string[],
-                archiveBox: string[],
-                aCutID: number,
-                bCutID: number,
+            let aCut: string, 
+                bCut: string, 
+                freshBox: string[], 
+                archiveBox: string[], 
+                aCutID: number, 
+                bCutID: number, 
                 list: { id: string, link: string }[] = [];
 
             // .. fresh lessons
