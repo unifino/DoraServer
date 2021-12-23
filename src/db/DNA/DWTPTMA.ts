@@ -34,16 +34,16 @@ export function DNAxList (): Promise< { id: string, link: string }[] > {
 
     return new Promise ( (rs, rx) => {
 
-        let homeURL = "https://www.dw.com/de/top-thema/s-8031";
+        let homeURL = "https://learngerman.dw.com/de/top-thema/s-55861562";
 
         _( homeURL ).then( homePage => {
 
-            let aCut: string, 
-                bCut: string, 
-                freshBox: string[], 
-                archiveBox: string[], 
-                aCutID: number, 
-                bCutID: number, 
+            let aCut: string,
+                bCut: string,
+                freshBox: string[],
+                archiveBox: string[],
+                aCutID: number,
+                bCutID: number,
                 list: { id: string, link: string }[] = [];
 
             // .. fresh lessons
