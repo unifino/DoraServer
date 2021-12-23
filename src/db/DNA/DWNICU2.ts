@@ -1809,14 +1809,878 @@ export const DNA: g.hypGene[] = [
 		"title": "Geld ist für mich …",
 		"avatarURL": "https://static.dw.com/image/37992441_605.jpg",
 		hyperText: [
-			
+			[
+				"Emma ist wütend.",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37887827_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S2_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Die Frau hat Angst.",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37887847_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S2_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Emma freut sich.",
+				{},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37887787_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S2_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Nico ist erleichtert.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dImage",
+						"location": "before",
+						"sourceURL": "https://static.dw.com/image/37887817_501.jpg"
+					},
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S2_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S3_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S3_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S3_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S3_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S4_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S4_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S4_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"To-do-Liste\n(heute erledigen)\n\n\num elf&nbsp;Uhr zu Lisa zum gehen\nMax fragen, was ich sagen muss, wenn ich zur Bank gehe\ndanach bei der ein eröffnen\nbeim Einwohnermeldeamt anmelden\ndas neue Fahrrad ausprobieren",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://dwhlsondemand-vh.akamaihd.net/i/dwtv_video/flv/nicosweg/A2_E1_L1_S5_A1_Video1_sd_,sor,avc,.mp4.csmil/master.m3u8"
+					}
+				]
+			],
+			[
+				"Jeder Deutsche darf in Deutschland ein Konto eröffnen.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S6_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Man braucht eine Meldebescheinigung und eine Adresse.",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S6_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S8_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S8_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S8_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S8_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S8_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S8_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S8_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S8_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Herr Kamp hat nicht genug Geld für ein Motorrad. Aber er verdient &nbsp;ein bisschen mehr Geld, als er jeden Monat zum Leben braucht . Er kann deshalb sparen und kann &nbsp; sich bald ein Motorrad leisten .",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S9_A1a_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Frau Kunze hat keine Arbeit, deshalb hat sie wenig Geld. Sie muss sparen. Sie kann sich nicht viel leisten . Sie braucht das ganze Geld für Lebensmittel, Miete und Strom . Sie freut sich immer, wenn sie etwas Schönes billig kaufen kann .",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S9_A1b_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Nina will&nbsp;nach Australien fahren. Dafür braucht sie Geld. Aber sie hat gerade alles ausgegeben. Deshalb muss sie jetzt für die nächste Reise sparen .",
+				{},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S9_A2a_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Herr Reichert ist Millionär. Er muss nie sparen und kann sich alles kaufen, was er will . Er hat schon fünf Autos, zwei Yachten und drei Häuser.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S9_A2b_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S10_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S10_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S10_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S10_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S10_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Hast du ein Bankkonto?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S11_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Ja, ich habe ein Bankkonto. / Nein, ich habe kein Bankkonto.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S11_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Gibst du viel Geld für Miete aus?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S11_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Ja, ich gebe viel Geld für Miete aus. / Nein, ich gebe wenig Geld für Miete aus. / Nein, ich zahle keine Miete. ",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S11_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Gibst du viel Geld für Kleidung aus?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S11_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Ja, ich gebe viel Geld für Kleidung aus. / Nein, ich gebe wenig Geld für Kleidung aus. / Nein, das kann ich mir nicht leisten.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S11_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Wofür gibst du am meisten Geld aus?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S11_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Ich gebe am meisten Geld für Miete/Kleidung/mein Auto/… aus.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S11_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Sparst du regelmäßig Geld?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S11_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Ja, ich lege etwas Geld zurück. / Nein, ich gebe alles aus. / Nein, ich habe nicht genug Geld.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S11_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Warum sparst du Geld?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S11_A6_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L1_S11_A6_Loesungsaudio.mp3"
+					}
+				]
+			]
 		]
 	},
 	{
 		"title": "Mein Bankkonto",
 		"avatarURL": "https://static.dw.com/image/37992469_605.jpg",
 		hyperText: [
-			
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://dwhlsondemand-vh.akamaihd.net/i/dwtv_video/flv/nicosweg/A2_E1_L2_F6_sd_,sor,avc,.mp4.csmil/master.m3u8"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S1_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S1_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S1_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Nico muss viele Angaben zu seiner Person machen. Er muss sagen, wo er wohnt.\n\nDie Bankangestellten fragen, wie seine Adresse lautet.\n\nSie fragen vielleicht, wo er früher gewohnt hat.\n\nNico muss sagen, woher er kommt.\n\nDie Bankangestellten fragen, wo Nico arbeitet.\n\nSie fragen vielleicht, wie viel Geld er verdient.",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S2_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S3_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Nico sagt, dass er ein Konto eröffnen möchte.\nNico muss auf eine andere Bankangestellte warten. ",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S3_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S3_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Name\nGeburtsdatum\nNationalität\nAdresse",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S3_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S3_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Nico kann ein Basiskonto eröffnen.\nNico verdient im Marek kein Geld.\nNico bekommt kein normales Girokonto, weil er kein Einkommen hat.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S3_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S3_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Nico bekommt seine Kontonummer sofort.\nNico bekommt seine Girocard per Post.\nDie PIN-Nummer heißt auf Deutsch auch Geheimzahl.\nMit der Girocard kann man Geld am Bankautomaten abheben.",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S3_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Nico: Hallo, Max! Ich bin in der Bank. Aber ich verstehe nicht alles. Was ist ein Basiskonto und was ist ein normales Girokonto? Wo ist der Unterschied?\nMax: Hallo! Ein normales Girokonto kannst du zum Beispiel überziehen . Du kannst mehr Geld abheben , als du auf dem Konto hast. Die Bank leiht dir das Geld. Bei einem Basiskonto geht das nicht.\nNico: „überziehen“ heißt, dass man einen Kredit bekommt?\nMax: Ja.\nNico:  Kann ich das auch?\nMax: Nein. Du hast doch ein Basiskonto, oder?\nNico: Ja.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S4_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Nico: Aber ich bekomme eine Girocard . Das ist keine Kreditkarte ?\nMax: Nein. Mit einer Girocard kannst du Geld am Bankautomaten abheben. Normalerweise kannst du damit auch im Laden bezahlen wie mit Bargeld . Das Geld wird direkt vom Konto bezahlt. Mit einer Kreditkarte geht das Geld erst später vom Konto.\nNico: Kann ich mit der Girocard im Internet bezahlen?\nMax: Nein, nicht wie mit einer Kreditkarte. Du kannst nur im Laden oder im Restaurant bezahlen, wo du die Karte zeigen kannst.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S4_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Max: Musst du Gebühren für das Konto zahlen?\nNico: Was heißt das?\nMax: Musst du jeden Monat etwas für das Konto bezahlen?\nNico: Das habe ich nicht gefragt. Das habe ich vergessen. Steht das im Vertrag?\nMax: Ja. Das steht auf jeden Fall  in deinem Vertrag. Schau mal nach.",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S4_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S7_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"Sie haben noch keine Girocard bekommen?\nSie meinen die PIN-Nummer?\nWir haben Ihre richtige Adresse, oder?",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S7_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Nico: Du, ich habe eine Frage : Du hast doch früher in der Bank gearbeitet, oder ? Wie lange war das?\nMax: Du meinst , wie viele Jahre? Ich war drei Jahre in der Ausbildung und dann fünf Jahre Bankangestellter.\nNico: Also acht Jahre?\nMax: Ja.\nNico: Ist in der Zeit etwas Spannendes passiert?\nMax: Was meinst du damit ?\nNico: &nbsp;Na, kam mal ein Bankräuber ?\nMax: Du meinst einen Banküberfall? Nein. Nur mein Vorgesetzter hat mich manchmal überfallen.\nNico: Was bedeutet „Vorgesetzter“?\nMax : Mein Chef, mein Boss.\nNico: Ach so.&nbsp;",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S8_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Haben Sie Ihre Karte dabei?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S9_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S9_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Haben Sie schon Ihre Geheimnummer bekommen?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S9_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S9_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Hier im Formular müssen Sie noch Ihre Adresse eintragen. Das Feld „Mail“ ist noch leer.",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S9_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S9_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Wie heißen Sie?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S10_A1_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S10_A1_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Was davon ist Ihr Nachname?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S10_A2_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S10_A2_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Welche Nationalität haben Sie?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S10_A3_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S10_A3_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Haben Sie eine Meldebescheinigung?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S10_A4_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S10_A4_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Wie ist Ihr Geburtsdatum?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S10_A5_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S10_A5_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Wie ist Ihre Adresse?",
+				{},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S10_A6_Audio1.mp3"
+					}
+				]
+			],
+			[
+				"",
+				{
+					standoff: "block"
+				},
+				[
+					{
+						type: "dAudio",
+						sourceURL: "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S10_A6_Loesungsaudio.mp3"
+					}
+				]
+			],
+			[
+				"Anmeldung Wohnort\n\n&nbsp;\n\nAngaben zur Person\n\nNachname : Moser\n\nVorname : Sarah\n\nGeburtsdatum : &nbsp;17.3.1979\n\nGeschlecht : weiblich\n\nNationalität : Schweizerin\n\nGeburtsort : Bern\n\nFamilienstand : ledig\n\nTelefonnummer : 043 586 771\n\n&nbsp;\n\nFrühere Adresse :\n\nSt. Antonius-Platz 2\n\n8008 Zürich\n\n&nbsp;\n\nNeue Adresse :\n\nBäckergasse 7\n\n8008 Zürich",
+				{
+					"standoff": "block"
+				},
+				[
+					{
+						"type": "dAudio",
+						"sourceURL": "https://radiodownloaddw-a.akamaihd.net/Events/dwelle/deutschkurse/nicosweg/kurse/a2/A2_E1_L2_S11_A1_Loesungsaudio.mp3"
+					}
+				]
+			]
 		]
 	},
 	{
