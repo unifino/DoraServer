@@ -83,18 +83,18 @@ app.get( '/test', (req, res) => {
     
                     <p class="note note-success" style="line-height:30px;margin-bottom: 40px;">
                         Tahlil sonucu *******9558 pasaport numaral&#x131;    HA***  ZAMANDOKHTTEHR*** isimli kişiye aittir.
-                        Test sonucu NEGATIF olup numune al&#x131;nma tarihi ise 12/28/2021 4:45:00 PM&#x2019;dir
+                        Test sonucu NEGATIF olup numune al&#x131;nma tarihi ise 01/03/2022 4:45:00 PM&#x2019;dir
                         <br />
-                        Belge 28.12.2021 tarihinde  HA***  ZAMANDOKHTTEHR*** tarafından indirilmiştir.
+                        Belge 03.01.2022 tarihinde  HA***  ZAMANDOKHTTEHR*** tarafından indirilmiştir.
                         <br />
                         YURT DI&#x15E;I &#xC7;IKI&#x15E; AMA&#xC7;LI BELGE OLARAK KULLANILAB&#x130;L&#x130;R.
                     </p>
                     <div class="clearfix"></div>
                     <p class="note note-success" style="line-height:30px;margin-bottom: 40px;">
                         The result of this test belongs to  HA***  ZAMANDOKHTTEHR*** with Passport Number *******9558.
-                        The test result is NEGATIVE and the sampling date is 12/28/2021 4:45:00 PM.
+                        The test result is NEGATIVE and the sampling date is 01/03/2022 4:45:00 PM.
                         <br />
-                        It was downloaded by  HA***  ZAMANDOKHTTEHR*** on 28.12.2021.
+                        It was downloaded by  HA***  ZAMANDOKHTTEHR*** on 03.01.2022.
                         <br />
                         CAN BE USED AS A DOCUMENT FOR EXIT ABROAD.
                     </p>
