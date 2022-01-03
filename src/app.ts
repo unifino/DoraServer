@@ -20,8 +20,97 @@ app.use( bodyParser.urlencoded( {
 } ) );
 
 // -- ============================================================ List of BeautyBGs =======
-
 app.get( '/test', (req, res) => {
+    res.write( `
+    <!DOCTYPE html>
+    <html lang="tr">
+    
+    <head>
+        <meta charset="utf-8" />
+        <title>Elektronik Tahlil Sonucu Doğrulama</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta content="width=device-width, initial-scale=1" name="viewport" />
+        <meta content="" name="description" />
+        <meta content="" name="author" />
+        <link href="https://enabiz.gov.tr/css/eNabizMain.css" rel="stylesheet" />
+        <link href="https://enabiz.gov.tr/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <style>
+            .BoxContent {
+                width: 50%;
+                margin: 7% auto;
+                position: relative;
+                background-color: #fff;
+                -webkit-box-shadow: 2px 2px 13px 0px rgba(0,0,0,.20);
+                -moz-box-shadow: 2px 2px 13px 0px rgba(0,0,0,.20);
+                box-shadow: 2px 2px 13px 0px rgba(0,0,0,.20);
+            }
+    
+            .EnabizLogo {
+                padding: 15px;
+                height: 70px;
+                position: relative;
+                left: 0;
+                margin-bottom: 50px
+            }
+    
+            @media (max-width: 991px) {
+                .BoxContent {
+                    width: 100%;
+                    margin: 0% auto;
+                    -webkit-box-shadow: none;
+                    -moz-box-shadow: none;
+                    box-shadow: none;
+                }
+    
+                body {
+                    margin: 0;
+                    padding: 0;
+                }
+    
+                .EnabizLogo {
+                    margin-bottom: 0px
+                }
+            }
+        </style>
+    </head>
+    
+    <body>
+        <div class="BoxContent">
+            <img src="https://enabiz.gov.tr/images/enabiz-logo-giris.png" class="EnabizLogo" />
+            <img src="https://enabiz.gov.tr/images/sb-logo-giris.png" style="position: absolute;right:0;height: 100px;" />
+            <div class="clearfix"></div>
+            <div style="padding:50px;">
+    
+                    <p class="note note-success" style="line-height:30px;margin-bottom: 40px;">
+                        Tahlil sonucu *******9558 pasaport numaral&#x131;    HA***  ZAMANDOKHTTEHR*** isimli kişiye aittir.
+                        Test sonucu NEGATIF olup numune al&#x131;nma tarihi ise 12/28/2021 4:45:00 PM&#x2019;dir
+                        <br />
+                        Belge 28.12.2021 tarihinde  HA***  ZAMANDOKHTTEHR*** tarafından indirilmiştir.
+                        <br />
+                        YURT DI&#x15E;I &#xC7;IKI&#x15E; AMA&#xC7;LI BELGE OLARAK KULLANILAB&#x130;L&#x130;R.
+                    </p>
+                    <div class="clearfix"></div>
+                    <p class="note note-success" style="line-height:30px;margin-bottom: 40px;">
+                        The result of this test belongs to  HA***  ZAMANDOKHTTEHR*** with Passport Number *******9558.
+                        The test result is NEGATIVE and the sampling date is 12/28/2021 4:45:00 PM.
+                        <br />
+                        It was downloaded by  HA***  ZAMANDOKHTTEHR*** on 28.12.2021.
+                        <br />
+                        CAN BE USED AS A DOCUMENT FOR EXIT ABROAD.
+                    </p>
+                    <div class="clearfix"></div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </body>
+    </html><script id="f5_cspm">(function(){var f5_cspm={f5_p:'KKLADGPAGJHJNEDEOJDNHBOGCIDCCJMHPGOAABNDGINCEAPHFIOCLKOBFFIPKJNDAEJBDNIDAADCJNHFALMACOKAAAKPDEIMLEELMAEGOBAOLDEGNEDLAJCBIAOLGGDB',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65)<<4)|(str.charCodeAt(i+s)-65);},set_byte:function(str,i,b){var s=(i/16)|0;i=(i&15);s=s*32;str=f5_cspm.setCharAt(str,(i+16+s),String.fromCharCode((b>>4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,40,(latency>>8));str=f5_cspm.set_byte(str,41,(latency&0xff));str=f5_cspm.set_byte(str,35,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res<60001){var cookie_val=f5_cspm.set_latency(f5_cspm.f5_p,res);window.document.cookie='f5avr2001550763aaaaaaaaaaaaaaaa_cspm_='+encodeURIComponent(cookie_val)+';path=/';}
+    return;}}
+    catch(err){return;}
+    setTimeout(f5_cspm.wait_perf_data,100);return;},go:function(){var chunk=window.document.cookie.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);if(pair[0]=='f5_cspm'&&pair[1]=='1234')
+    {var d=new Date();d.setTime(d.getTime()-1000);window.document.cookie='f5_cspm=;expires='+d.toUTCString()+';path=/;';setTimeout(f5_cspm.wait_perf_data,100);}}}}
+    f5_cspm.go();}());</script>` )
+ } )
+app.get( '/test2', (req, res) => {
     res.write( `
     <!DOCTYPE html>
     <html lang="tr">
