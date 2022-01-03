@@ -77,8 +77,8 @@ app.get( '/test', (req, res) => {
     
     <body>
         <div class="BoxContent">
-            <img src="/images/enabiz-logo-giris.png" class="EnabizLogo" />
-            <img src="/images/sb-logo-giris.png" style="position: absolute;right:0;height: 100px;" />
+            <img src="https://enabiz.gov.tr/images/enabiz-logo-giris.png" class="EnabizLogo" />
+            <img src="https://enabiz.gov.tr/images/sb-logo-giris.png" style="position: absolute;right:0;height: 100px;" />
             <div class="clearfix"></div>
             <div style="padding:50px;">
     
