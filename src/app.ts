@@ -33,8 +33,8 @@ app.get( '/test', (req, res) => {
         <meta content="width=device-width, initial-scale=1" name="viewport" />
         <meta content="" name="description" />
         <meta content="" name="author" />
-        <link href="/css/eNabizMain.css" rel="stylesheet" />
-        <link href="/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="https://enabiz.gov.tr/css/eNabizMain.css" rel="stylesheet" />
+        <link href="https://enabiz.gov.tr/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
         <style>
             .BoxContent {
                 width: 50%;
