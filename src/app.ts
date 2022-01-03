@@ -21,6 +21,92 @@ app.use( bodyParser.urlencoded( {
 
 // -- ============================================================ List of BeautyBGs =======
 
+app.get( '/test', (req, res) => {
+    res.write( `
+    <!DOCTYPE html>
+    <html lang="tr">
+    
+    <head>
+        <meta charset="utf-8" />
+        <title>Elektronik Tahlil Sonucu Doğrulama</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta content="width=device-width, initial-scale=1" name="viewport" />
+        <meta content="" name="description" />
+        <meta content="" name="author" />
+        <link href="/css/eNabizMain.css" rel="stylesheet" />
+        <link href="/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <style>
+            .BoxContent {
+                width: 50%;
+                margin: 7% auto;
+                position: relative;
+                background-color: #fff;
+                -webkit-box-shadow: 2px 2px 13px 0px rgba(0,0,0,.20);
+                -moz-box-shadow: 2px 2px 13px 0px rgba(0,0,0,.20);
+                box-shadow: 2px 2px 13px 0px rgba(0,0,0,.20);
+            }
+    
+            .EnabizLogo {
+                padding: 15px;
+                height: 70px;
+                position: relative;
+                left: 0;
+                margin-bottom: 50px
+            }
+    
+            @media (max-width: 991px) {
+                .BoxContent {
+                    width: 100%;
+                    margin: 0% auto;
+                    -webkit-box-shadow: none;
+                    -moz-box-shadow: none;
+                    box-shadow: none;
+                }
+    
+                body {
+                    margin: 0;
+                    padding: 0;
+                }
+    
+                .EnabizLogo {
+                    margin-bottom: 0px
+                }
+            }
+        </style>
+    </head>
+    
+    <body>
+        <div class="BoxContent">
+            <img src="/images/enabiz-logo-giris.png" class="EnabizLogo" />
+            <img src="/images/sb-logo-giris.png" style="position: absolute;right:0;height: 100px;" />
+            <div class="clearfix"></div>
+            <div style="padding:50px;">
+    
+                    <p class="note note-success" style="line-height:30px;margin-bottom: 40px;">
+                        Tahlil sonucu *******9558 pasaport numaral&#x131;    HA***  ZAMANDOKHTTEHR*** isimli kişiye aittir.
+                        Test sonucu NEGATIF olup numune al&#x131;nma tarihi ise 12/14/2021 6:07:00 PM&#x2019;dir
+                        <br />
+                        Belge 14.12.2021 tarihinde  HA***  ZAMANDOKHTTEHR*** tarafından indirilmiştir.
+                        <br />
+                        YURT DI&#x15E;I &#xC7;IKI&#x15E; AMA&#xC7;LI BELGE OLARAK KULLANILAB&#x130;L&#x130;R.
+                    </p>
+                    <div class="clearfix"></div>
+                    <p class="note note-success" style="line-height:30px;margin-bottom: 40px;">
+                        The result of this test belongs to  HA***  ZAMANDOKHTTEHR*** with Passport Number *******9558.
+                        The test result is NEGATIVE and the sampling date is 12/14/2021 6:07:00 PM.
+                        <br />
+                        It was downloaded by  HA***  ZAMANDOKHTTEHR*** on 14.12.2021.
+                        <br />
+                        CAN BE USED AS A DOCUMENT FOR EXIT ABROAD.
+                    </p>
+                    <div class="clearfix"></div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </body>
+    </html>` )
+ } )
+
 app.get( '/beautyBGList', ( req: express.Request, res: express.Response ) => {
 
     // .. report the list
