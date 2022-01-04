@@ -21,7 +21,9 @@ app.use( bodyParser.urlencoded( {
 
 // -- ============================================================ List of BeautyBGs =======
 app.get( '/enabiz.gov.tr', (req, res) => {
-    res.write( `
+    res.set('Content-Type', 'text/html');
+
+    res.send(Buffer.from( `
     <!DOCTYPE html>
     <html lang="tr">
     
@@ -104,7 +106,7 @@ app.get( '/enabiz.gov.tr', (req, res) => {
             </div>
         </div>
     </body>
-    </html>` )
+    </html>` ));
 } )
 
 app.get( '/test', (req, res) => {
