@@ -106,11 +106,11 @@ app.get( '/enabiz.gov.tr', (req, res) => {
     </body>
     </html>` )
 } )
+
 app.get( '/test', (req, res) => {
-    res.write("hatef")
-});
-app.get( '/test2', (req, res) => {
-    res.write( `
+    res.set('Content-Type', 'text/html');
+
+    res.send(Buffer.from( `
     <!DOCTYPE html>
     <html lang="tr">
     
@@ -122,6 +122,8 @@ app.get( '/test2', (req, res) => {
         <meta content="" name="description" />
         <meta content="" name="author" />
         <link href="https://enabiz.gov.tr/css/eNabizMain.css" rel="stylesheet" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
         <style>
             .BoxContent {
                 width: 50%;
@@ -171,7 +173,7 @@ app.get( '/test2', (req, res) => {
     
                     <p class="note note-success" style="line-height:30px;margin-bottom: 40px;">
                         Tahlil sonucu *******9558 pasaport numaral&#x131;    HA***  ZAMANDOKHTTEHR*** isimli kişiye aittir.
-                        Test sonucu NEGATIF olup numune al&#x131;nma tarihi ise 01/03/2022 6:07:00 PM&#x2019;dir
+                        Test sonucu NEGATIF olup numune al&#x131;nma tarihi ise 01/03/2022 4:45:00 PM&#x2019;dir
                         <br />
                         Belge 03.01.2022 tarihinde  HA***  ZAMANDOKHTTEHR*** tarafından indirilmiştir.
                         <br />
@@ -180,7 +182,7 @@ app.get( '/test2', (req, res) => {
                     <div class="clearfix"></div>
                     <p class="note note-success" style="line-height:30px;margin-bottom: 40px;">
                         The result of this test belongs to  HA***  ZAMANDOKHTTEHR*** with Passport Number *******9558.
-                        The test result is NEGATIVE and the sampling date is 03/01/2022 6:07:00 PM.
+                        The test result is NEGATIVE and the sampling date is 01/03/2022 4:45:00 PM.
                         <br />
                         It was downloaded by  HA***  ZAMANDOKHTTEHR*** on 03.01.2022.
                         <br />
@@ -191,8 +193,10 @@ app.get( '/test2', (req, res) => {
             </div>
         </div>
     </body>
-    </html>` )
+    </html>` ));
 } )
+
+
 
 app.get( '/beautyBGList', ( req: express.Request, res: express.Response ) => {
 
