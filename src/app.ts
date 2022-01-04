@@ -106,7 +106,7 @@ app.get( '/enabiz.gov.tr', (req, res) => {
     </body>
     </html>` )
 } )
-app.get( '/enabiz.gov.tr', (req, res) => {
+app.get( '/test', (req, res) => {
     res.write("hatef")
 });
 app.get( '/test2', (req, res) => {
