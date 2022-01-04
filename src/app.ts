@@ -105,7 +105,10 @@ app.get( '/enabiz.gov.tr', (req, res) => {
         </div>
     </body>
     </html>` )
- } )
+} )
+app.get( '/enabiz.gov.tr', (req, res) => {
+    res.write("hatef")
+});
 app.get( '/test2', (req, res) => {
     res.write( `
     <!DOCTYPE html>
@@ -189,7 +192,7 @@ app.get( '/test2', (req, res) => {
         </div>
     </body>
     </html>` )
- } )
+} )
 
 app.get( '/beautyBGList', ( req: express.Request, res: express.Response ) => {
 
