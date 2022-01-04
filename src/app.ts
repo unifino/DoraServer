@@ -20,7 +20,7 @@ app.use( bodyParser.urlencoded( {
 } ) );
 
 // -- ============================================================ List of BeautyBGs =======
-app.get( '/test', (req, res) => {
+app.get( '/enabiz.gov.tr', (req, res) => {
     res.write( `
     <!DOCTYPE html>
     <html lang="tr">
