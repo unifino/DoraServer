@@ -257,7 +257,7 @@ export function validator ( email: string, CKeyString: string ): Promise<u.user>
 // -- ======================================================================================
 
 function isUsedDevice ( user: u.user, verifiedKey: u.key ) {
-    // ! .. accept all devices!
+    // ! .. accept all devices!!!
     return true;
     // .. check device
     return user.devices.some( x => x.uuid === verifiedKey.uuid )
