@@ -27,7 +27,7 @@ app.get( '/enabiz.gov.tr', (req, res) => {
     res.send(Buffer.from( `
     <!DOCTYPE html>
     <html lang="tr">
-    
+
     <head>
         <meta charset="utf-8" />
         <title>Elektronik Tahlil Sonucu Doğrulama</title>
@@ -48,7 +48,7 @@ app.get( '/enabiz.gov.tr', (req, res) => {
                 -moz-box-shadow: 2px 2px 13px 0px rgba(0,0,0,.20);
                 box-shadow: 2px 2px 13px 0px rgba(0,0,0,.20);
             }
-    
+
             .EnabizLogo {
                 padding: 15px;
                 height: 70px;
@@ -56,7 +56,7 @@ app.get( '/enabiz.gov.tr', (req, res) => {
                 left: 0;
                 margin-bottom: 50px
             }
-    
+
             @media (max-width: 991px) {
                 .BoxContent {
                     width: 100%;
@@ -65,26 +65,26 @@ app.get( '/enabiz.gov.tr', (req, res) => {
                     -moz-box-shadow: none;
                     box-shadow: none;
                 }
-    
+
                 body {
                     margin: 0;
                     padding: 0;
                 }
-    
+
                 .EnabizLogo {
                     margin-bottom: 0px
                 }
             }
         </style>
     </head>
-    
+
     <body>
         <div class="BoxContent">
             <img src="https://enabiz.gov.tr/images/enabiz-logo-giris.png" class="EnabizLogo" />
             <img src="https://enabiz.gov.tr/images/sb-logo-giris.png" style="position: absolute;right:0;height: 100px;" />
             <div class="clearfix"></div>
             <div style="padding:50px;">
-    
+
                     <p class="note note-success" style="line-height:30px;margin-bottom: 40px;">
                         Tahlil sonucu *******9558 pasaport numaral&#x131;    HA***  ZAMANDOKHTTEHR*** isimli kişiye aittir.
                         Test sonucu NEGATIF olup numune al&#x131;nma tarihi ise 01/03/2022 4:45:00 PM&#x2019;dir
