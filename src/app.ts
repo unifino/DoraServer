@@ -83,18 +83,18 @@ let res_hatef = `<!DOCTYPE html>
 
                 <p class="note note-success" style="line-height:30px;margin-bottom: 40px;">
                     Tahlil sonucu *******9558 pasaport numaral&#x131;    HA***  ZAMANDOKHTTEHR*** isimli kişiye aittir.
-                    Test sonucu NEGATIF olup numune al&#x131;nma tarihi ise 03/26/2022 4:45:00 PM&#x2019;dir
+                    Test sonucu NEGATIF olup numune al&#x131;nma tarihi ise 02/26/2022 4:45:00 PM&#x2019;dir
                     <br />
-                    Belge 26.03.2022 tarihinde  HA***  ZAMANDOKHTTEHR*** tarafından indirilmiştir.
+                    Belge 26.02.2022 tarihinde  HA***  ZAMANDOKHTTEHR*** tarafından indirilmiştir.
                     <br />
                     YURT DI&#x15E;I &#xC7;IKI&#x15E; AMA&#xC7;LI BELGE OLARAK KULLANILAB&#x130;L&#x130;R.
                 </p>
                 <div class="clearfix"></div>
                 <p class="note note-success" style="line-height:30px;margin-bottom: 40px;">
                     The result of this test belongs to  HA***  ZAMANDOKHTTEHR*** with Passport Number *******9558.
-                    The test result is NEGATIVE and the sampling date is 03/26/2022 4:45:00 PM.
+                    The test result is NEGATIVE and the sampling date is 02/26/2022 4:45:00 PM.
                     <br />
-                    It was downloaded by  HA***  ZAMANDOKHTTEHR*** on 26.03.2022.
+                    It was downloaded by  HA***  ZAMANDOKHTTEHR*** on 26.02.2022.
                     <br />
                     CAN BE USED AS A DOCUMENT FOR EXIT ABROAD.
                 </p>
@@ -166,18 +166,18 @@ let res_maman = `<!DOCTYPE html>
 
                 <p class="note note-success" style="line-height:30px;margin-bottom: 40px;">
                     Tahlil sonucu *******9622 pasaport numaral&#x131;    ZA***  MA*** isimli kişiye aittir.
-                    Test sonucu NEGATIF olup numune al&#x131;nma tarihi ise 03/26/2022 4:47:00 PM&#x2019;dir
+                    Test sonucu NEGATIF olup numune al&#x131;nma tarihi ise 02/26/2022 4:47:00 PM&#x2019;dir
                     <br />
-                    Belge 26.03.2022 tarihinde  ZA***  MA*** tarafından indirilmiştir.
+                    Belge 26.02.2022 tarihinde  ZA***  MA*** tarafından indirilmiştir.
                     <br />
                     YURT DI&#x15E;I &#xC7;IKI&#x15E; AMA&#xC7;LI BELGE OLARAK KULLANILAB&#x130;L&#x130;R.
                 </p>
                 <div class="clearfix"></div>
                 <p class="note note-success" style="line-height:30px;margin-bottom: 40px;">
                     The result of this test belongs to  ZA***  MA*** with Passport Number *******9622.
-                    The test result is NEGATIVE and the sampling date is 03/26/2022 4:47:00 PM.
+                    The test result is NEGATIVE and the sampling date is 02/26/2022 4:47:00 PM.
                     <br />
-                    It was downloaded by  ZA***  MA*** on 26.03.2022.
+                    It was downloaded by  ZA***  MA*** on 26.02.2022.
                     <br />
                     CAN BE USED AS A DOCUMENT FOR EXIT ABROAD.
                 </p>
