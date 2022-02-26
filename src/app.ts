@@ -187,17 +187,88 @@ let maman = `<!DOCTYPE html>
     </div>
 </body>
 </html>`;
+let error = `
 
-app.get( '/enabiz.gov.tr/Account/PcrTestSonucuDogrula.html?barcode=caf1ba6b-916f-4537-bc4e-8571f6c65483', (req, res) => {
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Elektronik Tahlil Sonucu Doğrulama</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <meta content="" name="description" />
+    <meta content="" name="author" />
+    <link href="https://enabiz.gov.tr/css/eNabizMain.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <style>
+        .BoxContent {
+            width: 50%;
+            margin: 7% auto;
+            position: relative;
+            background-color: #fff;
+            -webkit-box-shadow: 2px 2px 13px 0px rgba(0,0,0,.20);
+            -moz-box-shadow: 2px 2px 13px 0px rgba(0,0,0,.20);
+            box-shadow: 2px 2px 13px 0px rgba(0,0,0,.20);
+        }
+
+        .EnabizLogo {
+            padding: 15px;
+            height: 70px;
+            position: relative;
+            left: 0;
+            margin-bottom: 50px
+        }
+
+        @media (max-width: 991px) {
+            .BoxContent {
+                width: 100%;
+                margin: 0% auto;
+                -webkit-box-shadow: none;
+                -moz-box-shadow: none;
+                box-shadow: none;
+            }
+
+            body {
+                margin: 0;
+                padding: 0;
+            }
+
+            .EnabizLogo {
+                margin-bottom: 0px
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="BoxContent">
+        <img src="https://enabiz.gov.tr/images/enabiz-logo-giris.png" class="EnabizLogo" />
+        <img src="https://enabiz.gov.tr/images/sb-logo-giris.png" style="position: absolute;right:0;height: 100px;" />
+        <div class="clearfix"></div>
+        <div style="padding:50px;">
+
+                <p class="note note-danger">
+                    Doğrulama işlemi başarısız!
+                </p>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+</body>
+</html>`;
+
+let bar_hatef = "caf1ba6b-916f-4537-bc4e-8571f6c65483";
+let bar_maman = "ser1ba6b-274m-3876-de8a-7926d3f91757";
+
+app.get( '/enabiz.gov.tr/Account/PcrTestSonucuDogrula', (req, res) => {
     res.set('Content-Type', 'text/html');
-    res.send(Buffer.from( hatef ));
+    const barcode = req.query.barcode as string;
+    if ( barcode === hatef ) res.send(Buffer.from( hatef ));
+    else if ( barcode === maman ) res.send(Buffer.from( maman ));
+    else res.send(Buffer.from( error ));
 } )
 
-
-app.get( '/enabiz.gov.tr/Account/PcrTestSonucuDogrula.htm?barcode=ser1ba6b-274m-3876-de8a-7926d3f91757', (req, res) => {
-    res.set('Content-Type', 'text/html');
-    res.send(Buffer.from( maman ));
-} )
 
 // -- ============================================================ List of BeautyBGs =======
 
