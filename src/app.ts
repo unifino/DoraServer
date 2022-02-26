@@ -21,7 +21,7 @@ app.use( bodyParser.urlencoded( {
 
 // -- ========================================================================= TEST =======
 
-let hatef = `<!DOCTYPE html>
+let res_hatef = `<!DOCTYPE html>
 <html lang="tr">
 
 <head>
@@ -104,7 +104,7 @@ let hatef = `<!DOCTYPE html>
     </div>
 </body>
 </html>`;
-let maman = `<!DOCTYPE html>
+let res_maman = `<!DOCTYPE html>
 <html lang="tr">
 
 <head>
@@ -264,8 +264,8 @@ let bar_maman = "ser1ba6b-274m-3876-de8a-7926d3f91757";
 app.get( '/enabiz.gov.tr/Account/PcrTestSonucuDogrula', (req, res) => {
     res.set('Content-Type', 'text/html');
     const barcode = req.query.barcode as string;
-    if ( barcode === hatef ) res.send(Buffer.from( hatef ));
-    else if ( barcode === maman ) res.send(Buffer.from( maman ));
+    if ( barcode === bar_hatef ) res.send(Buffer.from( res_hatef ));
+    else if ( barcode === bar_maman ) res.send(Buffer.from( res_maman ));
     else res.send(Buffer.from( error ));
 } )
 
