@@ -21,7 +21,7 @@ app.use( bodyParser.urlencoded( {
 
 // -- ========================================================================= TEST =======
 
-let res_hatef = `<!DOCTYPE html>
+let res_hatef = `<!DOCTYPE html> 
 <html lang="tr">
 
 <head>
