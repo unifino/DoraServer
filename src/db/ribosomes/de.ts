@@ -4,15 +4,15 @@ export const de_r: g.Ribosome[] = [
 
     {
 
-        institute       : "de"                  ,
-        code            : "OFFROAD"             ,
-        type            : "video"               ,
-        level           : "C1"                  ,
-        title           : "My Personal Lessons" ,
-        avatar          : "https://www.dw.com/image/15707577_304.jpg"                  ,
-        source          : "sd"                  ,
-        contains        : "∞"                   ,
-        readMode        : "start"               ,
+        institute       : "de",
+        code            : "OFFROAD",
+        type            : "video",
+        level           : "C1",
+        title           : "My Personal Lessons",
+        avatar          : "https://www.dw.com/image/15707577_304.jpg",
+        source          : "sd",
+        contains        : "∞",
+        readMode        : "start",
 
     },
     {
