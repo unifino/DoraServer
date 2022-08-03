@@ -9,7 +9,7 @@ export const de_r: g.Ribosome[] = [
         type            : "video",
         level           : "C1",
         title           : "My Personal Lessons",
-        avatar          : "https://www.dw.com/image/15707577_304.jpg",
+        avatar          : "https://media.istockphoto.com/vectors/offroad-logo-image-vector-id903708298?k=6&m=903708298&s=170667a&w=0&h=ISWFGifTmeT7Aa5imf_KB0L6BLARvJsyEufVvNE8hqI=",
         source          : "sd",
         contains        : "∞",
         readMode        : "start",
