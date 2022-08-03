@@ -8,7 +8,7 @@ export const de_r: g.Ribosome[] = [
         code            : "OFFROAD"             ,
         type            : "video"               ,
         level           : "C1"                  ,
-        title           : "My Personal Lessons" ,
+        title           : "My ersonal Lessons" ,
         avatar          : "https://www.dw.com/image/15707577_304.jpg"                  ,
         source          : "sd"                  ,
         contains        : "∞"                   ,
