@@ -1,6 +1,20 @@
 import * as g                           from '../../types/genetics'
 
 export const en_r: g.Ribosome[] = [
+
+    {
+
+        institute       : "en",
+        code            : "OFFROAD",
+        type            : "video",
+        level           : "C1",
+        title           : "My Personal Lessons",
+        avatar          : "https://media.istockphoto.com/vectors/offroad-logo-image-vector-id903708298?k=6&m=903708298&s=170667a&w=0&h=ISWFGifTmeT7Aa5imf_KB0L6BLARvJsyEufVvNE8hqI=",
+        source          : "sd",
+        contains        : "∞",
+        readMode        : "start",
+
+    },
     // {
     //     institute   : "en",
     //     code        : "CMSTRIP",
