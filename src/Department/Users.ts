@@ -1,4 +1,4 @@
-import { Pool, Client }                 from 'pg';
+// import { Pool, Client }                 from 'pg';
 import * as g                           from '../types/genetics'
 import * as u                           from '../types/user'
 import { crypto }                       from './Crypto';
@@ -6,6 +6,17 @@ import * as genetics                    from "../Department/Genetics"
 
 // import * as mysql                            from 'mysql';
 const nodeMailer = require( 'nodemailer' );
+const vu: u.user = {
+    id                  : 1                        ,
+    email               : "string"                 ,
+    devices             : [ {
+        name            : "string"                 ,
+        uuid            : "string"                 ,
+    } ]                                            ,
+    charge              : 100                      ,
+    purchased_items     : {  }   ,
+    ram                 : "string"                 ,
+}
 
 // -- ======================================================================================
 
@@ -21,12 +32,12 @@ type Result = {
     // rowAsArray:
 };
 
-const client = new Pool( {
-    connectionString: process.env.DATABASE_URL,
-    ssl: {
-      rejectUnauthorized: false
-    }
-} );
+// const client = new Pool( {
+//     connectionString: process.env.DATABASE_URL,
+//     ssl: {
+//       rejectUnauthorized: false
+//     }
+// } );
 
 // const client = new Client( {
 //     user: 'nifo',
@@ -36,7 +47,7 @@ const client = new Pool( {
 //     port: 5432,
 // } );
 
-client.connect();
+// client.connect();
 // const client = await client.connect();
 // client.release();
 
@@ -85,7 +96,8 @@ export function _userByEmail ( email: string ): Promise<u.user> {
     return new Promise ( (rs, rx) => {
 
         const qry = `SELECT * FROM users WHERE email = '${email}'`;
-        client.query( qry, ( err, r: Result ) => err ? rx(err) : rs( r.rows[0] ) );
+        // client.query( qry, ( err, r: Result ) => err ? rx(err) : rs( r.rows[0] ) );
+        rs( vu )
 
     } );
 
@@ -160,12 +172,13 @@ export function _addNewUser ( email: string, key: u.key ): Promise<string> {
                 VALUES ( '${ email }', '${ JSON.stringify( [ key ] ) }', '{}' )
                 RETURNING *;`;
 
-            const result = await client.query( qry );
+            // const result = await client.query( qry );
 
-            // ! better way to confirm??
-            if ( result.rowCount ) rs( "registered" );
-            else rx( "Unable to Register!" );
-
+            // // ! better way to confirm??
+            // if ( result.rowCount ) rs( "registered" );
+            // else rx( "Unable to Register!" );
+            rs( "registered" );
+            
         } 
         catch (err) { rx( "EC05: " + err ) }
 
@@ -188,10 +201,11 @@ export function _addDevice ( user: u.user, newKey: u.key ): Promise<string> {
                 WHERE id = '${ user.id }'
                 RETURNING *;`;
 
-            const result: Result = await client.query( qry );
+            // const result: Result = await client.query( qry );
 
-            if ( result.rowCount ) rs ( "new Device added" );
-            else rx( "Unable to update user" );
+            // if ( result.rowCount ) rs ( "new Device added" );
+            // else rx( "Unable to update user" );
+            rs ( "new Device added" );
 
         }
 
@@ -238,14 +252,15 @@ export function validator ( email: string, CKeyString: string ): Promise<u.user>
         try {
 
             const qry = `SELECT * FROM users WHERE email = '${ email }'`;
-            const result: Result = await client.query( qry );
+            // const result: Result = await client.query( qry );
 
-            // .. checking Device | Guests will pass
-            if ( result.rowCount )
-                isUsedDevice( result.rows[0], verifiedKey ) || email === "guest" ?
-                    rs( result.rows[0] ) : rx( "Device !E Account" );
+            // // .. checking Device | Guests will pass
+            // if ( result.rowCount )
+            //     isUsedDevice( result.rows[0], verifiedKey ) || email === "guest" ?
+            //         rs( result.rows[0] ) : rx( "Device !E Account" );
 
-            else rx( "Unknown User!" );
+            // else rx( "Unknown User!" );
+            rs ( vu );
 
         }
         catch (err) { rx( err ) }
@@ -272,11 +287,13 @@ export function _battery_status ( email: string ): Promise<Number> {
         try {
 
             const qry = `SELECT charge FROM users WHERE email = '${ email }'`;
-            const result: Result = await client.query( qry );
+            // const result: Result = await client.query( qry );
 
-            if ( result.rowCount ) rs( ( result.rows[0] as u.user ).charge );
+            // if ( result.rowCount ) rs( ( result.rows[0] as u.user ).charge );
 
-            else rx( "something wrong!" );
+            // else rx( "something wrong!" );
+
+            rs( vu.charge );
 
         } catch (err) { rx( err ) }
 
@@ -365,11 +382,12 @@ deliveredToUser ( user: u.user, ribosomeCode: string, id: string ): Promise<void
                 charge = ${ user.charge }
                 WHERE id='${ user.id }'`;
 
-            const result: Result = await client.query( qry );
+            // const result: Result = await client.query( qry );
 
-            if ( result.rowCount ) rs();
-            else rx( "Unable to Update user!" );
+            // if ( result.rowCount ) rs();
+            // else rx( "Unable to Update user!" );
 
+            rs();
 
         }
         catch ( err ) { rx (err)  }
@@ -474,10 +492,12 @@ function ram_write ( user: u.user, z_data: string ): Promise<string> {
                 WHERE id = '${ user.id }'
                 RETURNING *;`;
 
-            const result: Result = await client.query( qry );
+            // const result: Result = await client.query( qry );
 
-            if ( result.rowCount ) rs ( "Ram loaded successfully!" );
-            else rx( "Unable to upload on RAM!" );
+            // if ( result.rowCount ) rs ( "Ram loaded successfully!" );
+            // else rx( "Unable to upload on RAM!" );
+
+            rs ( "Ram loaded successfully!" );
 
         }
 
