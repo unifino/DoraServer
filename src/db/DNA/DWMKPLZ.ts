@@ -7,97 +7,97 @@ export const DNA: g.gene[] = [
 	// 	"title"		: "",
 	// 	"text"		: "",
 	// 	"avatarURL"	: "",
-	// 	"mediaURL"	: ""
+	// 	"mediaURL"	: "https://radiodownloaddw-a.akamaihd.net/downloads/Events/dwelle/deutschkurse/marktplatz/deu/Marktplatz_Deutsch_Lektion01.mp3"
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
 	// 	"avatarURL"	: "",
-	// 	"mediaURL"	: ""
+	// 	"mediaURL"	: "https://radiodownloaddw-a.akamaihd.net/downloads/Events/dwelle/deutschkurse/marktplatz/deu/Marktplatz_Deutsch_Lektion02.mp3"
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
 	// 	"avatarURL"	: "",
-	// 	"mediaURL"	: ""
+	// 	"mediaURL"	: "https://radiodownloaddw-a.akamaihd.net/downloads/Events/dwelle/deutschkurse/marktplatz/deu/Marktplatz_Deutsch_Lektion03.mp3"
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
 	// 	"avatarURL"	: "",
-	// 	"mediaURL"	: ""
+	// 	"mediaURL"	: "https://radiodownloaddw-a.akamaihd.net/downloads/Events/dwelle/deutschkurse/marktplatz/deu/Marktplatz_Deutsch_Lektion04.mp3"
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
 	// 	"avatarURL"	: "",
-	// 	"mediaURL"	: ""
+	// 	"mediaURL"	: "https://radiodownloaddw-a.akamaihd.net/downloads/Events/dwelle/deutschkurse/marktplatz/deu/Marktplatz_Deutsch_Lektion05.mp3"
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
 	// 	"avatarURL"	: "",
-	// 	"mediaURL"	: ""
+	// 	"mediaURL"	: "https://radiodownloaddw-a.akamaihd.net/downloads/Events/dwelle/deutschkurse/marktplatz/deu/Marktplatz_Deutsch_Lektion06.mp3"
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
 	// 	"avatarURL"	: "",
-	// 	"mediaURL"	: ""
+	// 	"mediaURL"	: "https://radiodownloaddw-a.akamaihd.net/downloads/Events/dwelle/deutschkurse/marktplatz/deu/Marktplatz_Deutsch_Lektion07.mp3"
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
 	// 	"avatarURL"	: "",
-	// 	"mediaURL"	: ""
+	// 	"mediaURL"	: "https://radiodownloaddw-a.akamaihd.net/downloads/Events/dwelle/deutschkurse/marktplatz/deu/Marktplatz_Deutsch_Lektion08.mp3"
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
 	// 	"avatarURL"	: "",
-	// 	"mediaURL"	: ""
+	// 	"mediaURL"	: "https://radiodownloaddw-a.akamaihd.net/downloads/Events/dwelle/deutschkurse/marktplatz/deu/Marktplatz_Deutsch_Lektion09.mp3"
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
 	// 	"avatarURL"	: "",
-	// 	"mediaURL"	: ""
+	// 	"mediaURL"	: "https://radiodownloaddw-a.akamaihd.net/downloads/Events/dwelle/deutschkurse/marktplatz/deu/Marktplatz_Deutsch_Lektion10.mp3"
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
 	// 	"avatarURL"	: "",
-	// 	"mediaURL"	: ""
+	// 	"mediaURL"	: "https://radiodownloaddw-a.akamaihd.net/downloads/Events/dwelle/deutschkurse/marktplatz/deu/Marktplatz_Deutsch_Lektion11.mp3"
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
 	// 	"avatarURL"	: "",
-	// 	"mediaURL"	: ""
+	// 	"mediaURL"	: "https://radiodownloaddw-a.akamaihd.net/downloads/Events/dwelle/deutschkurse/marktplatz/deu/Marktplatz_Deutsch_Lektion12.mp3"
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
 	// 	"avatarURL"	: "",
-	// 	"mediaURL"	: ""
+	// 	"mediaURL"	: "https://radiodownloaddw-a.akamaihd.net/downloads/Events/dwelle/deutschkurse/marktplatz/deu/Marktplatz_Deutsch_Lektion13.mp3"
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
 	// 	"avatarURL"	: "",
-	// 	"mediaURL"	: ""
+	// 	"mediaURL"	: "https://radiodownloaddw-a.akamaihd.net/downloads/Events/dwelle/deutschkurse/marktplatz/deu/Marktplatz_Deutsch_Lektion14.mp3"
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
 	// 	"avatarURL"	: "",
-	// 	"mediaURL"	: ""
+	// 	"mediaURL"	: "https://radiodownloaddw-a.akamaihd.net/downloads/Events/dwelle/deutschkurse/marktplatz/deu/Marktplatz_Deutsch_Lektion15.mp3"
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
 	// 	"avatarURL"	: "",
-	// 	"mediaURL"	: ""
+	// 	"mediaURL"	: "https://radiodownloaddw-a.akamaihd.net/downloads/Events/dwelle/deutschkurse/marktplatz/deu/Marktplatz_Deutsch_Lektion16.mp3"
 	// },
 	{
 		"title"		: "Ausbildung im Betrieb",
@@ -111,55 +111,55 @@ export const DNA: g.gene[] = [
 	// 	"title"		: "",
 	// 	"text"		: "",
 	// 	"avatarURL"	: "",
-	// 	"mediaURL"	: ""
+	// 	"mediaURL"	: "https://radiodownloaddw-a.akamaihd.net/downloads/Events/dwelle/deutschkurse/marktplatz/deu/Marktplatz_Deutsch_Lektion18.mp3"
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
 	// 	"avatarURL"	: "",
-	// 	"mediaURL"	: ""
+	// 	"mediaURL"	: "https://radiodownloaddw-a.akamaihd.net/downloads/Events/dwelle/deutschkurse/marktplatz/deu/Marktplatz_Deutsch_Lektion19.mp3"
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
 	// 	"avatarURL"	: "",
-	// 	"mediaURL"	: ""
+	// 	"mediaURL"	: "https://radiodownloaddw-a.akamaihd.net/downloads/Events/dwelle/deutschkurse/marktplatz/deu/Marktplatz_Deutsch_Lektion20.mp3"
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
 	// 	"avatarURL"	: "",
-	// 	"mediaURL"	: ""
+	// 	"mediaURL"	: "https://radiodownloaddw-a.akamaihd.net/downloads/Events/dwelle/deutschkurse/marktplatz/deu/Marktplatz_Deutsch_Lektion21.mp3"
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
 	// 	"avatarURL"	: "",
-	// 	"mediaURL"	: ""
+	// 	"mediaURL"	: "https://radiodownloaddw-a.akamaihd.net/downloads/Events/dwelle/deutschkurse/marktplatz/deu/Marktplatz_Deutsch_Lektion2.mp3"
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
 	// 	"avatarURL"	: "",
-	// 	"mediaURL"	: ""
+	// 	"mediaURL"	: "https://radiodownloaddw-a.akamaihd.net/downloads/Events/dwelle/deutschkurse/marktplatz/deu/Marktplatz_Deutsch_Lektion23.mp3"
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
 	// 	"avatarURL"	: "",
-	// 	"mediaURL"	: ""
+	// 	"mediaURL"	: "https://radiodownloaddw-a.akamaihd.net/downloads/Events/dwelle/deutschkurse/marktplatz/deu/Marktplatz_Deutsch_Lektion24.mp3"
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
 	// 	"avatarURL"	: "",
-	// 	"mediaURL"	: ""
+	// 	"mediaURL"	: "https://radiodownloaddw-a.akamaihd.net/downloads/Events/dwelle/deutschkurse/marktplatz/deu/Marktplatz_Deutsch_Lektion25.mp3"
 	// },
 	// {
 	// 	"title"		: "",
 	// 	"text"		: "",
 	// 	"avatarURL"	: "",
-	// 	"mediaURL"	: ""
+	// 	"mediaURL"	: "https://radiodownloaddw-a.akamaihd.net/downloads/Events/dwelle/deutschkurse/marktplatz/deu/Marktplatz_Deutsch_Lektion26.mp3"
 	// }
 
 ]

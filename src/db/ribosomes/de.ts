@@ -48,17 +48,17 @@ export const de_r: g.Ribosome[] = [
         contains    : "∞",
         readMode    : "end"
     },
-    {
-        institute   : "de",
-        code        : "DWTPTMA",
-        type        : "audio",
-        level       : "B1",
-        title       : "Top\nThema",
-        avatar      : "https://i0.wp.com/learnoutlive.com/wp-content/uploads/2018/06/g2043.png",
-        source      : "dw.com",
-        contains    : "∞",
-        readMode    : "end"
-    },
+    // {
+    //     institute   : "de",
+    //     code        : "DWTPTMA",
+    //     type        : "audio",
+    //     level       : "B1",
+    //     title       : "Top\nThema",
+    //     avatar      : "https://i0.wp.com/learnoutlive.com/wp-content/uploads/2018/06/g2043.png",
+    //     source      : "dw.com",
+    //     contains    : "∞",
+    //     readMode    : "end"
+    // },
     // {
     //     institute   : "de",
     //     code        : "PSEGERM",
@@ -158,37 +158,37 @@ export const de_r: g.Ribosome[] = [
     //     contains    : null,
     //     readMode    : "start"
     // },
-    {
-        institute   : "de",
-        code        : "DWDALLT",
-        type        : "audio",
-        level       : "C1",
-        title       : "Deutsche im Alltag",
-        avatar      : "https://cdn.pixabay.com/photo/2020/04/28/18/33/key-5105878_960_720.jpg",
-        source      : "dw.com",
-        contains    : "∞",
-        readMode    : "end"
-    },
-    {
-        institute   : "de",
-        code        : "DWSCBAR",
-        type        : "audio",
-        level       : "C1",
-        title       : "Sprachbar",
-        avatar      : "https://cdn.pixabay.com/photo/2017/08/06/01/44/books-2587563_960_720.jpg",
-        source      : "dw.com",
-        contains    : "∞",
-        readMode    : "end"
-    },
-    {
-        institute   : "de",
-        code        : "DWJOJO1",
-        type        : "video",
-        level       : "B1",
-        title       : "Jojo sucht das Glück",
-        avatar      : "https://static.dw.com/image/55651008_401.png",
-        source      : "dw.com",
-        contains    : null,
-        readMode    : "start"
-    },
+    // {
+    //     institute   : "de",
+    //     code        : "DWDALLT",
+    //     type        : "audio",
+    //     level       : "C1",
+    //     title       : "Deutsche im Alltag",
+    //     avatar      : "https://cdn.pixabay.com/photo/2020/04/28/18/33/key-5105878_960_720.jpg",
+    //     source      : "dw.com",
+    //     contains    : "∞",
+    //     readMode    : "end"
+    // },
+    // {
+    //     institute   : "de",
+    //     code        : "DWSCBAR",
+    //     type        : "audio",
+    //     level       : "C1",
+    //     title       : "Sprachbar",
+    //     avatar      : "https://cdn.pixabay.com/photo/2017/08/06/01/44/books-2587563_960_720.jpg",
+    //     source      : "dw.com",
+    //     contains    : "∞",
+    //     readMode    : "end"
+    // },
+    // {
+    //     institute   : "de",
+    //     code        : "DWJOJO1",
+    //     type        : "video",
+    //     level       : "B1",
+    //     title       : "Jojo sucht das Glück",
+    //     avatar      : "https://static.dw.com/image/55651008_401.png",
+    //     source      : "dw.com",
+    //     contains    : null,
+    //     readMode    : "start"
+    // },
 ]
