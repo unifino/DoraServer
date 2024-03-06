@@ -85,14 +85,14 @@ export function user_needs_these ( user: u.user, DNA: g.gene[] ): Promise<number
 
         // ! do we need this??
         // .. create list
-        // for ( let i=0; i < DNA.length; i++ ) list.push( i.toString() );
-        for ( let i=0; i < DNA.length; i++ ) list.push( DNA[i].id );
+        for ( let i=0; i < DNA.length; i++ ) list.push( i.toString() );
 
         // .. first Meet: return result
         if ( !user.gotFromThisRibosome.length ) return rs ( list );
 
         // .. trim list
-        list = list.filter( i => !user.gotFromThisRibosome.includes(i) );
+        // list = list.filter( i => !user.gotFromThisRibosome.includes(i) );
+        list = list.filter( i => !user.gotFromThisRibosome.includes( DNA[i].id ) );
 
         // .. return result
         return list.length ? rs( list ) : rx( "no more lesson" );
