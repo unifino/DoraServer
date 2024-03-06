@@ -46,7 +46,7 @@ export function junk ( ribosome: g.Ribosome ): Promise<g.junk> {
 
 // -- =====================================================================================
 
-export function a_good_gene_4_user ( 
+export function a_good_gene_4_user (
 
     user: u.user,
     DNA: g.gene[],
@@ -85,7 +85,8 @@ export function user_needs_these ( user: u.user, DNA: g.gene[] ): Promise<number
 
         // ! do we need this??
         // .. create list
-        for ( let i=0; i < DNA.length; i++ ) list.push( i.toString() );
+        // for ( let i=0; i < DNA.length; i++ ) list.push( i.toString() );
+        for ( let i=0; i < DNA.length; i++ ) list.push( DNA[i].id );
 
         // .. first Meet: return result
         if ( !user.gotFromThisRibosome.length ) return rs ( list );
