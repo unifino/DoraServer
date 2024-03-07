@@ -1,5 +1,10 @@
 {
   "compilerOptions": {
+    "lib": [
+      "ES6",
+      "ES2016",
+      "DOM",
+      "ScriptHost"],
     "target": "es5",
     "module": "commonjs",
     "outDir": "dist",

@@ -18,6 +18,7 @@ app.use( bodyParser.urlencoded( {
     extended: true,
     parameterLimit: 50000
 } ) );
+// app.use( '/public', express.static('public') );
 
 // -- ============================================================ List of BeautyBGs =======
 

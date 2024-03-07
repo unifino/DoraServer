@@ -8,8 +8,21 @@ export const de_r: g.Ribosome[] = [
         code            : "OFFROAD",
         type            : "video",
         level           : "C1",
-        title           : "My Personal Lessons",
+        title           : "My Personal Video Lessons",
         avatar          : "https://media.istockphoto.com/vectors/offroad-logo-image-vector-id903708298?k=6&m=903708298&s=170667a&w=0&h=ISWFGifTmeT7Aa5imf_KB0L6BLARvJsyEufVvNE8hqI=",
+        source          : "sd",
+        contains        : "∞",
+        readMode        : "start",
+
+    },
+    {
+
+        institute       : "de",
+        code            : "MNTBIKE",
+        type            : "audio",
+        level           : "B2",
+        title           : "My Personal Audio Lessons",
+        avatar          : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUe_WTksAoBdwcjJhdqItmki9awYgqP_Y8Eg&usqp=CAU",
         source          : "sd",
         contains        : "∞",
         readMode        : "start",
