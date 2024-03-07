@@ -22,7 +22,7 @@ export const de_r: g.Ribosome[] = [
         type            : "audio",
         level           : "B2",
         title           : "My Personal Audio Lessons",
-        avatar          : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUe_WTksAoBdwcjJhdqItmki9awYgqP_Y8Eg&usqp=CAU",
+        avatar          : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVczz9lRpLDJ3sFLcvQNDzpTkdv21yeLmmQ&usqp=CAU",
         source          : "sd",
         contains        : "∞",
         readMode        : "start",
