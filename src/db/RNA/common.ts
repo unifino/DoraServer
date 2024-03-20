@@ -92,7 +92,12 @@ export function user_needs_these ( user: u.user, DNA: g.gene[] ): Promise<number
 
         // .. trim list
         // list = list.filter( i => !user.gotFromThisRibosome.includes(i) );
-        list = list.filter( i => !user.gotFromThisRibosome.includes( DNA[i].id ) );
+        list = list.filter( i =>
+            // .. ??? really we need it???
+            DNA[i].hasOwnProperty( "id" ) ?
+            !user.gotFromThisRibosome.includes( DNA[i].id ) :
+            !user.gotFromThisRibosome.includes(i)
+        );
 
         // .. return result
         return list.length ? rs( list ) : rx( "no more lesson" );
