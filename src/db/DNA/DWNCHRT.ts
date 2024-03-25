@@ -31,7 +31,7 @@ export function DNA_maker (): Promise<g.gene[]> {
                     } )
                 } );
             }
-            else rx ( "No News: " + heute.code );
+            else rx ( "No News: " + heute.code + "\n\n" + homePage );
         } );
 
     } );
@@ -51,6 +51,7 @@ function heuteIst () {
     ];
 	
     date = new Date();
+    // .. remove it
     date.setDate(date.getDate() - 2);
 
     let YYYY  = date.getFullYear().toString();
