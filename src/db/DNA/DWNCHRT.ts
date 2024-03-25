@@ -13,7 +13,7 @@ export function DNA_maker (): Promise<g.gene[]> {
     return new Promise ( (rs, rx) => {
 
         let heute = heuteIst();
-        let homeURL = "https://learngerman.dw.com/de/nachrichten/s-8030";
+        let homeURL = "https://learngerman.dw.com/de/langsam-gesprochene-nachrichten/s-60040332";
 
         _( homeURL ).then( homePage => {
             if ( homePage.includes( heute.code ) ) {
@@ -31,7 +31,7 @@ export function DNA_maker (): Promise<g.gene[]> {
                     } )
                 } );
             }
-            else rx ( "No News: " + heute.code + "\n\n" + homePage );
+            else rx ( "No News: " + heute.code );
         } );
 
     } );
