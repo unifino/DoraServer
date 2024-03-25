@@ -24,7 +24,7 @@ export function DNA_maker (): Promise<g.gene[]> {
                         title       : heute.name,
                         text        : my_text( newsPage ),
                         avatarURL   : my_avatar( newsPage ),
-                        mediaURL    : my_audio(homePage),
+                        mediaURL    : my_audio( newsPage ),
                         hPath       : heute.hPath 
                     } ] );
                 } );
