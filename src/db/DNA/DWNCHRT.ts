@@ -17,9 +17,10 @@ export function DNA_maker (): Promise<g.gene[]> {
 
         _( homeURL ).then( homePage => {
             if ( homePage.includes( heute.code ) ) {
+                rx ( newsPage( homePage, heute.code ) )
                 _( newsPage( homePage, heute.code ) ).then( newsPage => {
                     _( audio_page( newsPage ) ).then( audioPage => {
-                        rx ( [avatar( newsPage ),audio( audioPage )] )
+                        // rx ( [avatar( newsPage ),audio( audioPage )] )
                         rs ( [ {
                             model       : MDL,
                             id          : heute.code,
