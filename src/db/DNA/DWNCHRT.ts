@@ -17,8 +17,9 @@ export function DNA_maker (): Promise<g.gene[]> {
 
         _( homeURL ).then( homePage => {
             if ( homePage.includes( heute.code ) ) {
-                _( newsPage( homePage, heute.code ) ).then( newsPage => {
-                    rx("here")
+                rx( newsPage( homePage, heute.code ) );
+                // _( newsPage( homePage, heute.code ) ).then( newsPage => {
+                    // rx("here")
                     // _( audio_page( newsPage ) ).then( audioPage => {
                     //     rs ( [ {
                     //         model       : MDL,
@@ -30,7 +31,7 @@ export function DNA_maker (): Promise<g.gene[]> {
                     //         hPath       : heute.hPath 
                     //     } ] );
                     // } )
-                } );
+                // } );
             }
             else rx ( "No News: " + heute.code );
         } )
