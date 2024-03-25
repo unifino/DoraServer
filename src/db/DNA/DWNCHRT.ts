@@ -16,8 +16,8 @@ export function DNA_maker (): Promise<g.gene[]> {
         let homeURL = "https://learngerman.dw.com/de/langsam-gesprochene-nachrichten/s-60040332";
 
         _( homeURL ).then( homePage => {
-            rx("1")
-            // if ( homePage.includes( heute.code ) ) {
+            if ( homePage.includes( heute.code ) ) {
+                rx( "here" )
             //     _( newsPage( homePage, heute.code ) ).then( newsPage => {
             //         _( audio_page( newsPage ) ).then( audioPage => {
             //             rs ( [ {
@@ -31,9 +31,10 @@ export function DNA_maker (): Promise<g.gene[]> {
             //             } ] );
             //         } )
             //     } );
-            // }
-            // else rx ( "No News: " + heute.code );
-        } ).catch(e=>rx(e));
+            }
+            else rx ( "No News: " + heute.code );
+        } )
+        .catch( e => rx( "EC222: " + e ) );
 
     } );
 
