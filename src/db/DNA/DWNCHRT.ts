@@ -120,7 +120,11 @@ function text ( str: string ) {
     bCutID = str.indexOf( bCut );
     str    = str.substring( 0, bCutID );
 
-    str   = str.replace( re, '' );
+    aCut   = '>';
+    aCutID = str.indexOf( aCut ) + aCut.length;
+    str    = str.substring( aCutID );
+
+    // str    = str.replace( re, '' );
     str    = str.replace( /&nbsp;/g , ' ' );
     str    = str.replace( /&amp;/g , '&' );
     str    = str.replace( /<p>/g , '' );
