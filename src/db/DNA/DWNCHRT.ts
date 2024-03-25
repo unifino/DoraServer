@@ -51,7 +51,7 @@ function heuteIst () {
     ];
 	
     date = new Date();
-    date = new Date( new Date().setDate(new Date().getDate()-1) );
+    date = new Date( new Date().setDate(new Date().getDate()-2) );
     // date.setDate( date.getDate() - 2 );
 
     let YYYY  = date.getFullYear().toString();
