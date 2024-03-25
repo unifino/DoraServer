@@ -109,15 +109,14 @@ function text ( str: string ) {
         aCutID: number,
         bCutID: number;
 
-    aCut   = '<div class="longText">';
+    aCut   = '</header>';
     aCutID = str.indexOf( aCut ) + aCut.length;
-    bCut   = '<!-- detail_toolbox -->';
-    bCutID = str.lastIndexOf( bCut );
-    str    = str.substring( aCutID , bCutID );
+    str    = str.substring( aCutID );
 
-    bCut   = '</div>';
+    bCut   = '</span>';
     bCutID = str.indexOf( bCut );
     str    = str.substring( 0, bCutID );
+
     str    = str.replace( /&nbsp;/g , ' ' );
     str    = str.replace( /&amp;/g , '&' );
     str    = str.replace( /<p>/g , '' );
