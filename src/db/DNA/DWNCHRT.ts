@@ -94,6 +94,8 @@ function newsPage ( str: string , heute: string ) {
 
     str    = str.substring( aCutID , bCutID );
 
+    // str    = "learngerman.dw.com/de" + str;
+
     return str;
 
 }
