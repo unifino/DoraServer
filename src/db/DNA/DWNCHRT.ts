@@ -18,17 +18,16 @@ export function DNA_maker (): Promise<g.gene[]> {
         _( homeURL ).then( homePage => {
             if ( homePage.includes( heute.code ) ) {
                 _( newsPage( homePage, heute.code ) ).then( newsPage => {
-                        rx ( [avatar( newsPage ),my_audio(homePage)] )
-                        rs ( [ {
-                            model       : MDL,
-                            id          : heute.code,
-                            title       : heute.name,
-                            text        : text( newsPage ),
-                            avatarURL   : avatar( newsPage ),
-                            mediaURL    : my_audio(homePage),
-                            hPath       : heute.hPath 
-                        } ] );
-                    } )
+                    rx ( [avatar( newsPage ),my_audio(homePage)] )
+                    rs ( [ {
+                        model       : MDL,
+                        id          : heute.code,
+                        title       : heute.name,
+                        text        : text( newsPage ),
+                        avatarURL   : avatar( newsPage ),
+                        mediaURL    : my_audio(homePage),
+                        hPath       : heute.hPath 
+                    } ] );
                 } );
             }
             else rx ( "No News: " + heute.code );
