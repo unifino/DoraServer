@@ -18,7 +18,7 @@ export function DNA_maker (): Promise<g.gene[]> {
         _( homeURL ).then( homePage => {
             if ( homePage.includes( heute.code ) ) {
                 _( newsPage( homePage, heute.code ) ).then( newsPage => {
-                    _( audio_page( newsPage ) ).then( audioPage => {
+                    _( my_audio_page( newsPage ) ).then( audioPage => {
                         // rx ( [avatar( newsPage ),audio( audioPage )] )
                         rs ( [ {
                             model       : MDL,
@@ -108,9 +108,7 @@ function text ( str: string ) {
     let aCut: string,
         bCut: string,
         aCutID: number,
-        bCutID: number,
-        rgx = '<\/?!?(a|b|i|u)[^>]*>',
-        re  = new RegExp( rgx, 'g' );
+        bCutID: number;
 
     aCut   = '</header>';
     aCutID = str.lastIndexOf( aCut ) + aCut.length;
@@ -124,7 +122,6 @@ function text ( str: string ) {
     aCutID = str.indexOf( aCut ) + aCut.length;
     str    = str.substring( aCutID );
 
-    // str    = str.replace( re, '' );
     str    = str.replace( /&nbsp;/g , ' ' );
     str    = str.replace( /&amp;/g , '&' );
     str    = str.replace( /<p>/g , '' );
@@ -138,6 +135,29 @@ function text ( str: string ) {
     str    = str.replace( /  \n/g , '\n' );
     str    = str.replace( /\n /g , '\n' );
     str    = str.trim();
+
+    return str;
+
+}
+
+// -- =====================================================================================
+
+function my_audio_page ( str: string ) {
+
+    let aCut: string,
+        bCut: string,
+        aCutID: number,
+        bCutID: number;
+
+    bCut    = 'im Originaltempo';
+    bCutID  = str.indexOf( bCut );
+    str     = str.substring( 0, bCutID );
+
+    aCut    = 'href="';
+    aCutID  = str.lastIndexOf( aCut ) + aCut.length;
+    bCut    = '.mp3"';
+    bCutID  = str.lastIndexOf( bCut ) + aCut.length -1;
+    str     = str.substring( aCutID, bCutID );
 
     return str;
 
