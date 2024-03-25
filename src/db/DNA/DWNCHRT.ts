@@ -18,15 +18,14 @@ export function DNA_maker (): Promise<g.gene[]> {
         _( homeURL ).then( homePage => {
             if ( homePage.includes( heute.code ) ) {
                 _( newsPage( homePage, heute.code ) ).then( newsPage => {
-                    _( my_audio_page( newsPage ) ).then( audioPage => {
-                        // rx ( [avatar( newsPage ),audio( audioPage )] )
+                        rx ( [avatar( newsPage ),my_audio(homePage)] )
                         rs ( [ {
                             model       : MDL,
                             id          : heute.code,
                             title       : heute.name,
                             text        : text( newsPage ),
                             avatarURL   : avatar( newsPage ),
-                            mediaURL    : audio( audioPage ),
+                            mediaURL    : my_audio(homePage),
                             hPath       : heute.hPath 
                         } ] );
                     } )
@@ -142,7 +141,7 @@ function text ( str: string ) {
 
 // -- =====================================================================================
 
-function my_audio_page ( str: string ) {
+function my_audio ( str: string ) {
 
     let aCut: string,
         bCut: string,
