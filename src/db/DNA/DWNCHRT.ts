@@ -89,7 +89,7 @@ function newsPage ( str: string , heute: string ) {
     str    = str.substring( aCutID );
  
     aCut   = "href=\"";
-    aCutID = str.indexOf( aCut );
+    aCutID = str.indexOf( aCut ) + aCut.length;
     bCut   = "\">";
     bCutID = str.indexOf( bCut );
 
