@@ -55,7 +55,7 @@ function heuteIst () {
 	
     date = new Date();
     // .. remove it
-    date.setDate(date.getDate() - 2);
+    // date.setDate(date.getDate() - 2);
 
     let YYYY  = date.getFullYear().toString();
     let Month = monthNames[ date.getMonth() ];
@@ -85,42 +85,16 @@ function newsPage ( str: string , heute: string ) {
         tmp: string = str;
 
     // .. get the link
-    aCut   = '<a class="sc-ggIBej jWVvDu teaser"';
+    aCut   = heute;
     aCutID = str.indexOf( aCut );
-    bCut   = heute;
-    bCutID = str.lastIndexOf( bCut );
-    str    = str.substring( aCutID , bCutID );
-
-    aCut   = '<a href="';
+    str    = str.substring( aCutID );
+ 
+    aCut   = "href=\"";
     aCutID = str.indexOf( aCut );
-    bCut   = '<h2 class="linkable">';
-    bCutID = str.lastIndexOf( bCut );
-    str    = str.substring( aCutID , bCutID );
-
-    str    = str.replace( '<a href="' , 'https://earngerman.dw.com' );
-    bCut   = '">';
+    bCut   = "\">";
     bCutID = str.indexOf( bCut );
-    str    = str.substring( 0 , bCutID );
 
-    // .. second try - in mobile type page
-    if ( !str ) {
-
-        str    = tmp;
-
-        aCut   = 'class="basicteaser__anchor basicteaser__anchor--S"';
-        aCutID = str.indexOf( aCut );
-        str    = str.substring( aCutID );
-
-        aCut   = 'href="';
-        aCutID = str.indexOf( aCut );
-        str    = str.substring( aCutID );
-        bCut   = '"';
-        bCutID = str.indexOf( bCut );
-        str    = str.substring( 0 , bCutID );
-
-        str   = 'https://www.dw.com' + str;
-
-    }
+    str    = str.substring( aCutID , bCutID );
 
     return str;
 
