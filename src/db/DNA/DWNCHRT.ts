@@ -51,7 +51,7 @@ function heuteIst () {
     ];
 	
     date = new Date();
-    date.setDate(date.getDate() - 3);
+    date.setDate(date.getDate() - 2);
 
     let YYYY  = date.getFullYear().toString();
     let Month = monthNames[ date.getMonth() ];
