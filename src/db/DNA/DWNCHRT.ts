@@ -13,7 +13,7 @@ export function DNA_maker (): Promise<g.gene[]> {
     return new Promise ( (rs, rx) => {
 
         let heute = heuteIst();
-        let homeURL = "https://learngerman.dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion/de/langsam-gesprochene-nachrichten/s-60040332";
+        let homeURL = "https://learngerman.dw.com/de/langsam-gesprochene-nachrichten/s-60040332";
 
         _( homeURL ).then( homePage => {
             if ( homePage.includes( heute.code ) ) {

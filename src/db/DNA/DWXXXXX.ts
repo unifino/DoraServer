@@ -14,6 +14,7 @@ export function _ ( link: string ): Promise<string> {
             res.setEncoding('utf8');
             res.on( 'data', chunk => html += chunk )
             res.on( "end", () => rs( html ) );
+            res.on( "error", (e) => rx( "PROBLEM: " + e ) );
 
         } );
 
