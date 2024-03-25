@@ -18,7 +18,6 @@ export function DNA_maker (): Promise<g.gene[]> {
         _( homeURL ).then( homePage => {
             if ( homePage.includes( heute.code ) ) {
                 _( newsPage( homePage, heute.code ) ).then( newsPage => {
-                    rx ( [ my_avatar( newsPage ),my_audio( newsPage )] )
                     rs ( [ {
                         model       : MDL,
                         id          : heute.code,
@@ -172,7 +171,7 @@ function my_avatar ( str: string ) {
         bCutID: number;
 
     bCut    = '_401.jpg';
-    bCutID  = str.indexOf( bCut ) + bCut.length -1;
+    bCutID  = str.indexOf( bCut ) + bCut.length;
     str     = str.substring( 0, bCutID );
 
     aCut    = 'content="';
