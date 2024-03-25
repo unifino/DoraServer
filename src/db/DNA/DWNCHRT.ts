@@ -154,7 +154,7 @@ function my_audio ( str: string ) {
     aCut    = 'href="';
     aCutID  = str.lastIndexOf( aCut ) + aCut.length;
     bCut    = '.mp3"';
-    bCutID  = str.lastIndexOf( bCut ) + aCut.length -1;
+    bCutID  = str.lastIndexOf( bCut ) + aCut.length -2;
     str     = str.substring( aCutID, bCutID );
 
     return str;
