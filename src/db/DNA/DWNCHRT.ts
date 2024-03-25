@@ -173,7 +173,7 @@ function my_avatar ( str: string ) {
 
     bCut    = '_401.jpg';
     bCutID  = str.indexOf( bCut );
-    str     = str.substring( 0, bCutID );
+    str     = str.substring( 0, bCutID - bCut.length );
 
     aCut    = 'content="';
     aCutID  = str.lastIndexOf( aCut ) + aCut.length;
