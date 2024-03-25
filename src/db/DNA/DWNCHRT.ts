@@ -108,7 +108,9 @@ function text ( str: string ) {
     let aCut: string,
         bCut: string,
         aCutID: number,
-        bCutID: number;
+        bCutID: number,
+        rgx = '<\/?!?(a|b|i|u)[^>]*>',
+        re  = new RegExp( rgx, 'g' );
 
     aCut   = '</header>';
     aCutID = str.lastIndexOf( aCut ) + aCut.length;
@@ -118,9 +120,13 @@ function text ( str: string ) {
     bCutID = str.indexOf( bCut );
     str    = str.substring( 0, bCutID );
 
+    str   = str.replace( re, '' );
     str    = str.replace( /&nbsp;/g , ' ' );
     str    = str.replace( /&amp;/g , '&' );
     str    = str.replace( /<p>/g , '' );
+    str    = str.replace( /<h2>/g , '' );
+    str    = str.replace( /<\/h2>/g , '' );
+    str    = str.replace( /<span>/g , '' );
     str    = str.replace( /<br>/g , '' );
     str    = str.replace( /<\/p>/g , '' );
     str    = str.replace( /<strong>/g , '\n\n' );
