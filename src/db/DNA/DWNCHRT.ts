@@ -51,7 +51,8 @@ function heuteIst () {
     ];
 	
     date = new Date();
-    date = new Date( date.setDate(date.getDate()-1) );
+    // date = new Date( date.setDate(date.getDate()-1) );
+    date.setDate(date.getDate() - 1);
     // date = new Date( date.setDate(date.getDate()-1) );
     // date.setDate( date.getDate() - 2 );
 
