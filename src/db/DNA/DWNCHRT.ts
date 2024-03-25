@@ -85,7 +85,7 @@ function newsPage ( str: string , heute: string ) {
         tmp: string = str;
 
     // .. get the link
-    aCut   = '<div class="col2 basicTeaser">';
+    aCut   = '<a class="sc-ggIBej jWVvDu teaser"';
     aCutID = str.indexOf( aCut );
     bCut   = heute;
     bCutID = str.lastIndexOf( bCut );
@@ -97,7 +97,7 @@ function newsPage ( str: string , heute: string ) {
     bCutID = str.lastIndexOf( bCut );
     str    = str.substring( aCutID , bCutID );
 
-    str    = str.replace( '<a href="' , 'https://www.dw.com' );
+    str    = str.replace( '<a href="' , 'https://earngerman.dw.com' );
     bCut   = '">';
     bCutID = str.indexOf( bCut );
     str    = str.substring( 0 , bCutID );
