@@ -17,21 +17,19 @@ export function DNA_maker (): Promise<g.gene[]> {
 
         _( homeURL ).then( homePage => {
             if ( homePage.includes( heute.code ) ) {
-                rx( newsPage( homePage, heute.code ) + heute.code );
-                // _( newsPage( homePage, heute.code ) ).then( newsPage => {
-                    // rx("here")
-                    // _( audio_page( newsPage ) ).then( audioPage => {
-                    //     rs ( [ {
-                    //         model       : MDL,
-                    //         id          : heute.code,
-                    //         title       : heute.name,
-                    //         text        : text( newsPage ),
-                    //         avatarURL   : avatar( newsPage ),
-                    //         mediaURL    : audio( audioPage ),
-                    //         hPath       : heute.hPath 
-                    //     } ] );
-                    // } )
-                // } );
+                _( newsPage( homePage, heute.code ) ).then( newsPage => {
+                    _( audio_page( newsPage ) ).then( audioPage => {
+                        rs ( [ {
+                            model       : MDL,
+                            id          : heute.code,
+                            title       : heute.name,
+                            text        : text( newsPage ),
+                            avatarURL   : avatar( newsPage ),
+                            mediaURL    : audio( audioPage ),
+                            hPath       : heute.hPath 
+                        } ] );
+                    } )
+                } );
             }
             else rx ( "No News: " + heute.code );
         } )
