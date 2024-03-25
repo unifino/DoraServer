@@ -172,8 +172,8 @@ function my_avatar ( str: string ) {
         bCutID: number;
 
     bCut    = '_401.jpg';
-    bCutID  = str.indexOf( bCut );
-    str     = str.substring( 0, bCutID - bCut.length );
+    bCutID  = str.indexOf( bCut ) + bCut.length -1;
+    str     = str.substring( 0, bCutID );
 
     aCut    = 'content="';
     aCutID  = str.lastIndexOf( aCut ) + aCut.length;
