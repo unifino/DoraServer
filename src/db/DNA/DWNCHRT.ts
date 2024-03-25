@@ -13,30 +13,26 @@ export function DNA_maker (): Promise<g.gene[]> {
     return new Promise ( (rs, rx) => {
 
         let heute = heuteIst();
-        let homeURL = "https://learngerman.dw.com/de/langsam-gesprochene-nachrichten/s-60040332";
+        let homeURL = "https://learngerman.dwnewsgngmhlplxy6o2twtfgjnrnjxbegbwqx6wnotdhkzt562tszfid.onion/de/langsam-gesprochene-nachrichten/s-60040332";
 
-        try {
-            _( homeURL ).then( homePage => {
-                if ( homePage.includes( heute.code ) ) {
-                    _( newsPage( homePage, heute.code ) ).then( newsPage => {
-                        _( audio_page( newsPage ) ).then( audioPage => {
-                            rs ( [ {
-                                model       : MDL,
-                                id          : heute.code,
-                                title       : heute.name,
-                                text        : text( newsPage ),
-                                avatarURL   : avatar( newsPage ),
-                                mediaURL    : audio( audioPage ),
-                                hPath       : heute.hPath 
-                            } ] );
-                        } )
-                    } );
-                }
-                else rx ( "No News: " + heute.code );
-            } );
-        } catch (err) {
-            rx ( err )
-        }
+        _( homeURL ).then( homePage => {
+            if ( homePage.includes( heute.code ) ) {
+                _( newsPage( homePage, heute.code ) ).then( newsPage => {
+                    _( audio_page( newsPage ) ).then( audioPage => {
+                        rs ( [ {
+                            model       : MDL,
+                            id          : heute.code,
+                            title       : heute.name,
+                            text        : text( newsPage ),
+                            avatarURL   : avatar( newsPage ),
+                            mediaURL    : audio( audioPage ),
+                            hPath       : heute.hPath 
+                        } ] );
+                    } )
+                } );
+            }
+            else rx ( "No News: " + heute.code );
+        } );
 
     } );
 
