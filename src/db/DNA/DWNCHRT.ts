@@ -23,8 +23,8 @@ export function DNA_maker (): Promise<g.gene[]> {
                         model       : MDL,
                         id          : heute.code,
                         title       : heute.name,
-                        text        : text( newsPage ),
-                        avatarURL   : avatar( newsPage ),
+                        text        : my_text( newsPage ),
+                        avatarURL   : my_avatar( newsPage ),
                         mediaURL    : my_audio(homePage),
                         hPath       : heute.hPath 
                     } ] );
@@ -101,7 +101,7 @@ function newsPage ( str: string , heute: string ) {
 
 // -- =====================================================================================
 
-function text ( str: string ) {
+function my_text ( str: string ) {
 
     let aCut: string,
         bCut: string,
@@ -156,6 +156,28 @@ function my_audio ( str: string ) {
     bCut    = '.mp3"';
     bCutID  = str.lastIndexOf( bCut ) + aCut.length -2;
     str     = str.substring( aCutID, bCutID );
+
+    return str;
+
+}
+
+
+// -- =====================================================================================
+
+function my_avatar ( str: string ) {
+
+    let aCut: string,
+        bCut: string,
+        aCutID: number,
+        bCutID: number;
+
+    bCut    = '_401.jpg';
+    bCutID  = str.indexOf( bCut );
+    str     = str.substring( 0, bCutID );
+
+    aCut    = 'content="';
+    aCutID  = str.lastIndexOf( aCut ) + aCut.length;
+    str     = str.substring( aCutID );
 
     return str;
 
