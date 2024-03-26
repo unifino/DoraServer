@@ -16,15 +16,16 @@ export function DNA_maker (): Promise<g.gene[]> {
         let homeURL = "https://learngerman.dw.com/de/langsam-gesprochene-nachrichten/s-60040332";
 
         _( homeURL ).then( homePage => {
+            rx([ heute.code, homePage.includes( heute.code ), newsPage( homePage, heute.code )] )
             if ( homePage.includes( heute.code ) ) {
-                _( newsPage( homePage, heute.code ) ).then( newsPage => {
+                _( newsPage( homePage, heute.code ) ).then( news => {
                     rs ( [ {
                         model       : MDL,
                         id          : heute.code,
                         title       : heute.name,
-                        text        : my_text( newsPage ),
-                        avatarURL   : my_avatar( newsPage ),
-                        mediaURL    : my_audio( newsPage ),
+                        text        : my_text( news ),
+                        avatarURL   : my_avatar( news ),
+                        mediaURL    : my_audio( news ),
                         hPath       : heute.hPath
                     } ] );
                 } );
@@ -92,7 +93,7 @@ function newsPage ( str: string , heute: string ) {
 
     str    = str.substring( aCutID , bCutID );
 
-    str    = "https://learngerman.dw.com" + "str";
+    str    = "https://learngerman.dw.com" + str;
 
     return str;
 
