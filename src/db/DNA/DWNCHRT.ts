@@ -16,8 +16,8 @@ export function DNA_maker (): Promise<g.gene[]> {
         let homeURL = "https://learngerman.dw.com/de/langsam-gesprochene-nachrichten/s-60040332";
 
         _( homeURL ).then( homePage => {
+            homePage = homePage.replace( /<script>.*.<\/script>/g, "" );
             console.log([ heute.code, homePage.includes( heute.code ), newsPage( homePage, heute.code )] )
-            rx([ heute.code, homePage.includes( heute.code ), newsPage( homePage, heute.code )] )
             if ( homePage.includes( heute.code ) ) {
                 _( newsPage( homePage, heute.code ) ).then( news => {
                     rs ( [ {
