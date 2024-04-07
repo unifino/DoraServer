@@ -8,15 +8,21 @@ export const MDL: g.OrganelleType[] = [ "dAudio", "rawText" ];
 
 // -- =====================================================================================
 
-export function DNA_maker (): Promise<g.gene[]> {
+export function DNA_maker ( alreadyGotLessonCodes: string[] ): Promise<g.gene[]> {
 
     return new Promise ( async(rs, rx) => {
 
         let homeURL = "https://learngerman.dw.com/de/langsam-gesprochene-nachrichten/s-60040332";
 
         for ( let i=0; i<7; i++ ) {
+            console.log(i);
             await newsToData( homeURL, i )
-                    .then( gene => rs( gene ) )
+                    .then( gene => {
+                        if ( !alreadyGotLessonCodes.includes( gene[0].id ) ) {
+                            i=8;
+                            rs( gene );
+                        }
+                    } )
                     .catch( err => {
                         // .. you can handle EC12 here
                         if ( err.includes( "EC12" ) ) console.log( err );
