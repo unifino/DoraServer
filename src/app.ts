@@ -154,6 +154,8 @@ app.post( '/x_cell', ( req: express.Request, res: express.Response ) => {
     const ribosomeCode = req.body.r as string;
     const alreadyGotLessons = req.body.l as string[];
 
+    console.log("hatef",alreadyGotLessons);
+    
     // .. Process Request by Users Department
     userActions._cell_delivery( email, CKeyString, ribosomeCode, alreadyGotLessons )
     // .. everything is good
