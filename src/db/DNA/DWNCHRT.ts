@@ -10,30 +10,14 @@ export const MDL: g.OrganelleType[] = [ "dAudio", "rawText" ];
 
 export function DNA_maker (): Promise<g.gene[]> {
 
-    return new Promise ( (rs, rx) => {
+    return new Promise ( async(rs, rx) => {
 
-        let heute = heuteIst();
         let homeURL = "https://learngerman.dw.com/de/langsam-gesprochene-nachrichten/s-60040332";
 
-        _( homeURL ).then( homePage => {
-            // .. PlainText only
-            homePage = homePage.replace( /<script>.*.<\/script>/g, "" );
-            if ( homePage.includes( heute.code ) ) {
-                _( newsPage( homePage, heute.code ) ).then( news => {
-                    rs ( [ {
-                        model       : MDL,
-                        id          : heute.code,
-                        title       : heute.name,
-                        text        : my_text( news ),
-                        avatarURL   : my_avatar( news ),
-                        mediaURL    : my_audio( news ),
-                        hPath       : heute.hPath
-                    } ] );
-                } );
-            }
-            else rx ( "No News: " + heute.code );
-        } )
-        .catch( e => rx( "EC12: " + e ) );
+        for ( let i=0; i<7; i++ )
+            await newsToData( homeURL, i ).then( gene => rs( gene ) );
+
+        rx( "No News: " + tagIst(0).code + " and 7 days earlier" )
 
     } );
 
@@ -41,7 +25,37 @@ export function DNA_maker (): Promise<g.gene[]> {
 
 // -- =====================================================================================
 
-function heuteIst () {
+function newsToData ( url: string, mod: number ): Promise<g.gene[]> {
+
+    let tag = tagIst(mod);
+
+    return new Promise ( (rs, rx) => {
+        _( url ).then( homePage => {
+            // .. PlainText only
+            homePage = homePage.replace( /<script>.*.<\/script>/g, "" );
+            if ( homePage.includes( tag.code ) ) {
+                _( newsPage( homePage, tag.code ) ).then( news => {
+                    rs ( [ {
+                        model       : MDL,
+                        id          : tag.code,
+                        title       : tag.name,
+                        text        : my_text( news ),
+                        avatarURL   : my_avatar( news ),
+                        mediaURL    : my_audio( news ),
+                        hPath       : tag.hPath
+                    } ] );
+                } );
+            }
+            else rx ( "No News: " + tag.code );
+        } )
+        .catch( e => rx( "EC12: " + e ) );
+    } );
+
+}
+
+// -- =====================================================================================
+
+function tagIst ( mod: number ) {
 
     let date: Date,
         code: string;
@@ -52,8 +66,7 @@ function heuteIst () {
     ];
 	
     date = new Date();
-    // .. remove it
-    // date.setDate( date.getDate() -4 );
+    date.setDate( date.getDate() -mod );
 
     let YYYY  = date.getFullYear().toString();
     let Month = monthNames[ date.getMonth() ];
