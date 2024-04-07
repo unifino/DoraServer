@@ -14,10 +14,16 @@ export function DNA_maker (): Promise<g.gene[]> {
 
         let homeURL = "https://learngerman.dw.com/de/langsam-gesprochene-nachrichten/s-60040332";
 
-        for ( let i=0; i<7; i++ )
-            await newsToData( homeURL, i ).then( gene => rs( gene ) );
+        for ( let i=0; i<7; i++ ) {
+            await newsToData( homeURL, i )
+                    .then( gene => rs( gene ) )
+                    .catch( err => {
+                        // .. you can handle EC12 here
+                        if ( err.includes( "EC12" ) ) console.log( err );
+                    } );
+        }
 
-        rx( "No News: " + tagIst(0).code + " and 7 days earlier" )
+        rx( "No News: " + tagIst(0).code + " and 7 days earlier" );
 
     } );
 
@@ -48,6 +54,7 @@ function newsToData ( url: string, mod: number ): Promise<g.gene[]> {
             }
             else rx ( "No News: " + tag.code );
         } )
+        // .. NO REPORT !!!
         .catch( e => rx( "EC12: " + e ) );
     } );
 
