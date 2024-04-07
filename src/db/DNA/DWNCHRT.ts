@@ -13,13 +13,13 @@ export function DNA_maker ( alreadyGotLessonCodes: string[] ): Promise<g.gene[]>
     return new Promise ( async(rs, rx) => {
 
         let homeURL = "https://learngerman.dw.com/de/langsam-gesprochene-nachrichten/s-60040332";
+        let interval = 7;
 
-        for ( let i=0; i<7; i++ ) {
-            console.log(i);
+        for ( let i=0; i<interval; i++ ) {
             await newsToData( homeURL, i )
                     .then( gene => {
                         if ( !alreadyGotLessonCodes.includes( gene[0].id ) ) {
-                            i=8;
+                            i=interval;
                             rs( gene );
                         }
                     } )
