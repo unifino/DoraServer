@@ -4,7 +4,6 @@ import * as u                           from '../types/user'
 import { crypto }                       from './Crypto';
 import * as genetics                    from "../Department/Genetics"
 
-// import * as mysql                            from 'mysql';
 const nodeMailer = require( 'nodemailer' );
 const vu: u.user = {
     id                  : 1                        ,
